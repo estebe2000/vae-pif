@@ -1,177 +1,104 @@
-\chapter{Expérience 1 : Séance de rétro-ingénierie pour l'apprentissage du SQL}
+\chapter{Expérience 1 : Conception et Animation d'une Formation pour Enseignants et Formateurs (Atelier IA et LaTeX des Forgéales)}
 
 \section{Axe 1 : Contexte et intentions pédagogiques}
 
-\subsection{Public et niveau}
+\subsection{Public et niveau de la formation}
 
-Cette séance s'adresse à des élèves de \textbf{Terminale NSI} (Numérique et Sciences Informatiques) \parencite{baccalaureat_nsi}, possédant les notions de base sur le modèle relationnel vues en classe de Première. L'effectif est d'environ 25 élèves, avec des niveaux hétérogènes en programmation mais une certaine familiarité avec les concepts de base de données.
+Cette action de formation s'inscrit dans le cadre de la formation d'adultes (andragogie) et s'adresse spécifiquement à un public de \textbf{professeurs, formateurs académiques et enseignants du supérieur} (lycée et post-bac). Elle a été conçue et animée dans le cadre national des \textbf{Forgéales} \parencite{forge_educative}, un événement organisé par la Forge des Communs Numériques Éducatifs du Ministère de l'Éducation Nationale.
 
-Le programme officiel de NSI \parencite{eduscol_nsi,nsi_programmes} prévoit en terminale l'approfondissement des bases de données relationnelles, incluant la maîtrise du langage SQL pour la création, la manipulation et l'interrogation de bases de données.
+L'objectif de cet atelier est de répondre à un besoin émergent chez les enseignants et formateurs : maîtriser la rédaction scientifique structurée en \LaTeX{} combinée aux capacités d'automatisation de l'Intelligence Artificielle générative pour produire des supports pédagogiques, rapports, thèses et sujets d'examen de haute qualité.
 
-\subsection{Objectifs d'apprentissage}
+\subsection{Objectifs d'ingénierie et d'apprentissage pour adultes}
 
-Les objectifs, reformulés selon la \textbf{Taxonomie de Bloom} \parencite{bloom_taxonomy,anderson_bloom_revised}, visent à mobiliser des niveaux cognitifs élevés, dépassant la simple application technique :
+Conformément aux principes de l'andragogie \parencite{knowles_andragogy}, le dispositif vise l'autonomisation rapide et pratique des apprenants adultes. Les objectifs de formation s'articulent ainsi :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Niveau 1 - Connaissance} : Identifier les commandes SQL fondamentales (SELECT, WHERE, JOIN) et le vocabulaire spécifique (table, attribut, clé primaire).
-    \item \textbf{Niveau 2 - Compréhension} : Expliquer la nécessité de la normalisation pour éviter la redondance et garantir la cohérence des données.
-    \item \textbf{Niveau 3 - Application} : Écrire des requêtes simples pour extraire des informations ciblées d'une base existante.
-    \item \textbf{Niveau 4 - Analyse} : Déduire le schéma relationnel (tables et relations) à partir de l'observation des données brutes et de l'interface du site web (démarche de rétro-ingénierie).
-    \item \textbf{Niveau 5 - Synthèse} : Reconstruire le modèle conceptuel global du système d'information à partir des fragments analysés.
-    \item \textbf{Niveau 6 - Évaluation} : Juger de la pertinence d'un choix de modélisation (ex: choix de la clé primaire) ou de la structure proposée par un pair.
+    \item \textbf{Niveau 1 - Appropriation technologique} : Comprendre les principes de la séparation du fond et de la forme en \LaTeX{} et le fonctionnement des assistants IA de rédaction.
+    \item \textbf{Niveau 2 - Ingénierie documentaire} : Générer des documents légers, durables et vectoriels respectant les standards académiques et d'accessibilité.
+    \item \textbf{Niveau 3 - Intégration de l'IA générative} : Formuler des invites (\textit{prompts}) complexes pour automatiser la mise en page, la structuration des tableaux et la correction de syntaxe.
+    \item \textbf{Niveau 4 - Analyse réflexive des usages} : Évaluer de manière critique la qualité du code produit par l'IA et garantir la souveraineté pédagogique de l'enseignant.
+    \item \textbf{Niveau 5 - Réutilisation et essaimage} : Adapter les modèles proposés à son propre contexte d'enseignement ou de formation de pairs.
 \end{itemize}
 
-Cette structuration montre que la rétro-ingénierie sollicite particulièrement les niveaux supérieurs d'analyse et de synthèse, favorisant une compréhension profonde des concepts.
+\subsection{Support et ingénierie numérique de formation}
 
-\subsection{Support pédagogique et choix didactique}
-
-Le choix stratégique d'utiliser mon site personnel \texttt{pytel.fr/site/} garantit un \textbf{environnement d'apprentissage stable et maîtrisé}. Ce site contient des données structurées que j'ai préparées en amont, incluant volontairement les requêtes SQL directement visibles dans le code source, comme éléments à découvrir par les élèves.
+Pour soutenir cette formation en ligne et garantir un apprentissage autonome synchrone et asynchrone, j'ai développé un site ressource interactif dédié hébergé sur la Forge Éducative : \texttt{pytelsteeve.forge.apps.education.fr/atelier-ia/}.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{annexes/pedagogiques/productions/site-sql.png}
-    \caption{Capture d'écran de l'application "Bibliothèque Scolaire" utilisée pour la séance de rétro-ingénierie.}
-    \label{fig-site-sql}
+    \includegraphics[width=0.9\textwidth]{sources/medias/site-sql.png}
+    \caption{Interface de l'Atelier Pédagogique d'Écriture Structurée avec IA pour Enseignants et Formateurs.}
+    \label{fig-atelier-ia}
 \end{figure}
 
-Cette approche par \textbf{rétro-ingénierie} (illustrée par la Figure \ref{fig-site-sql}) constitue une transposition didactique originale \parencite{chevallard_transposition}. Plutôt que de partir du concept abstrait (le modèle relationnel) vers l'implémentation (le code SQL), je propose l'inverse : partir d'un système concret et fonctionnel pour en déduire les principes de conception.
+Le dispositif repose sur une \textbf{ingénierie de formation hybride} (Figure \ref{fig-atelier-ia}) incluant :
+\begin{itemize}[leftmargin=*]
+    \item Des \textbf{tutoriels pas-à-pas} et fiches mémentos sur la syntaxe \LaTeX{} et l'usage des IA.
+    \item Un catalogue de \textbf{modèles prêts à l'emploi} (sujets de devoir, présentations, rapports de stage, CV).
+    \item Une série de \textbf{challenges et mises en situation} guidées pour pratiquer l'ingénierie d'invite (\textit{prompt engineering}).
+    \item La mise à disposition intégrale des \textbf{sources et du replay} pour la formation continue à distance.
+\end{itemize}
 
-Cette inversion pédagogique trouve ses fondements théoriques dans l'apprentissage par investigation \parencite{investigation_mathia,investigation_edutechwiki}, qui favorise l'engagement cognitif actif des élèves. Le processus d'apprentissage suit ainsi le cycle d'expérience de Kolb et les principes constructivistes de Vygotsky \parencite{vygotsky_mind_society,constructivisme_education,dale_cone}.
+\section{Axe 2 : Déroulement concret de l'action de formation (2 heures + suivi asynchrone)}
 
-\section{Axe 2 : Déroulement concret de la séquence (2 heures)}
+\subsection{Phase 1 - Accroche et démonstration synchrone (30 minutes)}
 
-\subsection{Phase 1 - Exploration libre du système (20 minutes en binômes)}
-
-Les élèves explorent le site avec pour consigne de « lister et décrire les informations présentes comme si vous deviez l'expliquer à un novice ». Cette phase de découverte génère des productions variées :
+Lors de la session en direct des Forgéales (\textit{Démo-Party}), j'anime une présentation interactive devant une communauté d'enseignants et de formateurs connectés au niveau national :
 
 \begin{itemize}[leftmargin=*]
-    \item Schémas conceptuels dessinés à la main
-    \item Diagrammes de flux d'informations
-    \item Descriptions textuelles structurées
-    \item Ébauches de structures de tables (pour les plus avancés)
+    \item \textbf{Sensibilisation aux enjeux du numérique éducatif} : Présentation du bilan carbone et du poids des fichiers (comparatif PDF vectoriel \LaTeX{} vs documents de traitement de texte volumineux).
+    \item \textbf{Démonstration en temps réel} : Génération automatisée d'une structure de document complète à partir d'un prompt rédigé sur un assistant IA (Antigravity/LLMs).
+    \item \textbf{Tissage avec la pratique professionnelle} : Explicitation des gains de productivité pour la préparation de cours et la rédaction d'articles scientifiques.
 \end{itemize}
 
-Cette diversité des productions révèle déjà les différentes stratégies cognitives des élèves face à un problème ouvert. Le travail en binômes hétérogènes favorise la verbalisation des raisonnements et la confrontation des idées, conformément aux principes de l'apprentissage collaboratif \parencite{apprentissage_collaboratif,vygotsky_mind_society}.
+\subsection{Phase 2 - Ateliers pratiques et expérimentation guidée (60 minutes)}
 
-\subsection{Phase 2 - Abstraction et modélisation collective (40 minutes)}
-
-J'anime une discussion collective en posant la question centrale : \textit{« Comment, en tant que concepteur, auriez-vous organisé ces informations ? »}
-
-Cette interrogation amène naturellement les élèves à réfléchir aux problématiques de :
-\begin{itemize}[leftmargin=*]
-    \item \textbf{Redondance} : « Pourquoi ne pas répéter le nom de l'auteur dans chaque article ? »
-    \item \textbf{Intégrité} : « Que se passe-t-il si on modifie le nom d'un auteur à un seul endroit ? »
-    \item \textbf{Organisation} : « Quelles informations regrouper ensemble ? Selon quels critères ? »
-\end{itemize}
-
-J'introduis alors la notion de \textbf{clé primaire} par une analogie parlante. Du point de vue du \textbf{multi-agenda de Bucheton} \parencite{bucheton_postures}, cette phase constitue un moment critique de \textbf{tissage}. Mon activité d'enseignant vise ici à relier l'expérience immédiate et sensible des élèves (le désordre apparent des données, les doublons) aux savoirs savants abstraits (la théorie relationnelle et l'unicité de la clé).
-
-Je maintiens simultanément une préoccupation de \textbf{pilotage} serré pour avancer dans la séance, tout en soignant l'\textbf{atmosphère} pour que les élèves osent formuler des hypothèses, même erronées. L'analogie sert ici d'instrument de tissage pour donner du sens aux concepts techniques.
-
-\subsection{Phase 3 - Découverte guidée du SQL (60 minutes)}
-
-Les élèves découvrent les requêtes SQL directement intégrées dans le code source du site. Dans un premier temps, ils doivent en déduire le fonctionnement « à l'instinct », ce qui favorise une \textbf{approche intuitive} du langage avant sa formalisation.
-
-Cette phase génère beaucoup d'échanges spontanés et d'hypothèses. Je formalise ensuite l'apprentissage en :
-\begin{enumerate}[leftmargin=*]
-    \item Distribuant un glossaire des instructions SQL essentielles
-    \item Explicitant la syntaxe générale (SELECT...FROM...WHERE...)
-    \item Présentant le fichier de création des tables, permettant de comprendre la cohérence entre structure et requêtes
-\end{enumerate}
-
-Cette progression du concret vers l'abstrait respecte le cycle d'apprentissage de Kolb et le principe de construction progressive des savoirs \parencite{dale_cone,constructivisme_education}.
-
-\section{Axe 3 : Résultats et évaluation formative}
-
-\subsection{Productions initiales hétéroclites}
-
-Les premiers schémas papier sont très divers, ce qui me permet de \textbf{diagnostiquer en temps réel} les niveaux de compréhension et les représentations mentales des élèves \parencite{evaluation_formative} :
+Les participants travaillent en autonomie accompagnée sur les défis proposés par le site :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Représentation linéaire} : Certains élèves proposent une seule grande table avec toutes les informations (erreur classique de redondance)
-    \item \textbf{Représentation partielle} : D'autres identifient spontanément plusieurs entités mais sans les liens entre elles
-    \item \textbf{Représentation avancée} : Quelques élèves proposent déjà des structures relationnelles avec identification des relations
+    \item \textbf{Exercice 1 : Rédaction assistée} : Structurer un cours ou une fiche TD complexe en utilisant l'IA pour générer le code de tableaux et d'équations mathématiques.
+    \item \textbf{Exercice 2 : Résolution de bugs et débogage} : Utiliser l'IA pour interpréter les erreurs de compilation \LaTeX{} et ajuster la mise en page.
+    \item \textbf{Accompagnement individualisé} : Réponse en direct dans le tchat de la plateforme et régulation des difficultés d'appropriation des formateurs novices.
 \end{itemize}
 
-Cette hétérogénéité n'est pas un problème mais une richesse pédagogique, permettant de différencier les explications et de valoriser les différents niveaux de compréhension \parencite{pedagogie_active}.
+\subsection{Phase 3 - Bilan, mutualisation et essaimage (30 minutes)}
 
-\subsection{Apprentissage par itération}
+La séance synchrone se conclut par un temps d'échange réflexif sur la transférabilité de la méthode dans les établissements et centres de formation. Les participants sont invités à partager leurs productions sur le dépôt Git de la Forge.
 
-Après mes explications et la présentation du fichier de création des tables, les élèves produisent des schémas bien plus conformes aux attendus. Cette progression visible en une séance illustre l'efficacité de la démarche d'investigation \parencite{investigation_edutechwiki}.
+\section{Axe 3 : Résultats et évaluation du dispositif de formation}
 
-\textbf{Observation qualitative} : Les élèves qui avaient proposé une structure erronée comprennent immédiatement leur erreur en voyant le modèle correct. Ils ne se sentent pas en échec mais enrichis par la découverte. Cette posture positive face à l'erreur est essentielle dans l'apprentissage de l'informatique, qui se base sur l'expérimentation \parencite{dewey_experience_education}.
+\subsection{Résultats quantitatifs et rayonnement}
 
-\subsection{Résultat principal atteint}
-
-À la fin de la séance, les élèves ont compris \textbf{l'importance cruciale de la phase de structuration des données}, même s'ils ne la maîtrisent pas encore entièrement. Le « pourquoi » est acquis avant le « comment », ce qui constitue une base solide pour les séances suivantes.
-
-L'évaluation formative \parencite{evaluation_formative} montre que :
+La formation a bénéficié d'une forte visibilité au sein de la communauté éducative :
 \begin{itemize}[leftmargin=*]
-    \item 95\% des élèves comprennent le principe de clé primaire
-    \item 80\% identifient correctement les redondances dans un schéma incorrect
-    \item 60\% sont capables de proposer une structure relationnelle simple
+    \item \textbf{Participation active} : Plus de 40 enseignants et formateurs connectés lors du direct et des dizaines de vues en replay.
+    \item \textbf{Diffusion nationale} : Référencement de l'atelier sur le portail officiel des Forgéales (\texttt{les-forgeales.forge.apps.education.fr}).
+    \item \textbf{Réutilisation des ressources} : Téléchargement et fork des modèles \LaTeX{} par des collègues formateurs dans plusieurs académies.
 \end{itemize}
 
+\subsection{Évaluation qualitative et retours des apprenants adultes}
 
-
-\section{Axe 4 : Analyse réflexive approfondie}
-
-Cette section propose une relecture critique de l'expérience à la lumière des concepts didactiques et de mon développement professionnel.
-
-\subsection{Analyse a priori : Intentions et hypothèses}
-
-Lors de la conception de cette séquence, mon hypothèse principale était que \textbf{l'ancrage dans le réel} (le site web de l'enseignant) suffirait à lever les obstacles d'abstraction liés au modèle relationnel. Je postulais que :
-\begin{itemize}
-    \item La familiarité avec l'objet "site web" faciliterait la visualisation des données.
-    \item La curiosité de voir "l'envers du décor" motiverait l'entrée dans la syntaxe SQL.
-    \item Le travail en binôme permettrait une régulation sociocognitive suffisante pour surmonter les blocages techniques.
+L'évaluation de la formation (via questionnaires et retours sur le réseau Tchap) met en évidence :
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Levée du frein d'entrée sur \LaTeX{}} : L'IA permet d'éliminer la barrière de la syntaxe complexe pour se concentrer sur la structuration pédagogique du contenu.
+    \item \textbf{Satisfaction sur la posture d'animation} : Clarté des explications, disponibilité des ressources en libre accès et transférabilité immédiate.
 \end{itemize}
 
-Cette analyse a priori s'appuyait sur les travaux de Dewey sur l'expérience \parencite{dewey_experience_education}, supposant que l'expérience vécue précède et facilite la conceptualisation.
+\section{Axe 4 : Analyse réflexive et transférabilité vers le Master MEEF PIF (FFMS)}
 
-\subsection{Analyse de l'activité (Modèle de Goigoux)}
+\subsection{Analyse de l'activité du formateur (Modèle de Saillot et Bucheton)}
 
-Pour approfondir cette analyse réflexive, je mobilise le modèle de \textbf{Roland Goigoux} \parencite{goigoux_analyse_activite} distinguant trois niveaux de tâches, ce qui permet d'éclairer les écarts observés :
+En analysant mon activité lors de cet atelier sous l'angle du multi-agenda de Bucheton \parencite{bucheton_postures}, ma posture a évolué d'une posture de \textit{contrôle/démonstration} au début de la séance vers une posture d'\textit{accompagnement et de lâcher-prise} durant la phase pratique, favorisant la régulation entre pairs et l'autonomie des adultes en formation.
+
+Du point de vue de l'ajustement pédagogique \parencite{saillot_didactique_ajustement}, ce dispositif illustre l'adaptation constante aux besoins hétérogènes des apprenants adultes (formateurs experts en numérique vs enseignants novices en \LaTeX{}).
+
+\subsection{Correspondance avec la maquette FFMS d'Unicaen}
+
+Cette expérience valide directement plusieurs éléments constitutifs (EC) de la maquette du Master MEEF PIF - Parcours FFMS d'Unicaen :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{La tâche prescrite} : Je demandais aux élèves de déduire la structure logique abstraite (tables et relations) à partir de l'observation de l'interface utilisateur.
-    \item \textbf{La tâche redéfinie} : Certains élèves ont interprété la consigne différemment. Pour les uns, il s'agissait de "deviner" le code informatique ; pour d'autres, de redessiner l'interface graphique. Cet écart témoigne d'une difficulté à identifier l'objet de savoir (le modèle de données) derrière l'objet technique (le site).
-    \item \textbf{L'activité réelle} : L'observation, s'appuyant sur les indicateurs de \textbf{performance didactique} de Zaid \parencite{zaid_performances}, révèle une activité cognitive intense mais parfois dispersée. On observe des tatonnements, des verbalisations entre pairs ("mais non, ça c'est le titre, c'est pas la table"), et des essais-erreurs sur papier. Bien que le résultat final (le schéma) n'ait pas été immédiat pour tous, l'activité de recherche a permis de confronter leurs représentations initiales.
+    \item \textbf{EC 124 / 224 - Les démarches d'ingénierie de formation (1 \& 2)} : Conception, scénarisation et mise en œuvre d'un dispositif complet de formation d'adultes.
+    \item \textbf{EC 162 / 262 - Le numérique au service de l'exercice du métier de formateur} : Exploitation experte des outils numériques (Forge, Git, IA générative) pour la formation.
+    \item \textbf{EC 163 / 263 - Technique d'animation et d'entretien pour accompagner l'individu et le collectif} : Animation d'atelier synchrone et accompagnement de formateurs en ligne.
+    \item \textbf{EC 131 / 231 - Les sujets et les collectifs au travail : professionnalité et identité} : Contribution au développement professionnel continu des pairs.
 \end{itemize}
-
-Cet écart entre la tâche prescrite et l'activité réelle confirme que la \textbf{transposition didactique} interne (passer du site au schéma) constituait une rupture cognitive majeure nécessitant un étayage (scaffolding) plus procédural sur la méthode d'analyse.
-
-\subsection{Difficultés imprévues et solutions apportées}
-
-La mise en œuvre a mis en lumière des difficultés spécifiques que j'ai dû traiter par des régulations immédiates.
-
-\subsubsection{Difficultés rencontrées}
-\begin{itemize}[leftmargin=*]
-    \item \textbf{Persistance du raisonnement procédural} : Les élèves, formés à Python, cherchaient à écrire des algorithmes (boucles \texttt{for}) pour interroger la base, au lieu d'utiliser la logique déclarative du SQL. C'est un obstacle didactique classique documenté dans la littérature.
-    \item \textbf{Surcharge cognitive} : La double tâche (comprendre le modèle relationnel + apprendre la syntaxe SQL) a saturé la mémoire de travail de certains élèves fragiles.
-    \item \textbf{Confusion sémantique} : Difficulté à distinguer "donnée" (ex: "Victor Hugo") et "métadonnée" (ex: "Nom de l'auteur").
-\end{itemize}
-
-\subsubsection{Solutions et régulations mises en œuvre}
-Face à ces imprévus, j'ai apporté les solutions suivantes :
-\begin{enumerate}[leftmargin=*]
-    \item \textbf{Médiation par l'analogie} : Utilisation de l'image du "tableau Excel géant" découpé en petits morceaux pour expliquer les jointures, ce qui a permis de raccrocher à une représentation connue.
-    \item \textbf{Découplage des tâches} : J'ai temporairement mis de côté la syntaxe SQL pour revenir au langage naturel ("Donne-moi les livres écrits par..."), permettant de valider la logique avant de coder.
-    \item \textbf{Étayage par les pairs} : J'ai réorganisé certains binômes pour mixer un élève "procédural" avec un élève plus à l'aise avec l'abstraction.
-\end{enumerate}
-
-\subsection{Axes d'amélioration et perspectives}
-
-Fort de cette analyse, je propose les améliorations suivantes pour les futures itérations :
-
-\subsubsection{Améliorations didactiques}
-\begin{itemize}
-    \item \textbf{Phase débranchée préalable} : Introduire une activité papier-crayon de manipulation de cartes (données) à relier entre elles (relations) avant même d'allumer l'ordinateur, pour installer le modèle mental.
-    \item \textbf{Rituel "SQL du jour"} : Proposer une mini-énigme SQL en début de chaque cours pour automatiser la syntaxe et libérer de la charge cognitive pour la modélisation.
-\end{itemize}
-
-\subsubsection{Perspective de recherche}
-Cette expérience nourrit ma réflexion sur l'usage de l'IA générative pour créer des \textbf{scénarios de rétro-ingénierie personnalisés}. On pourrait imaginer une IA générant des "faux sites" avec des erreurs de conception structurelle que les élèves devraient diagnostiquer, transformant l'erreur en outil pédagogique \parencite{luckin_ai_education}.
-
-\subsection{Transférabilité professionnelle}
-Cette capacité à analyser ses propres gestes professionnels et à réguler son action pédagogique est au cœur de la compétence de \textbf{praticien réflexif} (BC06). Elle démontre également ma capacité à concevoir des situations d'apprentissage complexes (BC05) et à adapter mon enseignement à la diversité des élèves.
