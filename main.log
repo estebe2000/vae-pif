@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3009,19 +3009,6 @@ Overfull \hbox (3.25917pt too wide) in paragraph at lines 3--3
 
 
 ]
-! Misplaced alignment tab character &.
-<argument> Laboratoires de Raccordement &
-                                          Supervision IA/Sociologie
-l.36 ... Raccordement & Supervision IA/Sociologie}
-                                                   :
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
 Overfull \hbox (3.54227pt too wide) in paragraph at lines 47--48
 \T1/ptm/m/n/12 tyque (élèves/étudiants EBEP, AESH, en-sei-gnants) et mo-dé-li-s
 a-tion des on-to-lo-gies de connais-
@@ -3872,7 +3859,7 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTe
 X/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (120 pages, 8785557 bytes).
+Output written on main.pdf (120 pages, 8785577 bytes).
 PDF statistics:
  1558 PDF objects out of 1728 (max. 8388607)
  309 named destinations out of 1000 (max. 500000)
