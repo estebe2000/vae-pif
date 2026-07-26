@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1543,7 +1543,7 @@ l.40 ... formations qualifiantes}{13}{section.4.2}
 
 
 [4]
-<sources/medias/photo.png, id=241, 311.66437pt x 325.215pt>
+<sources/medias/photo.png, id=244, 311.66437pt x 325.215pt>
 File: sources/medias/photo.png Graphic file (type png)
 <use sources/medias/photo.png>
 Package pdftex.def Info: sources/medias/photo.png  used on input line 181.
@@ -1643,7 +1643,7 @@ Underfull \hbox (badness 7362) in paragraph at lines 350--351
 [14]
 
 [15]
-<sources/medias/p1-moy.png, id=293, 713.66624pt x 713.66624pt>
+<sources/medias/p1-moy.png, id=296, 713.66624pt x 713.66624pt>
 File: sources/medias/p1-moy.png Graphic file (type png)
 <use sources/medias/p1-moy.png>
 Package pdftex.def Info: sources/medias/p1-moy.png  used on input line 577.
@@ -1678,7 +1678,7 @@ Overfull \hbox (4.45125pt too wide) in paragraph at lines 7--8
 com-pé-tences trans-ver-sales ([][]\T1/ptm/m/sc/12 Empowill[]\T1/ptm/m/n/12 ,
  []
 
-<sources/medias/parcours.png, id=338, 1090.0725pt x 607.26875pt>
+<sources/medias/parcours.png, id=341, 1090.0725pt x 607.26875pt>
 File: sources/medias/parcours.png Graphic file (type png)
 <use sources/medias/parcours.png>
 Package pdftex.def Info: sources/medias/parcours.png  used on input line 12.
@@ -1725,7 +1725,7 @@ Chapitre 3.
 
  (partie1/p1_chap4_formation_continue.tex
 Chapitre 4.
-<sources/medias/41.png, id=403, 1090.0725pt x 607.26875pt>
+<sources/medias/41.png, id=406, 1090.0725pt x 607.26875pt>
 File: sources/medias/41.png Graphic file (type png)
 <use sources/medias/41.png>
 Package pdftex.def Info: sources/medias/41.png  used on input line 8.
@@ -1989,7 +1989,7 @@ herche ([]de l'En-sei-gne-ment []\T1/ptm/m/sc/12 supérieur[]\T1/ptm/m/n/12 ,
 )
 
 [24]
-<sources/medias/p2-moy.png, id=468, 793.96625pt x 793.96625pt>
+<sources/medias/p2-moy.png, id=470, 793.96625pt x 793.96625pt>
 File: sources/medias/p2-moy.png Graphic file (type png)
 <use sources/medias/p2-moy.png>
 Package pdftex.def Info: sources/medias/p2-moy.png  used on input line 589.
@@ -2051,7 +2051,7 @@ Overfull \hbox (0.55367pt too wide) in paragraph at lines 1--1
 
 
 ]
-<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=499, page=
+<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=501, page=
 1, 597.19106pt x 845.07718pt>
 File: sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf Graphic f
 ile (type pdf)
@@ -2062,7 +2062,7 @@ avity.pdf , page1 used on input line 33.
 
 
 [29]
-<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=504, page=1, 845.07718pt 
+<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=506, page=1, 845.07718pt 
 x 1195.5867pt>
 File: sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf Graphic file (type pdf)
 <use sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, page 1>
@@ -2163,7 +2163,7 @@ ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
 powill[]\T1/ptm/m/n/12 ,
  []
 
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=1003, 2007.5
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=1005, 2007.5
 pt x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
@@ -2185,7 +2185,7 @@ l.116     \item \textbf
 [41]
 
 [42]
-<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1030, 603.4545
+<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1032, 603.4545
 pt x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
@@ -2193,7 +2193,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
 ).png  used on input line 187.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1031, 594.4207
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1033, 594.4207
 5pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
@@ -2749,7 +2749,7 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 [60])
 
 [61]
-<sources/medias/p3-moy.png, id=1198, 882.29625pt x 882.29625pt>
+<sources/medias/p3-moy.png, id=1200, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
 Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 599.
@@ -3039,7 +3039,7 @@ hercheur|
 [88]
 
 [89]
-<sources/medias/p4-moy.png, id=1348, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=1350, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 764.
@@ -3846,7 +3846,7 @@ Here is how much of TeX's memory you used:
  67617 multiletter control sequences out of 15000+600000
  741445 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,14n,91p,970b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,14n,91p,892b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/estebe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/symbols/msam10.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/fonts
@@ -3855,9 +3855,9 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTe
 X/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (120 pages, 8786882 bytes).
+Output written on main.pdf (120 pages, 8787334 bytes).
 PDF statistics:
- 1559 PDF objects out of 1728 (max. 8388607)
+ 1561 PDF objects out of 1728 (max. 8388607)
  310 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
