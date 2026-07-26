@@ -1,0 +1,824 @@
+\documentclass[12pt,a4paper]{report}
+
+% ===========================
+% PRÉAMBULE - Packages et configuration
+% ===========================
+
+% Encodage et langue
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+
+% Police Times New Roman (conforme aux exigences VAE)
+\usepackage{mathptmx} % Times pour le texte et les maths
+\usepackage[scaled=.90]{helvet} % Helvetica pour sans-serif
+
+\usepackage{courier} % Courier pour monospace
+
+% Packages mathématiques
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+
+% Citations et guillemets français
+\usepackage{csquotes}
+
+% Mise en page
+\usepackage{geometry}
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+
+% Correction de la hauteur d'en-tête pour fancyhdr
+\setlength{\headheight}{14.5pt}
+
+% Graphiques et images
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{arrows,shapes,positioning}
+
+% Hyperliens
+\usepackage[pdfencoding=auto, psdextra, bookmarks=false]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    citecolor=green,
+    pdftitle={Dossier VAE Master MEEF Informatique - Steeve PYTEL},
+    pdfauthor={Steeve PYTEL},
+    pdfsubject={Validation des Acquis de l'Expérience},
+    pdfkeywords={VAE, MEEF, PIF, Ingénierie, Formation}
+}
+
+% En-têtes et pieds de page
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Steeve PYTEL}
+\fancyhead[R]{Master MEEF PIF}
+\fancyfoot[C]{\thepage}
+
+% Titres et sections
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{40pt}
+
+% Table des matières
+\usepackage{tocloft}
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{1}
+
+% Tableaux
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{multirow}
+
+% Couleurs
+\usepackage{xcolor}
+\definecolor{headercolor}{RGB}{0,51,102}
+\definecolor{lightgray}{RGB}{240,240,240}
+
+% Listes
+\usepackage{enumitem}
+
+% Mode paysage pour tableaux larges
+\usepackage{pdflscape}
+
+% Package float pour contrôle placement tableaux
+\usepackage{float}
+
+% Citations et bibliographie
+\usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{tcolorbox}
+% \DeclareLanguageMapping{french}{french-apa}
+\addbibresource{VAE-MEEF-Bibliographie.bib}
+
+% Index
+\usepackage{makeidx}
+\makeindex
+
+% Espacements et paragraphes
+\usepackage{setspace}
+\onehalfspacing
+
+% Commandes personnalisées
+\newcommand{\partie}[1]{\part{#1}}
+\newcommand{\emphasize}[1]{\textbf{\textit{#1}}}
+
+% ===========================
+% DÉBUT DU DOCUMENT
+% ===========================
+
+\begin{document}
+\pagenumbering{roman}
+
+% ===========================
+% PAGE DE TITRE
+% ===========================
+
+\begin{titlepage}
+    \centering
+    
+    % Logo 1 en haut de page
+    \includegraphics[height=3cm]{sources/medias/logo1.png}
+    
+    \vspace{1.5cm}
+    
+    {\Huge\bfseries Validation des acquis de l'expérience\par}
+    \vspace{0.5cm}
+    {\huge\bfseries Dossier de Validation\par}
+    
+    \vspace{2cm}
+    
+    {\LARGE Master MEEF\par}
+    {\LARGE Métiers de l'Enseignement, de l'Éducation et de la Formation\par}
+    \vspace{0.5cm}
+    {\Large\textbf{Mention Pratiques et Ingénierie de la Formation}\par}
+    
+    \vspace{2.5cm}
+    
+    {\Large\textbf{DOSSIER DE M. Steeve PYTEL}\par}
+    \vspace{0.5cm}
+    {\large Année universitaire 2025-2026\par}
+    
+    \vfill
+    
+    % Logo 2 en bas de page remplaçant les informations institutionnelles
+    \includegraphics[height=3cm]{sources/medias/logo2.png}
+    
+\end{titlepage}
+
+% ===========================
+% TABLE DES MATIÈRES
+% ===========================
+
+\setcounter{tocdepth}{1} % Limiter la table des matières à 2 niveaux (chapitre + section)
+\tableofcontents
+\newpage
+
+% ===========================
+% PAGES ADMINISTRATIVES
+% ===========================
+
+\chapter*{Informations personnelles}
+\addcontentsline{toc}{chapter}{Informations personnelles}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{CANDIDAT},fonttitle=\large\bfseries]
+    \begin{minipage}[c]{0.7\textwidth}
+        \textbf{Civilité :} Monsieur\\
+        \textbf{Nom :} PYTEL\\
+        \textbf{Prénom :} Steeve\\
+        \textbf{Date de naissance :} 27/04/1978 (Harfleur 076)\\
+        \textbf{Adresse :} 80 avenue du 8 mai 1945, 76610 Le Havre\\
+        \textbf{Tél :} 07.70.05.26.46\\
+        \textbf{E-mail :} steeve.pytel@univ-lehavre.fr
+    \end{minipage}
+    \hfill
+    \begin{minipage}[c]{0.25\textwidth}
+        \centering
+        \includegraphics[width=0.9\textwidth,keepaspectratio]{sources/medias/photo.png}
+    \end{minipage}
+\end{tcolorbox}
+
+\vspace{1cm}
+
+\begin{tcolorbox}[colback=lightgray!30,colframe=gray,title=\textbf{ENCADREMENT},fonttitle=\large\bfseries]
+    \textbf{ACCOMPAGNATEUR VAE :} [Nom de l'accompagnateur à Caen]\\
+    \textit{Responsable du parcours Formation de formateurs}\\
+    INSPÉ Normandie Caen @ Université de Caen Normandie\\
+    
+    \vspace{0.5cm}
+    \textbf{ENSEIGNANT RÉFÉRENT :} Florian Ouitre
+\end{tcolorbox}
+
+\newpage
+
+% ===========================
+% DÉCLARATION SUR L'HONNEUR
+% ===========================
+
+\chapter*{Déclaration sur l'honneur}
+\addcontentsline{toc}{chapter}{Déclaration sur l'honneur}
+
+Je soussigné, Monsieur Steeve PYTEL, déclare sur l'honneur :
+
+\begin{itemize}[leftmargin=*]
+    \item ne pas faire l'objet d'une mesure pénale ou administrative d'interdiction de présentation devant un jury d'examen ou de validation des acquis de l'expérience
+    \item que toutes les informations fournies sont sincères et véritables
+    \item que la présente demande de VAE constitue l'unique demande pour ce diplôme durant cette année civile
+\end{itemize}
+
+De même, je déclare être pleinement conscient que le plagiat de documents ou d'une partie d'un document publiés sur toutes formes de support, y compris l'internet, constitue une violation des droits d'auteur ainsi qu'une fraude caractérisée. En conséquence, je m'engage à citer toutes les sources que j'ai utilisées pour écrire ce dossier VAE.
+
+\vspace{2cm}
+
+Fait à Le Havre, le \today
+
+\vspace{1.5cm}
+
+Signature
+
+\vspace{2cm}
+
+
+
+\newpage
+
+% ===========================
+% AUTORISATION DE CONSULTATION
+% ===========================
+
+\chapter*{Autorisation de mise en consultation du dossier de VAE}
+\addcontentsline{toc}{chapter}{Autorisation de mise en consultation}
+
+(Lecture du dossier de VAE soumise au consentement de l'intéressé)
+
+Je soussigné, Monsieur Steeve PYTEL : (cocher la mention choisie)
+
+\vspace{0.5cm}
+
+$\square$ Autorise par la présente le département de VAE de l'Université de Caen Normandie à mettre à disposition la consultation de mon dossier de validation par d'autres candidats VAE pour une durée de \makebox[4cm]{\dotfill} (durée souhaitée ou indéterminée). Cette autorisation pourra être révoquée à tout moment. La présente autorisation est personnelle et incessible, et ne s'applique qu'au support explicitement mentionné.
+
+\vspace{0.5cm}
+
+$\square$ N'autorise pas la mise à disposition de mon dossier de VAE à la consultation par d'autres candidats VAE
+
+\vspace{2cm}
+
+Fait à Le Havre, le \today
+
+\vspace{1.5cm}
+
+Signature
+
+\vspace{2cm}
+
+
+
+\newpage
+
+% ===========================
+% FICHE RNCP38152
+% ===========================
+
+\chapter*{Fiche RNCP38152 - Référentiel de compétences}
+\addcontentsline{toc}{chapter}{Fiche RNCP38152}
+
+\section*{Master - Métiers de l'enseignement, de l'éducation et de la formation (MEEF), pratiques et ingénierie de la formation}
+
+Cette fiche présente le référentiel de compétences du Master MEEF Pratiques et Ingénierie de la Formation (PIF) tel que défini par le Répertoire National des Certifications Professionnelles sous le numéro RNCP38152.
+
+\section*{Référentiel de compétences RNCP38152}
+
+% Police réduite et format compact pour optimiser l'espace
+{\small\setstretch{1.2}
+
+% Modalités communes pour éviter répétition
+\textit{\textbf{Note} : Pour tous les blocs, les modalités d'évaluation sont adaptées par chaque certificateur : rendu de travaux, mise en situation, évaluation de projet, etc., selon le chemin d'accès (formation initiale, VAE, formation continue).}
+
+\vspace{0.5cm}
+
+\begin{longtable}{|p{4cm}|p{10.5cm}|}
+\caption{Référentiel RNCP38152 - Master MEEF PIF} \\
+\hline
+\textbf{Bloc de compétences} & \textbf{Liste des compétences} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Bloc de compétences} & \textbf{Liste des compétences} \\
+\hline
+\endhead
+
+\textbf{BC01} \newline
+\textit{Mettre en œuvre les usages avancés et spécialisés des outils numériques} &
+• Identifier les usages numériques et les impacts de leur évolution sur le ou les domaines concernés par la mention \newline
+• Se servir de façon autonome des outils numériques avancés pour un ou plusieurs métiers ou secteurs de recherche du domaine \\
+\hline
+
+\textbf{BC02} \newline
+\textit{Mobiliser et produire des savoirs hautement spécialisés} &
+• Mobiliser des savoirs hautement spécialisés, dont certains sont à l'avant-garde du savoir dans un domaine de travail ou d'études \newline
+• Développer une conscience critique des savoirs dans un domaine et/ou à l'interface de plusieurs domaines \newline
+• Résoudre des problèmes pour développer de nouveaux savoirs et de nouvelles procédures \newline
+• Apporter des contributions novatrices dans le cadre d'échanges de haut niveau et dans des contextes internationaux \newline
+• Conduire une analyse réflexive et distanciée pour proposer des solutions adaptées et/ou innovantes \\
+\hline
+
+\textbf{BC03} \newline
+\textit{Mettre en œuvre une communication spécialisée pour le transfert de connaissances} &
+• Identifier, sélectionner et analyser avec esprit critique diverses ressources spécialisées \newline
+• Communiquer à des fins de formation ou de transfert de connaissances, par oral et par écrit, en français et dans au moins une langue étrangère \\
+\hline
+
+\textbf{BC04} \newline
+\textit{Contribuer à la transformation en contexte professionnel} &
+• Gérer des contextes professionnels ou d'études complexes, imprévisibles et nécessitant des approches stratégiques nouvelles \newline
+• Prendre des responsabilités pour contribuer aux savoirs et pratiques professionnelles \newline
+• Conduire un projet (conception, pilotage, coordination, évaluation) mobilisant des compétences pluridisciplinaires \newline
+• Analyser ses actions en situation professionnelle, s'auto-évaluer dans une démarche qualité \newline
+• Respecter les principes d'éthique, de déontologie et de responsabilité environnementale \newline
+• Prendre en compte la problématique du handicap et de l'accessibilité \\
+\hline
+
+\textbf{BC05} \newline
+\textit{Concevoir, piloter et animer des dispositifs ou ingénieries de formation ou de médiation} &
+• Prendre en compte la diversité et les spécificités des publics \newline
+• Recueillir des besoins, formaliser un projet de formation \newline
+• Établir et mettre en œuvre un cahier des charges \newline
+• Mobiliser des savoirs spécialisés (RH, Finances, SI) et les partager \\
+\hline
+
+\textbf{BC06} \newline
+\textit{Situer ses interventions dans un écosystème professionnel, coopérer, co-construire des actions} &
+• Inscrire son action dans un secteur professionnel de formation en s'adaptant au public visé \newline
+• Conduire un projet (de la conception à la diffusion) dans un cadre collaboratif \newline
+• Contribuer à la formation scientifique, technique, pratique et à la performance stratégique d'une équipe \\
+\hline
+
+\textbf{BC07} \newline
+\textit{Produire et diffuser des ressources, des outils, des démarches, et des contenus de formation innovants} &
+• Identifier des besoins en termes de ressources \newline
+• Adapter la production de ressources aux contextes et aux publics visés \newline
+• Faire évoluer les modalités d'enseignement et de diffusion des savoirs \newline
+• Identifier le processus de production, de diffusion et de valorisation des savoirs \\
+\hline
+
+\textbf{BC08} \newline
+\textit{Conduire, piloter et partager une analyse réflexive sur les pratiques} &
+• Accompagner des professionnels en formation dans l'analyse de leurs pratiques et la démarche qualité \newline
+• Intégrer l'actualisation des savoirs dans les objectifs de formation des équipes \newline
+• Former les formateurs à prendre en compte les critiques et à réajuster les pratiques \\
+\hline
+
+\textbf{BC09} \newline
+\textit{S'engager dans une démarche de développement professionnel} &
+• Se tenir informé des évolutions de la recherche scientifique et développer une conscience critique des savoirs \newline
+• Conduire une analyse réflexive et distanciée des situations didactiques/pédagogiques complexes \newline
+• Identifier et analyser diverses ressources spécialisées pour documenter un sujet \newline
+• Développer des ingénieries pédagogiques et didactiques en perspective d'enseignement/recherche \\
+\hline
+
+\end{longtable}
+
+}
+
+\vspace{1cm}
+
+Cette fiche RNCP38152 constitue le référentiel officiel sur lequel s'appuie l'analyse de correspondance développée dans la Partie 3 de ce dossier VAE. Elle définit les 9 blocs de compétences que tout titulaire du Master MEEF Pratiques et Ingénierie de la Formation (PIF) doit maîtriser.
+
+\newpage
+
+% ===========================
+% REMERCIEMENTS
+% ===========================
+
+\chapter*{Remerciements}
+\addcontentsline{toc}{chapter}{Remerciements}
+\enlargethispage{3cm}
+\vspace{-1cm}
+
+{\small
+Je tiens à exprimer ma sincère gratitude à toutes les personnes qui ont contribué à la réalisation de ce dossier de Validation des Acquis de l'Expérience et qui m'ont accompagné dans mon parcours professionnel.
+
+\section*{Accompagnement VAE}
+\vspace{-0.3cm}
+Mes remerciements s'adressent tout particulièrement à :
+\begin{itemize}[leftmargin=*, nosep]
+    \item \textbf{Emmanuel DESMONTILS}, Co-responsable du parcours Informatique du master MEEF 2nd degré à l'INSPÉ de Nantes, pour son accompagnement méthodologique exceptionnel, ses conseils précieux et son expertise dans l'élaboration de ce dossier. Sa double compétence de chercheur (membre du LS2N, équipe VELO) et de pédagogue (Directeur adjoint de l'IREM Pays de Loire) a été déterminante dans la structuration de ma réflexion.
+    \item L'équipe pédagogique de l'INSPÉ Académie de Nantes, pour leur disponibilité et leur expertise
+    \item Les services administratifs, pour leur aide dans les démarches
+\end{itemize}
+
+\section*{Parcours professionnel}
+\vspace{-0.3cm}
+Je remercie également :
+\begin{itemize}[leftmargin=*, nosep]
+    \item Mes collègues et collaborateurs, qui ont enrichi mon expérience professionnelle par leurs échanges et leur collaboration
+    \item Mes responsables hiérarchiques, pour la confiance qu'ils m'ont accordée et les opportunités de développement professionnel
+    \item Les équipes pédagogiques avec lesquelles j'ai eu l'occasion de travailler
+    \item Les apprenants et étudiants, source constante de motivation et d'enrichissement
+\end{itemize}
+
+\section*{Soutien personnel}
+\vspace{-0.3cm}
+Enfin, je souhaite remercier :
+\begin{itemize}[leftmargin=*, nosep]
+    \item Ma famille, pour son soutien inconditionnel et sa patience durant cette démarche
+    \item Mes proches, pour leurs encouragements et leur compréhension
+    \item Toutes les personnes qui ont cru en ce projet et m'ont encouragé à poursuivre cette voie
+\end{itemize}
+
+\vspace{0.2cm}
+
+Cette démarche de VAE représente l'aboutissement d'un parcours riche en expériences et en apprentissages. Elle n'aurait pas été possible sans le soutien et la contribution de toutes ces personnes que je remercie chaleureusement.
+
+\vspace{0.2cm}
+
+\begin{flushright}
+Steeve PYTEL\\
+Novembre 2025
+\end{flushright}
+}
+
+\newpage
+
+% ===========================
+% GLOSSAIRE
+% ===========================
+
+\chapter*{Glossaire}
+\addcontentsline{toc}{chapter}{Glossaire}
+
+Ce glossaire définit les termes techniques, pédagogiques et institutionnels utilisés dans le cadre de ce dossier de Validation des Acquis de l'Expérience (VAE) pour le Master MEEF Informatique.
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{A},fonttitle=\large\bfseries]
+\textbf{Agile} : Méthodologie de développement logiciel privilégiant l'adaptabilité, la collaboration et la livraison itérative de fonctionnalités.
+
+\textbf{Algorithmique} : Science de la conception et de l'analyse d'algorithmes, séquences d'instructions permettant de résoudre un problème ou d'effectuer un calcul.
+
+\textbf{API (Application Programming Interface)} : Interface de programmation permettant à différentes applications de communiquer entre elles.
+
+\textbf{Architecture des systèmes} : Organisation structurelle des composants matériels et logiciels d'un système informatique.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{B},fonttitle=\large\bfseries]
+\textbf{Back-end} : Partie invisible d'une application (serveur, base de données) qui gère la logique et le stockage des données.
+
+\textbf{Bases de données} : Systèmes organisés de stockage, gestion et récupération d'informations structurées.
+
+\textbf{BUT (Bachelor Universitaire de Technologie)} : Diplôme national français de l'enseignement supérieur sanctionnant une formation de trois ans dans un domaine professionnel.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{C},fonttitle=\large\bfseries]
+\textbf{CAPES} : Certificat d'Aptitude au Professorat de l'Enseignement du Second degré.
+
+\textbf{CAPET} : Certificat d'Aptitude au Professorat de l'Enseignement Technique.
+
+\textbf{Compétences transversales} : Aptitudes mobilisables dans différents contextes professionnels et disciplinaires.
+
+\textbf{CREN} : Centre de Recherche en Éducation de Nantes, laboratoire de recherche en sciences de l'éducation.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{D},fonttitle=\large\bfseries]
+\textbf{DevOps} : Pratiques visant à unifier le développement logiciel et l'administration des infrastructures informatiques.
+
+\textbf{Didactique} : Science qui étudie les phénomènes d'enseignement et d'apprentissage spécifiques à une discipline.
+
+\textbf{Différenciation pédagogique} : Adaptation des méthodes d'enseignement aux besoins et caractéristiques individuelles des apprenants.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{E},fonttitle=\large\bfseries]
+\textbf{EIAH (Environnements Informatiques pour l'Apprentissage Humain)} : Champ de recherche et dispositifs numériques conçus pour favoriser et accompagner l'apprentissage.
+
+\textbf{Évaluation formative} : Évaluation continue permettant de réguler les apprentissages en cours de formation.
+
+\textbf{Évaluation par les pairs} : Méthode d'évaluation où les apprenants évaluent mutuellement leurs travaux selon des critères définis.
+
+\textbf{Évaluation sommative} : Évaluation bilan intervenant en fin de séquence d'apprentissage pour mesurer les acquis.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{F},fonttitle=\large\bfseries]
+\textbf{Framework} : Cadre de travail logiciel fournissant une structure et des outils pour développer des applications.
+
+\textbf{Front-end} : Partie visible d'une application informatique avec laquelle interagit directement l'utilisateur.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{G},fonttitle=\large\bfseries]
+\textbf{Git} : Système de contrôle de version distribué pour le suivi des modifications du code source.
+
+\textbf{GitLab} : Plateforme web de gestion de dépôts Git intégrant des outils de développement collaboratif.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{I},fonttitle=\large\bfseries]
+\textbf{IA (Intelligence Artificielle)} : Technologies permettant aux machines de simuler l'intelligence humaine.
+
+\textbf{IDE (Integrated Development Environment)} : Environnement de développement intégré regroupant les outils de programmation.
+
+\textbf{INSPÉ} : Institut National Supérieur du Professorat et de l'Éducation, établissement de formation des enseignants.
+
+\textbf{IUT} : Institut Universitaire de Technologie, établissement d'enseignement supérieur technologique.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{L},fonttitle=\large\bfseries]
+\textbf{LS2N} : Laboratoire des Sciences du Numérique de Nantes, unité mixte de recherche en informatique.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{M},fonttitle=\large\bfseries]
+\textbf{Machine Learning} : Sous-domaine de l'intelligence artificielle permettant aux machines d'apprendre automatiquement.
+
+\textbf{MEEF} : Métiers de l'Enseignement, de l'Éducation et de la Formation.
+
+\textbf{Métacognition} : Connaissance et régulation de ses propres processus cognitifs.
+
+\textbf{Méthodes agiles} : Approches de gestion de projet privilégiant l'adaptation au changement et la satisfaction client.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{N},fonttitle=\large\bfseries]
+\textbf{NSI} : Numérique et Sciences Informatiques. Spécialité du baccalauréat général créée en 2019.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{O},fonttitle=\large\bfseries]
+\textbf{Open Source} : Logiciel dont le code source est librement accessible, modifiable et distribuable.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{P},fonttitle=\large\bfseries]
+\textbf{PCI (Projet Collaboratif Interdisciplinaire)} : Modalité pédagogique du BUT associant plusieurs disciplines autour d'un projet commun.
+
+\textbf{Pédagogie active} : Approches pédagogiques plaçant l'apprenant au centre de son apprentissage par l'action et l'expérimentation.
+
+\textbf{Pédagogie de projet} : Méthode d'enseignement basée sur la réalisation d'un projet concret par les apprenants.
+
+\textbf{POO (Programmation Orientée Objet)} : Paradigme de programmation basé sur le concept d'objets contenant des données et des méthodes.
+
+\textbf{Praticien-chercheur} : Enseignant qui adopte une posture de recherche sur sa propre pratique, articulant savoirs théoriques et savoirs d'action pour améliorer l'enseignement.
+
+\textbf{Python} : Langage de programmation interprété, multi-paradigme et multiplateformes.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{R},fonttitle=\large\bfseries]
+\textbf{Recherche-action} : Méthode de recherche appliquée visant à résoudre des problèmes concrets tout en produisant des connaissances.
+
+\textbf{Réflexivité} : Capacité à analyser et questionner sa propre pratique professionnelle.
+
+\textbf{RGPD (Règlement Général sur la Protection des Données)} : Règlement européen encadrant le traitement des données personnelles.
+
+\textbf{RNCP} : Répertoire National des Certifications Professionnelles.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{S},fonttitle=\large\bfseries]
+\textbf{Scrum} : Framework agile de gestion de projets privilégiant les itérations courtes et l'adaptation continue.
+
+\textbf{SNT (Sciences Numériques et Technologie)} : Enseignement de culture générale numérique obligatoire en classe de seconde générale et technologique.
+
+\textbf{SQL (Structured Query Language)} : Langage informatique normalisé servant à exploiter les bases de données relationnelles.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{T},fonttitle=\large\bfseries]
+\textbf{Transposition didactique} : Processus de transformation des savoirs savants en savoirs enseignables et enseignés.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{U},fonttitle=\large\bfseries]
+\textbf{UML (Unified Modeling Language)} : Langage de modélisation graphique pour visualiser, spécifier et documenter les systèmes logiciels.
+
+\textbf{User Experience (UX)} : Qualité de l'expérience vécue par l'utilisateur lors de l'interaction avec un produit ou service.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{V},fonttitle=\large\bfseries]
+\textbf{VAE} : Validation des Acquis de l'Expérience.
+
+\textbf{Versioning} : Gestion des différentes versions d'un projet logiciel au cours de son développement.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{W},fonttitle=\large\bfseries]
+\textbf{Web développement} : Création et maintenance de sites web, incluant la conception, la programmation et la gestion de contenu.
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=white,colframe=headercolor,title=\textbf{Z},fonttitle=\large\bfseries]
+\textbf{ZPD (Zone Proximale de Développement)} : Concept de Vygotsky désignant l'écart entre ce qu'un apprenant peut faire seul et ce qu'il peut faire avec une aide.
+\end{tcolorbox}
+
+\newpage
+
+% ===================================================================
+% CORPS DU DOCUMENT - INCLUSION DES PARTIES
+% ===================================================================
+
+% ---------------------------
+% ---------------------------
+% PARTIE 1 : DESCRIPTION DU PARCOURS
+% ---------------------------
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\part[Description du parcours]{Description du parcours \\ \vspace{2cm} \includegraphics[width=0.8\textwidth]{sources/medias/p1-moy.png} \\ \vspace{0.5cm} \small \textit{Illustration réalisée avec NotebookLM}}
+\include{partie1/p1_chap1_introduction}
+\include{partie1/p1_chap2_description_parcours}
+\include{partie1/p1_chap3_formation_initiale}
+\include{partie1/p1_chap4_formation_continue}
+\include{partie1/p1_chap5_parcours_detaille}
+\include{partie1/p1_chap6_autres_experiences}
+\include{partie1/p1_chap7_bilan}
+
+% ---------------------------
+% PARTIE 2 : ANALYSE DES EXPÉRIENCES
+% ---------------------------
+\part[Description et analyse des expériences professionnelles]{Description et analyse des expériences professionnelles \\ \vspace{2cm} \includegraphics[width=0.8\textwidth]{sources/medias/p2-moy.png} \\ \vspace{0.5cm} \small \textit{Illustration réalisée avec NotebookLM}}
+\include{partie2/p2_chap1_introduction}
+\include{partie2/p2_chap2_experience_sql}
+\include{partie2/p2_chap3_experience_jeux}
+\include{partie2/p2_chap4_experience_evaluation}
+\include{partie2/p2_chap5_conclusion}
+
+% ---------------------------
+% PARTIE 3 : CORRESPONDANCE RNCP ET PROJET
+% ---------------------------
+\part[Correspondance avec le référentiel RNCP et synthèse des acquis]{Correspondance avec le référentiel RNCP et synthèse des acquis \\ \vspace{2cm} \includegraphics[width=0.8\textwidth]{sources/medias/p3-moy.png} \\ \vspace{0.5cm} \small \textit{Illustration réalisée avec NotebookLM}}
+\include{partie3/p3_chap1_introduction}
+\include{partie3/p3_chap2_analyse_competences}
+\include{partie3/p3_chap3_experiences_exceptionnelles}
+\include{partie3/p3_chap4_synthese_correspondance}
+\include{partie3/p3_chap5_projet_professionnel}
+
+% ===========================
+% CONCLUSION GÉNÉRALE
+% ===========================
+
+\chapter*{Conclusion générale}
+\addcontentsline{toc}{chapter}{Conclusion générale}
+
+Cette démarche de Validation des Acquis de l'Expérience dépasse largement le cadre d'une simple reconnaissance de compétences. Elle constitue l'aboutissement d'une trajectoire professionnelle cohérente et l'acte fondateur d'un engagement renouvelé dans l'éducation et la formation. À travers l'analyse approfondie de mon parcours professionnel et des trois expériences pédagogiques présentées, ce dossier révèle une adéquation exceptionnelle avec les exigences du Master MEEF Informatique tel que défini par le référentiel RNCP38356 \parencite{rncp38356}.
+
+\section*{Un parcours professionnel transformé en expertise pédagogique}
+
+\subsection*{De l'industrie vers l'éducation : une reconversion maîtrisée}
+
+Mon parcours professionnel de 25 années illustre une évolution remarquable : celle d'un expert technique industriel devenu praticien-chercheur en éducation. Cette transformation ne s'est pas opérée par accident, mais résulte d'une réflexion profonde sur le sens de l'engagement professionnel et la volonté de contribuer à la formation des générations futures dans un domaine en perpétuelle mutation \parencite{perrenoud_pratique_reflexive}.
+
+Les 20 années d'expérience en développement logiciel, administration de systèmes complexes et management d'équipes techniques constituent bien plus qu'un simple bagage technique. Elles représentent une compréhension intime des enjeux du numérique contemporain, une capacité éprouvée à résoudre des problèmes complexes et une vision stratégique des évolutions technologiques. Cette expertise, enrichie par une formation continue constante et des certifications professionnelles, couvre exhaustivement les domaines disciplinaires du Master MEEF Informatique.
+
+\subsection*{Une philosophie pédagogique innovante et cohérente}
+
+L'analyse des trois expériences professionnelles révèle l'émergence d'une philosophie pédagogique personnelle, structurée autour de principes forts :
+
+\begin{itemize}[leftmargin=*]
+    \item \textbf{L'apprentissage par investigation} : Placer l'apprenant en position d'enquêteur face à des problématiques authentiques
+    \item \textbf{La collaboration interdisciplinaire} : Décloisonner les apprentissages pour révéler la richesse des interactions entre domaines
+    \item \textbf{L'évaluation équitable et formative} : Transformer l'évaluation en levier d'apprentissage et de développement de l'autonomie
+    \item \textbf{L'innovation méthodologique} : Créer de nouveaux outils pédagogiques pour répondre aux défis contemporains de l'éducation
+\end{itemize}
+
+Cette approche pédagogique ne relève pas de l'application mécanique de recettes, mais témoigne d'une réflexion approfondie sur les finalités éducatives et les moyens de les atteindre. Elle s'appuie sur une solide culture théorique en sciences de l'éducation et se nourrit d'une pratique réflexive constante \parencite{schon_reflective_practitioner}.
+
+\section*{Une contribution unique à la communauté éducative}
+
+\subsection*{Expertise technique au service de l'innovation pédagogique}
+
+Mon profil présente une particularité intéressante dans le paysage de l'enseignement de l'informatique : la combinaison d'une expérience technique industrielle substantielle avec des compétences en ingénierie pédagogique. Cette double expérience me permet de mieux comprendre les besoins de formation, de concevoir des dispositifs pédagogiques en lien avec les évolutions technologiques et de préparer les étudiants aux réalités professionnelles qu'ils rencontreront.
+
+La création du moteur de jeu éducatif, la conception de la méthode de "Notation à l'Enveloppe" ou le développement de supports pédagogiques innovants illustrent cette capacité à mobiliser l'expertise technique au service de l'apprentissage. Ces réalisations témoignent d'un engagement dans l'innovation pédagogique et constituent des éléments significatifs de cette candidature VAE.
+
+\subsection*{Leadership pédagogique et rayonnement institutionnel}
+
+Les expériences présentées révèlent une capacité à fédérer, animer et coordonner des équipes pédagogiques pluridisciplinaires. Le projet de jeu vidéo interdisciplinaire, impliquant 5 enseignants et 40 élèves, témoigne de compétences en animation d'équipe qui s'étendent au-delà du cadre habituel de la classe. Cette aptitude à créer et animer une dynamique collective constitue un atout pour l'évolution vers l'enseignement supérieur et la recherche.
+
+Le rayonnement de ces actions au-delà de l'établissement d'origine, leur reconnaissance institutionnelle et leur documentation rigoureuse en vue d'une diffusion plus large illustrent une posture de praticien-chercheur déjà mature. Cette dimension de recherche-action, essentielle dans la formation des enseignants, est ici pleinement développée \parencite{recherche_action_education}.
+
+\section*{Perspectives d'évolution et projet professionnel}
+
+\subsection*{Vision stratégique de l'enseignement supérieur}
+
+L'obtention du Master MEEF Informatique par VAE s'inscrit dans une démarche professionnelle réfléchie et structurée. Mon affectation actuelle en BUT Techniques de Commercialisation à l'IUT du Havre me permet d'expérimenter progressivement le transfert de mes compétences vers l'enseignement supérieur, même si ce n'est pas directement dans ma discipline de formation.
+
+L'enseignement en IUT présente des spécificités qui résonnent avec les expériences que j'ai développées : public hétérogène nécessitant une adaptation pédagogique, formation professionnalisante valorisant l'expérience du monde de l'entreprise, pédagogie de projet intégrée aux cursus. Ces caractéristiques me permettent d'appliquer progressivement les approches pédagogiques expérimentées dans l'enseignement secondaire.
+
+\subsection*{Contribution à la recherche en éducation}
+
+Mon projet de thèse sur l'impact pédagogique de l'intelligence artificielle dans l'enseignement de l'informatique s'enracine directement dans les questionnements soulevés par ma pratique professionnelle. Cette recherche ne constitue pas une fuite vers l'abstraction théorique, mais l'approfondissement scientifique de problématiques concrètes rencontrées sur le terrain.
+
+Les perspectives de recherche identifiées dans chaque expérience (personnalisation automatique des supports pédagogiques, évaluation objective des compétences transversales, optimisation de la collaboration interdisciplinaire numérique) convergent vers des enjeux majeurs de l'éducation contemporaine \parencite{intelligence_artificielle_education}. Cette cohérence entre pratique professionnelle et projet de recherche témoigne d'une maturité scientifique rare chez un candidat VAE.
+
+\section*{Engagement dans la profession : vision et responsabilités}
+
+\subsection*{Responsabilité éthique et sociale}
+
+Mon engagement dans la profession enseignante dépasse largement la transmission de savoirs techniques. Il s'ancre dans une conviction profonde : celle de la responsabilité éthique et sociale de tout éducateur face aux défis du XXIe siècle. Dans un monde où l'intelligence artificielle transforme radicalement les métiers du numérique, où les enjeux de cybersécurité deviennent critiques, où les questions d'éthique numérique se posent avec acuité, l'enseignant d'informatique porte une responsabilité particulière.
+
+Je m'engage à former non seulement des techniciens compétents, mais des citoyens numériques éclairés, capables de comprendre les enjeux de leur domaine d'expertise et d'agir de manière responsable. Cette dimension citoyenne de l'enseignement de l'informatique constitue l'un des fils rouges de mon projet professionnel \parencite{competences_21_siecle}.
+
+\subsection*{Innovation pédagogique et transformation numérique de l'éducation}
+
+L'évolution rapide des technologies numériques impose aux enseignants d'informatique une responsabilité particulière dans l'innovation pédagogique. Fort de mon expertise technique et de ma capacité démontrée d'innovation méthodologique, je m'engage à contribuer activement à la transformation numérique de l'éducation.
+
+Cette contribution s'articulera autour de trois axes stratégiques :
+
+\subsubsection*{Développement d'outils pédagogiques innovants}
+
+La création de nouveaux outils numériques au service de l'apprentissage, à l'image du moteur de jeu éducatif développé ou de la plateforme d'évaluation par les pairs envisagée. Ces outils, conçus avec une expertise technique de haut niveau et une connaissance fine des besoins pédagogiques, contribueront au patrimoine commun des ressources éducatives libres.
+
+\subsubsection*{Formation des enseignants aux technologies émergentes}
+
+L'accompagnement de mes collègues dans l'appropriation des nouvelles technologies éducatives, particulièrement l'intelligence artificielle. Cette mission de formation des formateurs s'appuie sur ma double expertise technique et pédagogique pour démystifier les technologies complexes et favoriser leur intégration raisonnée dans les pratiques d'enseignement.
+
+\subsubsection*{Recherche appliquée en technologie éducative}
+
+La conduite de recherches appliquées sur l'efficacité pédagogique des technologies numériques, en particulier l'intelligence artificielle. Ces recherches, ancrées dans la pratique de terrain, viseront à produire des connaissances scientifiquement validées et directement transférables dans les pratiques professionnelles.
+
+\subsection*{Engagement institutionnel et rayonnement professionnel}
+
+Mon engagement dans la profession se manifeste également par une participation active à la vie institutionnelle et au rayonnement de la discipline. Cette participation s'articule autour de plusieurs dimensions :
+
+\subsubsection*{Contribution aux instances professionnelles}
+
+Participation active aux groupes de travail institutionnels sur l'évolution des programmes d'informatique, l'intégration de l'intelligence artificielle dans l'enseignement, la définition des compétences numériques du XXIe siècle. Cette contribution s'appuie sur mon expérience de terrain et ma connaissance des enjeux industriels pour éclairer les décisions stratégiques.
+
+\subsubsection*{Diffusion des pratiques innovantes}
+
+Valorisation et diffusion des innovations pédagogiques développées à travers publications scientifiques, communications en colloques, formations d'enseignants. Cette démarche de partage s'inscrit dans une logique de contribution au bien commun éducatif et de développement collectif des pratiques professionnelles.
+
+\subsubsection*{Dialogue avec le monde économique}
+
+Maintien et développement de liens étroits avec le monde de l'entreprise pour assurer l'adéquation entre formation et besoins professionnels. Cette interface, facilitée par mon expérience industrielle, permettra d'anticiper les évolutions des métiers et d'adapter en conséquence les contenus et méthodes de formation.
+
+\subsection*{Formation de la relève et transmission de l'expertise}
+
+L'un des aspects les plus significatifs de mon engagement professionnel réside dans la formation de la nouvelle génération d'enseignants d'informatique. Mon parcours atypique et les compétences développées me positionnent naturellement comme ressource pour l'accompagnement des enseignants débutants.
+
+Cette mission de formation de formateurs s'exercera à travers :
+
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Tutorat des enseignants stagiaires} : Accompagnement personnalisé des nouveaux enseignants dans la construction de leur identité professionnelle
+    \item \textbf{Formation continue} : Animation de stages de formation sur l'innovation pédagogique en informatique
+    \item \textbf{Recherche collaborative} : Encadrement de travaux de recherche sur les pratiques d'enseignement en informatique
+    \item \textbf{Production de ressources} : Élaboration de guides méthodologiques et d'outils d'aide à l'enseignement
+\end{itemize}
+
+\section*{Conclusion prospective : vers une carrière d'enseignant-chercheur}
+
+Ce dossier de VAE marque une étape décisive dans ma trajectoire professionnelle, mais constitue également le point de départ d'un projet ambitieux : devenir un acteur reconnu de l'innovation pédagogique en informatique et contribuer significativement à l'évolution des pratiques d'enseignement dans ce domaine stratégique.
+
+\subsection*{Validation d'un parcours d'excellence}
+
+L'analyse approfondie de mon parcours révèle un niveau de maîtrise qui dépasse largement les attendus du Master MEEF Informatique. Les compétences développées, la capacité d'innovation démontrée, l'impact sur la communauté éducative et le projet de recherche structuré positionnent cette candidature VAE comme exceptionnelle.
+
+Plus qu'une validation d'acquis, ce dossier constitue la démonstration d'une expertise pédagogique de haut niveau, immédiatement transférable vers l'enseignement supérieur et la recherche. Cette expertise, nourrie par une expérience industrielle solide et une pratique réflexive mature, représente une contribution unique au paysage de l'enseignement de l'informatique en France.
+
+\subsection*{Positionnement pour l'avenir}
+
+L'obtention du Master MEEF Informatique par VAE me permettra de concrétiser pleinement mon projet professionnel d'enseignant-chercheur. Cette reconnaissance institutionnelle de mes compétences ouvrira la voie à :
+
+\begin{itemize}[leftmargin=*]
+    \item Une thèse de doctorat sur l'impact pédagogique de l'intelligence artificielle
+    \item Une contribution significative à la recherche en technologie éducative
+    \item Un rayonnement national et international dans le domaine de l'innovation pédagogique
+    \item Une carrière d'enseignant-chercheur au service de la formation des futurs professionnels du numérique
+\end{itemize}
+
+\subsection*{Engagement pour l'avenir de l'éducation}
+
+Au-delà de ma trajectoire personnelle, cet engagement s'inscrit dans une réflexion approfondie sur les enjeux contemporains de l'enseignement de l'informatique. La transformation numérique et l'essor de l'intelligence artificielle nécessitent une adaptation constante des pratiques pédagogiques pour former non seulement des techniciens compétents, mais surtout des citoyens éclairés et responsables.
+
+Je souhaite mettre mon expertise technique et mes compétences pédagogiques au service d'une vision humaniste du numérique. Il s'agit de transmettre aux futurs professionnels les clés de compréhension d'un monde complexe, en alliant maîtrise technologique et conscience éthique. Cette démarche vise à favoriser l'émancipation intellectuelle des étudiants face aux outils qu'ils seront amenés à concevoir et à utiliser.
+
+\vspace{1cm}
+
+\begin{center}
+\textit{\textbf{« L'objectif principal de l'éducation à l'école doit être de créer des hommes et des femmes qui sont capables de faire des choses nouvelles, non pas simplement de répéter ce que les autres générations ont fait. »}} \\
+\vspace{0.2cm}
+\textbf{Jean Piaget}
+\end{center}
+
+\vspace{0.5cm}
+
+C'est dans cet esprit que j'envisage ma future carrière d'enseignant-chercheur : accompagner les étudiants dans la construction de leur propre savoir, stimuler leur créativité et développer leur esprit critique. Ma démarche VAE n'est ainsi pas une fin en soi, mais le point de départ d'un nouvel engagement au service de la transmission et de l'innovation pédagogique.
+
+\newpage
+\pagenumbering{gobble}
+
+% ===========================
+% INCLUSION DES ANNEXES
+% ===========================
+\part[Annexes Illustratives]{Annexes Illustratives \\ \vspace{2cm} \includegraphics[width=0.8\textwidth]{sources/medias/p4-moy.png} \\ \vspace{0.5cm} \small \textit{Illustration réalisée avec NotebookLM}}
+\include{annexes/pedagogiques/p4_chap1_pedagogiques}
+\include{annexes/administratives/p4_chap2_administratives}
+
+% ===========================
+% BIBLIOGRAPHIE
+% ===========================
+
+\chapter*{Bibliographie}
+\addcontentsline{toc}{chapter}{Bibliographie}
+
+% ===========================
+% NOTES DE COMPILATION
+% ===========================
+% Pour générer le document PDF complet avec la table des matières,
+% la bibliographie et l'index, il est impératif de suivre une
+% séquence de compilation spécifique.
+%
+% La séquence recommandée est la suivante :
+%
+% 1. pdflatex main.tex   (Génère les fichiers auxiliaires, .aux, .toc, etc.)
+% 2. biber main         (Traite le fichier .bcf pour la bibliographie)
+% 3. makeindex main.idx (Crée l'index à partir du fichier .idx)
+% 4. pdflatex main.tex   (Intègre la bibliographie et l'index)
+% 5. pdflatex main.tex   (Met à jour les références croisées et la table des matières)
+%
+% Assurez-vous d'exécuter ces commandes dans le terminal, à la racine
+% du projet. Certains éditeurs LaTeX peuvent automatiser ce processus.
+
+\printbibliography[heading=none]
+
+% ===========================
+% INDEX (temporairement désactivé)
+% ===========================
+
+\printindex
+
+
+% ===========================
+% FIN DU DOCUMENT
+% ===========================
+
+\end{document}

@@ -1,0 +1,19 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Développer la pratique réflexive dans le métier d'enseignant (Perrenoud, 2001)}{2}{section.1}%
+\contentsline {section}{\numberline {2}La transposition didactique (Chevallard, 1985)}{2}{section.2}%
+\contentsline {section}{\numberline {3}Les gestes professionnels et le jeu des postures (Bucheton \& Soulé, 2009)}{2}{section.3}%
+\contentsline {section}{\numberline {4}Mind in Society: The Development of Higher Psychological Processes (Vygotsky, 1978)}{2}{section.4}%
+\contentsline {section}{\numberline {5}The Reflective Practitioner (Schön, 1983)}{3}{section.5}%
+\contentsline {section}{\numberline {6}Experience and Education (Dewey, 1938)}{3}{section.6}%
+\contentsline {section}{\numberline {7}Constructivisme et socioconstructivisme (Jonnaert, 2002)}{3}{section.7}%
+\contentsline {section}{\numberline {8}Artificial Intelligence in Education: Promises and Implications (Luckin et al., 2022)}{3}{section.8}%
+\contentsline {section}{\numberline {9}AI and Education: Guidance for Policy Makers (UNESCO, 2019)}{4}{section.9}%
+\contentsline {section}{\numberline {10}Application and theory gaps during the rise of AI in education (Chen et al., 2022)}{4}{section.10}%
+\contentsline {section}{\numberline {11}Intelligence artificielle et éducation (Académie des sciences, 2023)}{4}{section.11}%
+\contentsline {section}{\numberline {12}Éduquer au numérique (Henry \& Boraita, 2021)}{4}{section.12}%
+\contentsline {section}{\numberline {13}Fiche RNCP38356 - Master MEEF Informatique (France Compétences, 2024)}{4}{section.13}%
+\contentsline {section}{\numberline {14}Référentiel des compétences professionnelles des métiers du professorat (MEN, 2013)}{5}{section.14}%
+\contentsline {section}{\numberline {15}Programmes NSI et SNT (Éduscol, 2019/2024)}{5}{section.15}%
+\contentsline {section}{\numberline {16}La société inclusive, parlons-en ! (Gardou, 2012)}{5}{section.16}%
+\contentsline {section}{\numberline {17}Différenciation pédagogique (CNESCO, 2017)}{5}{section.17}%
+\contentsline {section}{\numberline {18}Documentation Python / SQL / W3C (Tech Refs)}{5}{section.18}%

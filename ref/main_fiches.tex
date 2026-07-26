@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\geometry{a4paper, margin=2.5cm}
+
+\title{Fiches de Lecture - Bibliographie VAE\\ \large Master MEEF Informatique}
+\author{Dossier VAE}
+\date{\today}
+
+\newcommand{\fiche}[5]{
+    \section{#2}
+    \noindent\textbf{Référence :} #1 (#3) \\
+    \noindent\textbf{Clé BibTeX :} \texttt{#5}
+    \vspace{0.3cm}
+    \begin{itemize}[leftmargin=*]
+        \item \textbf{Mots-clés :} #4
+        \item \textbf{Concept clé / Résumé :} 
+        
+        #5_resume
+        
+        \item \textbf{Utilité pour le dossier VAE (Praticien-Chercheur) :} 
+        
+        #5_utilite
+        
+        \item \textbf{Citation potentielle :} \textit{"#5_citation"}
+    \end{itemize}
+    \vspace{0.5cm}
+    \hrule
+    \vspace{0.5cm}
+}
+
+% Redefinition pour simplifier l'injection de contenu par l'IA
+% Usage: \section{Titre} ... contenu libre ...
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\input{fiches_content.tex}
+
+\end{document}
