@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1643,12 +1643,10 @@ Underfull \hbox (badness 7362) in paragraph at lines 350--351
 [14]
 
 [15]
-
-[16]
-<sources/medias/p1-moy.png, id=297, 713.66624pt x 713.66624pt>
+<sources/medias/p1-moy.png, id=293, 713.66624pt x 713.66624pt>
 File: sources/medias/p1-moy.png Graphic file (type png)
 <use sources/medias/p1-moy.png>
-Package pdftex.def Info: sources/medias/p1-moy.png  used on input line 597.
+Package pdftex.def Info: sources/medias/p1-moy.png  used on input line 577.
 (pdftex.def)             Requested size: 364.19667pt x 364.19365pt.
 
 
@@ -1680,7 +1678,7 @@ Overfull \hbox (4.45125pt too wide) in paragraph at lines 7--8
 com-pé-tences trans-ver-sales ([][]\T1/ptm/m/sc/12 Empowill[]\T1/ptm/m/n/12 ,
  []
 
-<sources/medias/parcours.png, id=342, 1090.0725pt x 607.26875pt>
+<sources/medias/parcours.png, id=338, 1090.0725pt x 607.26875pt>
 File: sources/medias/parcours.png Graphic file (type png)
 <use sources/medias/parcours.png>
 Package pdftex.def Info: sources/medias/parcours.png  used on input line 12.
@@ -1727,7 +1725,7 @@ Chapitre 3.
 
  (partie1/p1_chap4_formation_continue.tex
 Chapitre 4.
-<sources/medias/41.png, id=407, 1090.0725pt x 607.26875pt>
+<sources/medias/41.png, id=403, 1090.0725pt x 607.26875pt>
 File: sources/medias/41.png Graphic file (type png)
 <use sources/medias/41.png>
 Package pdftex.def Info: sources/medias/41.png  used on input line 8.
@@ -1985,10 +1983,10 @@ herche ([]de l'En-sei-gne-ment []\T1/ptm/m/sc/12 supérieur[]\T1/ptm/m/n/12 ,
 )
 
 [24]
-<sources/medias/p2-moy.png, id=471, 793.96625pt x 793.96625pt>
+<sources/medias/p2-moy.png, id=467, 793.96625pt x 793.96625pt>
 File: sources/medias/p2-moy.png Graphic file (type png)
 <use sources/medias/p2-moy.png>
-Package pdftex.def Info: sources/medias/p2-moy.png  used on input line 609.
+Package pdftex.def Info: sources/medias/p2-moy.png  used on input line 589.
 (pdftex.def)             Requested size: 364.19667pt x 364.19914pt.
 
 
@@ -2035,7 +2033,7 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 25
  (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=495, page=
+<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=491, page=
 1, 597.19106pt x 845.07718pt>
 File: sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf Graphic f
 ile (type pdf)
@@ -2046,7 +2044,7 @@ avity.pdf , page1 used on input line 29.
 
 
 [28]
-<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=501, page=1, 845.07718pt 
+<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=497, page=1, 845.07718pt 
 x 1195.5867pt>
 File: sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf Graphic file (type pdf)
 <use sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, page 1>
@@ -2125,7 +2123,7 @@ ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
 powill[]\T1/ptm/m/n/12 ,
  []
 
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=978, 2007.5p
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=974, 2007.5p
 t x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
@@ -2147,7 +2145,7 @@ l.116     \item \textbf
 [38]
 
 [39]
-<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1006, 603.4545
+<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1002, 603.4545
 pt x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
@@ -2155,7 +2153,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
 ).png  used on input line 187.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1007, 594.4207
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1003, 594.4207
 5pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
@@ -2693,7 +2691,7 @@ Overfull \hbox (62.39992pt too wide) in alignment at lines 239--270
 [51]
 
 [52])
-Overfull \hbox (2.04842pt too wide) in paragraph at lines 335--613
+Overfull \hbox (2.04842pt too wide) in paragraph at lines 335--593
 []\T1/ptm/m/n/12 Cette mé-thode s'ins-pire des pra-tiques d'éva-lua-tion en en-
 tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 , [][]2024[][]), et s'av
 ère
@@ -2726,10 +2724,10 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 [56])
 
 [57]
-<sources/medias/p3-moy.png, id=1173, 882.29625pt x 882.29625pt>
+<sources/medias/p3-moy.png, id=1169, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
-Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 619.
+Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 599.
 (pdftex.def)             Requested size: 364.19667pt x 364.19402pt.
 
 
@@ -2792,7 +2790,7 @@ Overfull \hbox (2.76128pt too wide) in paragraph at lines 111--112
 [65]
 
 [66])
-Overfull \hbox (0.10323pt too wide) in paragraph at lines 228--621
+Overfull \hbox (0.10323pt too wide) in paragraph at lines 228--601
 []\T1/ptm/b/n/12 Niveau de maî-trise : Ac-quis \T1/ptm/m/n/12 - En-ga-ge-ment f
 ort dans une dy-na-mique de chercheur-praticien. 
  []
@@ -2997,7 +2995,7 @@ Overfull \hbox (3.25917pt too wide) in paragraph at lines 3--3
 [80]
 
 [81]
-Overfull \hbox (27.5741pt too wide) in paragraph at lines 739--739
+Overfull \hbox (27.5741pt too wide) in paragraph at lines 719--719
 |\T1/ptm/b/n/17.28 Conclusion pros-pec-tive : vers une car-rière d'enseignant-c
 hercheur| 
  []
@@ -3009,10 +3007,10 @@ hercheur|
 [83]
 
 [84]
-<sources/medias/p4-moy.png, id=1318, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=1314, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
-Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 784.
+Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 764.
 (pdftex.def)             Requested size: 364.19667pt x 364.19914pt.
 
 
@@ -3037,7 +3035,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.785 ...nexes/pedagogiques/p4_chap1_pedagogiques}
+l.765 ...nexes/pedagogiques/p4_chap1_pedagogiques}
                                                    [2
 
 
@@ -3739,9 +3737,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.786 ...administratives/p4_chap2_administratives}
+l.766 ...administratives/p4_chap2_administratives}
                                                    [12]
-Overfull \hbox (39.73424pt too wide) in paragraph at lines 813--813
+Overfull \hbox (39.73424pt too wide) in paragraph at lines 793--793
 \T1/ptm/m/n/12 col-lèges et ly-cées [Cadre na-tio-nal de for-ma-tion des en-sei
 -gnants]. [][]$https : / / www . devenirenseignant .
  []
@@ -3753,19 +3751,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.813 \printbibliography[heading=none]
+l.793 \printbibliography[heading=none]
                                        [13
 
 
 
 ]
-Overfull \hbox (18.71039pt too wide) in paragraph at lines 813--813
+Overfull \hbox (18.71039pt too wide) in paragraph at lines 793--793
 [][][]\T1/ptm/m/sc/12 Ministère de l'Éducation nationale[]\T1/ptm/m/n/12 . (202
 1). Bac-ca-lau-réat spé-cia-lité Nu-mé-rique et Sciences
  []
 
 
-Overfull \hbox (27.80185pt too wide) in paragraph at lines 813--813
+Overfull \hbox (27.80185pt too wide) in paragraph at lines 793--793
 \T1/ptm/m/n/12 pren-tis-sages cri-tiques [Ré-fé-ren-tiel of-fi-ciel BUT In-for-
 ma-tique]. [][]$https : / / www . enseignementsup -[]
  []
@@ -3777,7 +3775,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.813 \printbibliography[heading=none]
+l.793 \printbibliography[heading=none]
                                        [14] (main.ind)
 
 
@@ -3785,7 +3783,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.826 \end{document}
+l.806 \end{document}
                      [15] (main.aux (partie1/p1_chap1_introduction.aux)
 (partie1/p1_chap2_description_parcours.aux)
 (partie1/p1_chap3_formation_initiale.aux)
@@ -3810,10 +3808,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40054 strings out of 468149
- 808753 string characters out of 5430598
+ 40049 strings out of 468149
+ 808661 string characters out of 5430598
  1757731 words of memory out of 5000000
- 67609 multiletter control sequences out of 15000+600000
+ 67605 multiletter control sequences out of 15000+600000
  735816 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,14n,91p,804b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3826,9 +3824,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (116 pages, 8768097 bytes).
+Output written on main.pdf (115 pages, 8766028 bytes).
 PDF statistics:
- 1532 PDF objects out of 1728 (max. 8388607)
- 298 named destinations out of 1000 (max. 500000)
+ 1528 PDF objects out of 1728 (max. 8388607)
+ 297 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
