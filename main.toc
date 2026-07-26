@@ -256,12 +256,13 @@
 \contentsline {subsection}{Posture de praticien-chercheur et formateur de formateurs}{79}{section.16.3}%
 \contentsline {chapter}{\numberline {17}Projet professionnel et perspectives de recherche}{80}{chapter.17}%
 \contentsline {section}{\numberline {17.1}Projet de thèse : \enquote {Conception et Évaluation d'un Écosystème d'IA Co-adaptatif pour l'Inclusion Pédagogique Active}}{80}{section.17.1}%
-\contentsline {subsection}{Cadre et problématique}{80}{section.17.1}%
-\contentsline {subsection}{Méthodologie et calendrier prévisionnel (2026-2029)}{80}{section.17.1}%
+\contentsline {subsection}{Cadre, problématique et gouvernance scientifique}{80}{section.17.1}%
+\contentsline {subsection}{Équipe d'encadrement pluridisciplinaire et internationale constituée}{80}{section.17.1}%
+\contentsline {subsection}{Feuille de route et calendrier opérationnel (Début septembre 2026)}{81}{section.17.1}%
 \contentsline {section}{\numberline {17.2}Trajectoire professionnelle et cohérence du projet VAE}{81}{section.17.2}%
 \contentsline {subsection}{Plan de carrière}{81}{section.17.2}%
-\contentsline {subsection}{Le Master MEEF : un levier stratégique}{81}{section.17.2}%
-\contentsline {chapter}{Conclusion générale}{82}{chapter*.7}%
+\contentsline {subsection}{Le Master MEEF : un levier stratégique}{82}{section.17.2}%
+\contentsline {chapter}{Conclusion générale}{83}{chapter*.7}%
 \contentsline {part}{IV\hspace {1em}Annexes Illustratives}{}{part.4}%
 \contentsline {chapter}{\numberline {18}Annexes Pédagogiques}{}{chapter.18}%
 \contentsline {chapter}{\numberline {19}Annexes Administratives et Justificatifs}{}{chapter.19}%
