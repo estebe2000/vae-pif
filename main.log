@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2187,7 +2187,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file
 (type png)
 <use annexes/pedagogiques/productions/jeux-capture-ecran (1).png>
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
-).png  used on input line 160.
+).png  used on input line 162.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
 
 
@@ -2198,7 +2198,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file
 (type png)
 <use annexes/pedagogiques/productions/jeux-capture-ecran (2).png>
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (2
-).png  used on input line 167.
+).png  used on input line 169.
 (pdftex.def)             Requested size: 364.19667pt x 276.74889pt.
 
 
@@ -2207,198 +2207,198 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.10.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.178     \item \textbf
+l.180     \item \textbf
                        {Pr√©sentation en conseil p√©dagogique} : le projet a...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.3})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.178     \item \textbf
+l.180     \item \textbf
                        {Pr√©sentation en conseil p√©dagogique} : le projet a...
  <./annexes/pedagogiques/productions/jeux-capture-ecran (1).png> <./annexes/ped
 agogiques/productions/jeux-capture-ecran (2).png>]
-Underfull \hbox (badness 10000) in paragraph at lines 200--200
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 []|\T1/ptm/b/n/12 Non ac-quis
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 200--200
+Underfull \hbox (badness 1297) in paragraph at lines 202--202
 []|\T1/ptm/b/n/12 En cours (8-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--200
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 []|\T1/ptm/b/n/12 Acquis (13-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 200--201
+Underfull \hbox (badness 1917) in paragraph at lines 202--203
 []|\T1/ptm/b/n/12 MaÓtrisÈ (17-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\T1/ptm/b/n/12 Non ac-quis
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 204--204
+Underfull \hbox (badness 1297) in paragraph at lines 206--206
 []|\T1/ptm/b/n/12 En cours (8-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\T1/ptm/b/n/12 Acquis (13-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 204--205
+Underfull \hbox (badness 1917) in paragraph at lines 206--207
 []|\T1/ptm/b/n/12 MaÓtrisÈ (17-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 []|\T1/ptm/b/n/12 Programmation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--209
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
 []|\T1/ptm/m/n/12 Code non
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--209
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
 \T1/ptm/m/n/12 fonc-tion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--209
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
 \T1/ptm/m/n/12 nel, er-reurs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []|\T1/ptm/m/n/12 Code fonc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 \T1/ptm/m/n/12 tion-nel et
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 []|\T1/ptm/m/n/12 Code op-ti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 \T1/ptm/m/n/12 misÈ, com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--215
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []|\T1/ptm/b/n/12 Collaboration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 []|\T1/ptm/m/n/12 Travail en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--216
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 \T1/ptm/m/n/12 silo, pas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--217
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
 []|\T1/ptm/m/n/12 …changes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []|\T1/ptm/m/n/12 Collaboration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \T1/ptm/m/n/12 ef-fec-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 []|\T1/ptm/m/n/12 Synergie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 \T1/ptm/m/n/12 crÈa-tive,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 []|\T1/ptm/m/n/12 Planning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--225
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
 []|\T1/ptm/m/n/12 Gestion ef-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--225
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
 \T1/ptm/m/n/12 fi-cace des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 []|\T1/ptm/m/n/12 MÈthodes
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 226--227
+Underfull \hbox (badness 7151) in paragraph at lines 228--229
 \T1/ptm/m/n/12 agiles maÓ-tri-
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 229--229
+Underfull \hbox (badness 4621) in paragraph at lines 231--231
 []|\T1/ptm/b/n/12 IntÈgration des 5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\T1/ptm/m/n/12 Une seule
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \T1/ptm/m/n/12 dis-ci-pline
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/ptm/m/n/12 har-mo-nieu-se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 []|\T1/ptm/m/n/12 Synergie ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 \T1/ptm/m/n/12 cep-tion-nelle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 \T1/ptm/m/n/12 entre toutes
  []
 
 [44]
-Overfull \hbox (28.43317pt too wide) in paragraph at lines 257--258
+Overfull \hbox (28.43317pt too wide) in paragraph at lines 259--260
 []\T1/ptm/b/n/12 …tayage et Pos-tures \T1/ptm/m/n/12 : Ma pos-ture do-mi-nante 
 a glissÈ du \T1/ptm/b/n/12 contrÙle \T1/ptm/m/n/12 (au dÈ-but) ‡ l'\T1/ptm/b/n/
 12 accompagnement
@@ -2409,7 +2409,7 @@ a glissÈ du \T1/ptm/b/n/12 contrÙle \T1/ptm/m/n/12 (au dÈ-but) ‡ l'\T1/ptm/b/n/
 [45]
 
 [46]
-Overfull \hbox (32.5376pt too wide) in paragraph at lines 300--301
+Overfull \hbox (32.5376pt too wide) in paragraph at lines 302--303
 \OMS/ztmcm/m/n/12 !$ \T1/ptm/m/n/12 Ana-lyse des rÈ-sul-tats) est celle d'un pr
 aticien-chercheur ([][]\T1/ptm/m/sc/12 Revue des sciences de l'Èducation[]\T1/p
 tm/m/n/12 ,
@@ -3854,7 +3854,7 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTe
 X/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (120 pages, 8791075 bytes).
+Output written on main.pdf (120 pages, 8791074 bytes).
 PDF statistics:
  1570 PDF objects out of 1728 (max. 8388607)
  315 named destinations out of 1000 (max. 500000)
