@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1981,7 +1981,7 @@ Chapitre 7.
 
 
 ]
-Overfull \hbox (6.0798pt too wide) in paragraph at lines 69--70
+Overfull \hbox (6.0798pt too wide) in paragraph at lines 52--53
 \T1/ptm/m/n/12 ci-pli-naire, com-pé-tences pé-da-go-giques et dé-marche de re-c
 herche ([]de l'En-sei-gne-ment []\T1/ptm/m/sc/12 supérieur[]\T1/ptm/m/n/12 ,
  []
@@ -3816,7 +3816,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  40049 strings out of 468149
  808661 string characters out of 5430598
- 1757731 words of memory out of 5000000
+ 1757732 words of memory out of 5000000
  67605 multiletter control sequences out of 15000+600000
  735816 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3830,7 +3830,7 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (115 pages, 8766192 bytes).
+Output written on main.pdf (115 pages, 8765684 bytes).
 PDF statistics:
  1528 PDF objects out of 1728 (max. 8388607)
  297 named destinations out of 1000 (max. 500000)
