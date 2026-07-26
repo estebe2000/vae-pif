@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1864,6 +1864,12 @@ conti-nue des pra-tiques d'en-sei-gne-ment et d'éva-
 
  (partie1/p1_chap5_parcours_detaille.tex
 Chapitre 5.
+
+Overfull \hbox (1.41078pt too wide) in paragraph at lines 11--11
+|[]\T1/ptm/b/n/17.28 Team Lea-der chez TO-TAL/Stéria puis So-praS-té-ria (2007-
+
+ []
+
 
 
 [17
@@ -3824,7 +3830,7 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (115 pages, 8766028 bytes).
+Output written on main.pdf (115 pages, 8765941 bytes).
 PDF statistics:
  1528 PDF objects out of 1728 (max. 8388607)
  297 named destinations out of 1000 (max. 500000)

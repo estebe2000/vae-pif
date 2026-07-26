@@ -48,13 +48,13 @@
 \contentsline {section}{\numberline {4.7}Synthèse des acquis de formation continue}{15}{section.4.7}%
 \contentsline {chapter}{\numberline {5}Parcours professionnel détaillé}{17}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Vue d'ensemble chronologique}{17}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Expérience 4 : Team Leader chez TOTAL/Stéria puis SopraStéria (2007-2019)}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.2}Team Leader chez TOTAL/Stéria puis SopraStéria (2007-2019)}{17}{section.5.2}%
 \contentsline {subsection}{Contexte et développement professionnel}{17}{section.5.2}%
 \contentsline {subsection}{Évolution des responsabilités (2007-2019)}{17}{section.5.2}%
 \contentsline {subsection}{Synthèse des compétences développées}{18}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Expérience 5 : Enseignant NSI/SNT (Éducation Nationale) 2020-2025}{18}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Enseignant NSI/SNT (Éducation Nationale) 2020-2025}{18}{section.5.3}%
 \contentsline {subsection}{Développement professionnel}{18}{section.5.3}%
-\contentsline {subsection}{Synthèse des compétences enseignantes}{19}{section.5.3}%
+\contentsline {subsection}{Synthèse des compétences enseignantes}{18}{section.5.3}%
 \contentsline {chapter}{\numberline {6}Autres expériences significatives}{20}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Contributeur actif à la Forge des Communs Numériques Éducatifs}{20}{section.6.1}%
 \contentsline {subsection}{Contexte et présentation de l'initiative}{20}{section.6.1}%
