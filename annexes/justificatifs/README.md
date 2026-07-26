@@ -43,7 +43,7 @@ Rassembler tous les documents probants qui étayent et valident les expériences
 
 **Documents spécifiques à inclure :**
 - `contributions_forge_educative.pdf` - 10+ applications sur LaForgeEdu
-- `ressources_home_educ_ai.pdf` - Contributions site home.educ-ai.fr
+- `ressources_ebep_educ_ai.pdf` - Contributions site ebep.educ-ai.fr
 - `presentations_formations_enseignants.pdf` - Supports formation 50+ enseignants
 - `articles_veille_technologique.pdf` - Articles blog/contributions techniques
 - `participations_conferences.pdf` - Certificats participation événements
@@ -98,7 +98,7 @@ Ces documents sont cités dans :
 
 ### Publications/Contributions
 - [ ] Applications LaForgeEdu documentées
-- [ ] Ressources site home.educ-ai.fr
+- [ ] Ressources site ebep.educ-ai.fr
 - [ ] Supports formation enseignants (50+)
 - [ ] Contributions techniques documentées
 - [ ] Certificats participation événements
