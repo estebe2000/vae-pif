@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1572,7 +1572,7 @@ l.39 ... formations qualifiantes}{13}{section.4.2}
 
 
 [4]
-<sources/medias/photo.png, id=237, 311.66437pt x 325.215pt>
+<sources/medias/photo.png, id=241, 311.66437pt x 325.215pt>
 File: sources/medias/photo.png Graphic file (type png)
 <use sources/medias/photo.png>
 Package pdftex.def Info: sources/medias/photo.png  used on input line 181.
@@ -1674,7 +1674,7 @@ Underfull \hbox (badness 7362) in paragraph at lines 350--351
 [15]
 
 [16]
-<sources/medias/p1-moy.png, id=293, 713.66624pt x 713.66624pt>
+<sources/medias/p1-moy.png, id=297, 713.66624pt x 713.66624pt>
 File: sources/medias/p1-moy.png Graphic file (type png)
 <use sources/medias/p1-moy.png>
 Package pdftex.def Info: sources/medias/p1-moy.png  used on input line 597.
@@ -1709,7 +1709,7 @@ Overfull \hbox (4.45125pt too wide) in paragraph at lines 7--8
 com-pé-tences trans-ver-sales ([][]\T1/ptm/m/sc/12 Empowill[]\T1/ptm/m/n/12 ,
  []
 
-<sources/medias/parcours.png, id=338, 1090.0725pt x 607.26875pt>
+<sources/medias/parcours.png, id=342, 1090.0725pt x 607.26875pt>
 File: sources/medias/parcours.png Graphic file (type png)
 <use sources/medias/parcours.png>
 Package pdftex.def Info: sources/medias/parcours.png  used on input line 12.
@@ -1747,16 +1747,16 @@ Chapitre 3.
 
 ]
 
-[10])
+[10]
 
-[11]
+[11])
 
 [12]
 \openout2 = `partie1/p1_chap4_formation_continue.aux'.
 
  (partie1/p1_chap4_formation_continue.tex
 Chapitre 4.
-<sources/medias/41.png, id=403, 1090.0725pt x 607.26875pt>
+<sources/medias/41.png, id=407, 1090.0725pt x 607.26875pt>
 File: sources/medias/41.png Graphic file (type png)
 <use sources/medias/41.png>
 Package pdftex.def Info: sources/medias/41.png  used on input line 8.
@@ -2014,7 +2014,7 @@ herche ([]de l'En-sei-gne-ment []\T1/ptm/m/sc/12 supérieur[]\T1/ptm/m/n/12 ,
 )
 
 [24]
-<sources/medias/p2-moy.png, id=467, 793.96625pt x 793.96625pt>
+<sources/medias/p2-moy.png, id=471, 793.96625pt x 793.96625pt>
 File: sources/medias/p2-moy.png Graphic file (type png)
 <use sources/medias/p2-moy.png>
 Package pdftex.def Info: sources/medias/p2-moy.png  used on input line 609.
@@ -2064,16 +2064,11 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 25
  (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<sources/medias/site-sql.png, id=491, 673.76718pt x 646.66594pt>
+<sources/medias/site-sql.png, id=495, 673.76718pt x 646.66594pt>
 File: sources/medias/site-sql.png Graphic file (type png)
 <use sources/medias/site-sql.png>
 Package pdftex.def Info: sources/medias/site-sql.png  used on input line 29.
 (pdftex.def)             Requested size: 409.71692pt x 393.2421pt.
-
-
-LaTeX Warning: Reference `fig-atelier-ia' on page 28 undefined on input line 34
-.
-
 
 
 [28
@@ -2129,7 +2124,7 @@ Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
 
 
 [34]
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=554, 2007.5p
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=559, 2007.5p
 t x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
@@ -2151,7 +2146,7 @@ l.116     \item \textbf
 [36]
 
 [37]
-<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=581, 603.4545p
+<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=586, 603.4545p
 t x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
@@ -2159,7 +2154,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
 ).png  used on input line 187.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=582, 594.42075
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=587, 594.42075
 pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
@@ -2749,7 +2744,7 @@ e 64.
 [54])
 
 [55]
-<sources/medias/p3-moy.png, id=742, 882.29625pt x 882.29625pt>
+<sources/medias/p3-moy.png, id=747, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
 Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 619.
@@ -3036,7 +3031,7 @@ hercheur|
 [81]
 
 [82]
-<sources/medias/p4-moy.png, id=888, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=892, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 784.
@@ -3075,47 +3070,47 @@ l.785 ...nexes/pedagogiques/p4_chap1_pedagogiques}
 (annexes/administratives/p4_chap2_administratives.tex
 Chapitre 19.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 []|\T1/ptm/b/n/12 Documents dis-po-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 []|\T1/ptm/b/n/12 Documents dis-po-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 []|\T1/ptm/m/n/12 Développeur
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 []|\T1/ptm/m/n/12 Team Lea-der /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 []|\T1/ptm/m/n/12 Certificats, fiches de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []|\T1/ptm/m/n/12 Enseignant
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 63--64
+Underfull \hbox (badness 1163) in paragraph at lines 64--65
 []|\T1/ptm/m/n/12 Arrêté de no-mi-na-tion,
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 66--66
+Underfull \hbox (badness 4193) in paragraph at lines 67--67
 []|\T1/ptm/m/n/12 IUT In-for-ma-tique Le
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 66--67
+Underfull \hbox (badness 4132) in paragraph at lines 67--68
 []|\T1/ptm/m/n/12 Contrats de va-ca-tion,
  []
 
@@ -3126,7 +3121,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.69 \end{longtable}
+l.70 \end{longtable}
                      [3
 
 
@@ -3139,524 +3134,524 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.91     \item F
+l.92     \item F
                 ormations continues et certifications [4]
-Underfull \hbox (badness 1028) in paragraph at lines 106--106
+Underfull \hbox (badness 1028) in paragraph at lines 107--107
 []|\T1/ptm/b/n/12 Description et ob-jec-
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 106--107
+Underfull \hbox (badness 2181) in paragraph at lines 107--108
 []|\T1/ptm/b/n/12 Impact pé-da-go-
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 110--110
+Underfull \hbox (badness 1028) in paragraph at lines 111--111
 []|\T1/ptm/b/n/12 Description et ob-jec-
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 110--111
+Underfull \hbox (badness 2181) in paragraph at lines 111--112
 []|\T1/ptm/b/n/12 Impact pé-da-go-
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 114--115
+Underfull \hbox (badness 1515) in paragraph at lines 115--116
 []|\T1/ptm/b/n/12 Chasse au Tré-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 [][]$\T1/ptm/m/n/12 https : / / spy . forge .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 \T1/ptm/m/n/12 apps . education .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]|\T1/ptm/m/n/12 Site web in-ter-ac-tif
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 116--116
-\T1/ptm/m/n/12 pour chasse au tré-sor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-\T1/ptm/m/n/12 pé-da-go-gique avec
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-\T1/ptm/m/n/12 mini-jeux. Fa-ci-le-ment
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 116--116
-\T1/ptm/m/n/12 adap-table par d'autres
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-\T1/ptm/m/n/12 éta-blis-se-ments via
- []
-
-
-Overfull \hbox (0.65562pt too wide) in paragraph at lines 117--117
-[]|\T1/ptm/m/n/12 HTML/CSS/JavaScript,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]|\T1/ptm/m/n/12 Site web in-ter-ac-tif
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 117--117
+\T1/ptm/m/n/12 pour chasse au tré-sor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\T1/ptm/m/n/12 pé-da-go-gique avec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\T1/ptm/m/n/12 mini-jeux. Fa-ci-le-ment
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 117--117
+\T1/ptm/m/n/12 adap-table par d'autres
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\T1/ptm/m/n/12 éta-blis-se-ments via
+ []
+
+
+Overfull \hbox (0.65562pt too wide) in paragraph at lines 118--118
+[]|\T1/ptm/m/n/12 HTML/CSS/JavaScript,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 \T1/ptm/m/n/12 JSON, Ar-chi-tec-ture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 []|\T1/ptm/m/n/12 Gamification
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \T1/ptm/m/n/12 de l'ap-pren-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \T1/ptm/m/n/12 tis-sage, col-la-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \T1/ptm/m/n/12 bo-ra-tion inter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \T1/ptm/m/n/12 établissements,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 [][]$\T1/ptm/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 123--123
+Underfull \hbox (badness 1642) in paragraph at lines 124--124
 []|\T1/ptm/m/n/12 Application web pour
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 123--123
+Underfull \hbox (badness 1043) in paragraph at lines 124--124
 \T1/ptm/m/n/12 ges-tion, édi-tion de fi-
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 123--123
+Underfull \hbox (badness 2980) in paragraph at lines 124--124
 \T1/ptm/m/n/12 chiers et dé-ploie-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 []|\T1/ptm/m/n/12 Démocratisation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 \T1/ptm/m/n/12 des ou-tils de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 \T1/ptm/m/n/12 dé-ve-lop-pe-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 \T1/ptm/m/n/12 col-la-bo-ra-tif
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 \T1/ptm/m/n/12 pour tous les
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 []|\T1/ptm/b/n/12 Générateur
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 \T1/ptm/b/n/12 d'Exer-cices
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 [][]$\T1/ptm/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 \T1/ptm/m/n/12 / / exercicepython .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []|\T1/ptm/m/n/12 Python, Stream-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \T1/ptm/m/n/12 lit, IA (Lo-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \T1/ptm/m/n/12 lAI/Gemini/Mistral),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 []|\T1/ptm/m/n/12 Personnalisation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 \T1/ptm/m/n/12 au-to-ma-tique,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 \T1/ptm/m/n/12 éva-lua-tion in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 \T1/ptm/m/n/12 tel-li-gente, suivi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 []|\T1/ptm/b/n/12 Pokédex In-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 [][]$\T1/ptm/m/n/12 https : / / pokedex .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--137
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []|\T1/ptm/m/n/12 Application Py-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--137
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 \T1/ptm/m/n/12 thon/Streamlit pour
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 []|\T1/ptm/m/n/12 Motivation par
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 \T1/ptm/m/n/12 la ga-mi-fi-ca-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 \T1/ptm/m/n/12 pro-gram-ma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 [][]$\T1/ptm/m/n/12 https : / / pyteur .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
 []|\T1/ptm/m/n/12 Plateforme édu-ca-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
 \T1/ptm/m/n/12 col-la-bo-ra-tive avec
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 144--144
+Underfull \hbox (badness 3482) in paragraph at lines 145--145
 \T1/ptm/m/n/12 gé-né-ra-tion d'exer-cices
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\T1/ptm/m/n/12 Django, IA, Post-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \T1/ptm/m/n/12 greSQL, Ar-chi-tec-ture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 \T1/ptm/m/n/12 de classe nu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 \T1/ptm/m/n/12 mé-rique, in-tel-li-
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 146--147
+Underfull \hbox (badness 3199) in paragraph at lines 147--148
 \T1/ptm/m/n/12 gence ar-ti-fi-cielle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 [][]$\T1/ptm/m/n/12 https : / / spy . forge .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 \T1/ptm/m/n/12 apps . education .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-\T1/ptm/m/n/12 de scènes pa-no-ra-
- []
-
-
-Underfull \hbox (badness 5490) in paragraph at lines 151--151
-\T1/ptm/m/n/12 miques 360\TS1/ptm/m/n/12 ° \T1/ptm/m/n/12 in-ter-ac-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-\T1/ptm/m/n/12 tives avec hots-pots.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-\T1/ptm/m/n/12 Vi-sites vir-tuelles et
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-\T1/ptm/m/n/12 ex-plo-ra-tions gui-dées
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/ptm/m/n/12 de scènes pa-no-ra-
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 152--152
+\T1/ptm/m/n/12 miques 360\TS1/ptm/m/n/12 ° \T1/ptm/m/n/12 in-ter-ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/ptm/m/n/12 tives avec hots-pots.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/ptm/m/n/12 Vi-sites vir-tuelles et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/ptm/m/n/12 ex-plo-ra-tions gui-dées
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
 []|\T1/ptm/m/n/12 Three.js,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 []|\T1/ptm/m/n/12 Immersion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 \T1/ptm/m/n/12 pé-da-go-gique,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 \T1/ptm/m/n/12 in-no-va-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 \T1/ptm/m/n/12 tech-no-lo-gique,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 \T1/ptm/m/n/12 ac-ces-si-bi-lité
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 [][]$\T1/ptm/m/n/12 https : / / spy . forge .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 \T1/ptm/m/n/12 apps . education .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
 []|\T1/ptm/m/n/12 Simulation édu-ca-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
 \T1/ptm/m/n/12 re-pro-dui-sant Net-flix
  []
 
 
-Underfull \hbox (badness 6510) in paragraph at lines 158--158
+Underfull \hbox (badness 6510) in paragraph at lines 159--159
 \T1/ptm/m/n/12 pour sen-si-bi-li-ser aux
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
 \T1/ptm/m/n/12 risques de phi-shing
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 159--159
+Underfull \hbox (badness 2293) in paragraph at lines 160--160
 []|\T1/ptm/m/n/12 HTML/CSS/JS, Si-mu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 []|\T1/ptm/m/n/12 Éducation à la
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 \T1/ptm/m/n/12 cy-ber-sé-cu-rité,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 \T1/ptm/m/n/12 sen-si-bi-li-sa-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 \T1/ptm/m/n/12 aux risques
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 [][]$\T1/ptm/m/n/12 https : / / ragchat .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\T1/ptm/m/n/12 Application de chat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 \T1/ptm/m/n/12 ba-sée sur Retrieval-
  []
 
 
-Underfull \hbox (badness 6641) in paragraph at lines 165--165
+Underfull \hbox (badness 6641) in paragraph at lines 166--166
 \T1/ptm/m/n/12 une IA à par-tir de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 167--168
+Underfull \hbox (badness 1442) in paragraph at lines 168--169
 []|\T1/ptm/m/n/12 Assistance pé-da-
  []
 
 
-Underfull \hbox (badness 7832) in paragraph at lines 167--168
+Underfull \hbox (badness 7832) in paragraph at lines 168--169
 \T1/ptm/m/n/12 go-gique per-son-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 [][]$\T1/ptm/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 172--172
+Underfull \hbox (badness 4872) in paragraph at lines 173--173
 []|\T1/ptm/m/n/12 Constructeur de sites
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 \T1/ptm/m/n/12 web sim-pli-fié pour
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 \T1/ptm/m/n/12 pro-jets pé-da-go-giques,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 \T1/ptm/m/n/12 per-met-tant aux en-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 \T1/ptm/m/n/12 sei-gnants de créer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []|\T1/ptm/m/n/12 HTML/CSS/JS, In-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 []|\T1/ptm/m/n/12 Autonomisation
  []
 
 
-Underfull \hbox (badness 6859) in paragraph at lines 174--175
+Underfull \hbox (badness 6859) in paragraph at lines 175--176
 \T1/ptm/m/n/12 des en-sei-gnants,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 []|\T1/ptm/b/n/12 Éditeur Mark-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 [][]$\T1/ptm/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 \T1/ptm/m/n/12 / / chatmd-[]editor .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
 []|\T1/ptm/m/n/12 Éditeur de fi-chiers
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
 \T1/ptm/m/n/12 Mark-down spé-cia-le-
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 179--179
+Underfull \hbox (badness 3019) in paragraph at lines 180--180
 \T1/ptm/m/n/12 ment conçu pour les
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 180--180
+Underfull \hbox (badness 2393) in paragraph at lines 181--181
 []|\T1/ptm/m/n/12 Markdown, IA, In-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 []|\T1/ptm/m/n/12 Facilitation des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 \T1/ptm/m/n/12 échanges avec
  []
 
@@ -3665,13 +3660,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184 \end{longtable}
+l.185 \end{longtable}
                       [5]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184 \end{longtable}
+l.185 \end{longtable}
                       [6]
 
 
@@ -3679,7 +3674,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.205     \item \textbf
+l.206     \item \textbf
                        {Adoption large} : Plus de 50 Ã©tablissements utilisa...
 [7]
 
@@ -3688,7 +3683,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.242     \item \textbf
+l.243     \item \textbf
                        {Innovation reconnue} : SÃ©lection comme exemple de b...
 [8]
 
@@ -3697,50 +3692,50 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.280     \item \textbf
+l.281     \item \textbf
                        {Du 01/09/2022 au 31/08/2025} : LycÃ©e gÃ©nÃ©ral et t...
 [9]
-Overfull \hbox (35.77354pt too wide) in alignment at lines 288--293
+Overfull \hbox (35.77354pt too wide) in alignment at lines 289--294
  [] [] [] [] 
  []
 
 
-Overfull \hbox (35.77354pt too wide) in alignment at lines 293--297
+Overfull \hbox (35.77354pt too wide) in alignment at lines 294--298
  [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 320--320
+Underfull \hbox (badness 3068) in paragraph at lines 321--321
 []|\T1/ptm/m/n/12 D1_DEVELOPPER ET CER-TI-FIER COM-PE-TENCES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\T1/ptm/m/n/12 S3 PAR-COURS FOR-MA-TION TRANS-VER-SALE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 \T1/ptm/m/n/12 CONTI-NUEE T1-2-3 - PAR-COURS FOR-MA-TION
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 338--338
+Underfull \hbox (badness 1371) in paragraph at lines 339--339
 []|\T1/ptm/m/n/12 S3_LGT EN-SEI-GNE-MENTS DE SPE-CIA-LITE - NSI
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 341--341
+Underfull \hbox (badness 1371) in paragraph at lines 342--342
 []|\T1/ptm/m/n/12 S3_LGT EN-SEI-GNE-MENTS DE SPE-CIA-LITE - NSI
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 344--344
+Underfull \hbox (badness 2846) in paragraph at lines 345--345
 []|\T1/ptm/m/n/12 S3_EDS NU-ME-RIQUES ET SCIENCES IN-FOR-MA-
  []
 
 
-Overfull \hbox (35.77354pt too wide) in alignment at lines 297--347
+Overfull \hbox (35.77354pt too wide) in alignment at lines 298--348
  [] [] [] [] 
  []
 
@@ -3749,7 +3744,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.347 \end{longtable}
+l.348 \end{longtable}
                       [10]
 
 
@@ -3757,7 +3752,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.382     \item \textbf
+l.383     \item \textbf
                        {MickaÃ«l MILLET} : Responsable pÃ©dagogique actuel, ...
 [11])
 
@@ -3837,9 +3832,6 @@ L3 programming layer <2025-07-11>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
 (biblatex)                and rerun LaTeX afterwards.
@@ -3849,10 +3841,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40105 strings out of 468149
- 810066 string characters out of 5430598
- 1758429 words of memory out of 5000000
- 67656 multiletter control sequences out of 15000+600000
+ 40081 strings out of 468149
+ 809776 string characters out of 5430598
+ 1757901 words of memory out of 5000000
+ 67632 multiletter control sequences out of 15000+600000
  735816 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,14n,91p,804b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3865,9 +3857,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (114 pages, 7929236 bytes).
+Output written on main.pdf (114 pages, 7930518 bytes).
 PDF statistics:
- 1121 PDF objects out of 1200 (max. 8388607)
+ 1125 PDF objects out of 1200 (max. 8388607)
  302 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 

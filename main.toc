@@ -33,6 +33,7 @@
 \contentsline {section}{\numberline {3.4}Diplômes d'enseignement}{11}{section.3.4}%
 \contentsline {subsection}{CAPES Numérique et Sciences Informatiques (2020)}{11}{section.3.4}%
 \contentsline {subsection}{CAPET Sciences Industrielles (2020)}{11}{section.3.4}%
+\contentsline {subsection}{Master MEEF Informatique (2026)}{11}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Synthèse de la formation initiale}{11}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Formation professionnelle continue}{13}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Certifications professionnelles et formations qualifiantes}{13}{section.4.1}%
