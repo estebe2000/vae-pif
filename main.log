@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1462,36 +1462,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                luckin_ai_education
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                nicol_formative_assessment
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                rncp38356
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                topping_peer_assessment
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (main.bbl)
 Package biblatex Info: Reference section=0 on input line 114.
 Package biblatex Info: Reference segment=0 on input line 114.
 <sources/medias/logo1.png, id=6, 259.2084pt x 146.2263pt>
@@ -2092,11 +2063,6 @@ has been already used, duplicate ignored
 l.40 
       <./sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf>]
 
-LaTeX Warning: Reference `fig-forgeales-programme' on page 30 undefined on inpu
-t line 41.
-
-
-
 [30
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9.2}) 
 has been already used, duplicate ignored
@@ -2113,8 +2079,11 @@ s.forge.apps.education.fr\T1/ptm/m/n/12 ).
  []
 
 
-LaTeX Warning: Citation 'saillot_didactique_ajustement' on page 32 undefined on
- input line 100.
+Overfull \hbox (0.7765pt too wide) in paragraph at lines 100--101
+[]\T1/ptm/m/n/12 Du point de vue de l'ajus-te-ment pé-da-go-gique ([][]\T1/ptm/
+m/sc/12 Saillot[]\T1/ptm/m/n/12 , [][]2020a[][]), ce dis-po-si-tif illustre l'a
+dap-
+ []
 
 
 
@@ -2156,7 +2125,7 @@ ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
 powill[]\T1/ptm/m/n/12 ,
  []
 
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=975, 2007.5p
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=978, 2007.5p
 t x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
@@ -2178,7 +2147,7 @@ l.116     \item \textbf
 [38]
 
 [39]
-<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1003, 603.4545
+<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1006, 603.4545
 pt x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
@@ -2186,7 +2155,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
 ).png  used on input line 187.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1004, 594.4207
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1007, 594.4207
 5pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
@@ -2439,21 +2408,6 @@ Overfull \hbox (3.6893pt too wide) in paragraph at lines 1--1
 
 
 ]
-
-LaTeX Warning: Citation 'nicol_formative_assessment' on page 46 undefined on in
-put line 44.
-
-
-LaTeX Warning: Citation 'topping_peer_assessment' on page 46 undefined on input
- line 44.
-
-
-Overfull \hbox (76.96185pt too wide) in paragraph at lines 44--45
-\T1/ptm/m/n/12 les prin-cipes de l'éva-lua-tion for-ma-tive et de l'auto-régula
-tion des ap-pren-tis-sages ([] ;
- []
-
-
 
 [46]
 
@@ -2769,15 +2723,10 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 
 [55]
 
-LaTeX Warning: Citation 'luckin_ai_education' on page 56 undefined on input lin
-e 64.
-
-
-
 [56])
 
 [57]
-<sources/medias/p3-moy.png, id=1164, 882.29625pt x 882.29625pt>
+<sources/medias/p3-moy.png, id=1173, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
 Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 619.
@@ -3060,7 +3009,7 @@ hercheur|
 [83]
 
 [84]
-<sources/medias/p4-moy.png, id=1309, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=1318, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 784.
@@ -3816,6 +3765,12 @@ Overfull \hbox (18.71039pt too wide) in paragraph at lines 813--813
  []
 
 
+Overfull \hbox (27.80185pt too wide) in paragraph at lines 813--813
+\T1/ptm/m/n/12 pren-tis-sages cri-tiques [Ré-fé-ren-tiel of-fi-ciel BUT In-for-
+ma-tique]. [][]$https : / / www . enseignementsup -[]
+ []
+
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -3823,13 +3778,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.813 \printbibliography[heading=none]
-                                       [14]
-Overfull \hbox (27.80185pt too wide) in paragraph at lines 813--813
-\T1/ptm/m/n/12 pren-tis-sages cri-tiques [Ré-fé-ren-tiel of-fi-ciel BUT In-for-
-ma-tique]. [][]$https : / / www . enseignementsup -[]
- []
-
-(main.ind)
+                                       [14] (main.ind)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -3856,27 +3805,15 @@ l.826 \end{document}
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40093 strings out of 468149
- 810539 string characters out of 5430598
- 1757886 words of memory out of 5000000
- 67641 multiletter control sequences out of 15000+600000
+ 40054 strings out of 468149
+ 808753 string characters out of 5430598
+ 1757731 words of memory out of 5000000
+ 67609 multiletter control sequences out of 15000+600000
  735816 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,14n,91p,804b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3889,9 +3826,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (116 pages, 8771453 bytes).
+Output written on main.pdf (116 pages, 8768097 bytes).
 PDF statistics:
- 1543 PDF objects out of 1728 (max. 8388607)
- 305 named destinations out of 1000 (max. 500000)
+ 1532 PDF objects out of 1728 (max. 8388607)
+ 298 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

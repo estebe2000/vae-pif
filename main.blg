@@ -1,25 +1,19 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[80] biber-MSWIN64:342> INFO - === 
-[114] Biber.pm:421> INFO - Reading 'main.bcf'
-[210] Biber.pm:1002> INFO - Found 51 citekeys in bib section 0
-[221] Biber.pm:4487> INFO - Processing section 0
-[228] Biber.pm:4678> INFO - Looking for bibtex file 'VAE-MEEF-Bibliographie.bib' for section 0
-[291] bibtex.pm:1713> INFO - LaTeX decoding ...
-[335] bibtex.pm:1519> INFO - Found BibTeX data source 'VAE-MEEF-Bibliographie.bib'
-[453] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[453] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[454] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
-[454] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
-[497] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[497] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[497] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
-[497] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
-[522] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[547] bbl.pm:779> INFO - Output to main.bbl
-[547] Biber.pm:132> WARN - Duplicate entry key: 'projet_methode_tlem' in file 'VAE-MEEF-Bibliographie.bib', skipping ...
-[547] Biber.pm:132> WARN - I didn't find a database entry for 'luckin_ai_education' (section 0)
-[547] Biber.pm:132> WARN - I didn't find a database entry for 'nicol_formative_assessment' (section 0)
-[547] Biber.pm:132> WARN - I didn't find a database entry for 'topping_peer_assessment' (section 0)
-[547] Biber.pm:132> WARN - I didn't find a database entry for 'rncp38356' (section 0)
-[547] Biber.pm:134> INFO - WARNINGS: 5
+[75] biber-MSWIN64:342> INFO - === 
+[109] Biber.pm:421> INFO - Reading 'main.bcf'
+[205] Biber.pm:1002> INFO - Found 40 citekeys in bib section 0
+[217] Biber.pm:4487> INFO - Processing section 0
+[224] Biber.pm:4678> INFO - Looking for bibtex file 'VAE-MEEF-Bibliographie.bib' for section 0
+[286] bibtex.pm:1713> INFO - LaTeX decoding ...
+[334] bibtex.pm:1519> INFO - Found BibTeX data source 'VAE-MEEF-Bibliographie.bib'
+[444] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[444] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[444] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
+[444] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
+[483] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[483] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[483] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
+[483] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
+[506] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[528] bbl.pm:779> INFO - Output to main.bbl

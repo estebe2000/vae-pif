@@ -44,43 +44,6 @@
       \field{title}{Intelligence artificielle et éducation}
       \field{year}{2023}
     \endentry
-    \entry{anderson_bloom_revised}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=4b42f1b57e4a94e21e6f50d531f41ddd}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Lorin\bibnamedelima W.},
-           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
-           family={Krathwohl},
-           familyi={K\bibinitperiod},
-           given={David\bibnamedelima R.},
-           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Longman}%
-      }
-      \strng{namehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{fullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{fullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{bibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authorbibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authornamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authorfullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authorfullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Révision moderne de la taxonomie de Bloom}
-      \field{title}{A {T}axonomy for {L}earning, {T}eaching, and {A}ssessing: {A} {R}evision of {B}loom's {T}axonomy of {E}ducational {O}bjectives}
-      \field{year}{2001}
-    \endentry
     \entry{pedagogie_active}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea49f576c46c008782a339f5459beb81}{%
@@ -111,40 +74,6 @@
       \verb{url}
       \verb https://www.beekast.com/fr/blog/pedagogie-active-entreprise/
       \endverb
-    \endentry
-    \entry{bloom_taxonomy}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ddc586c6eb221cd90bc71bc15c3e6fc1}{%
-           family={Bloom},
-           familyi={B\bibinitperiod},
-           given={Benjamin\bibnamedelima S.},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Longmans Green}%
-      }
-      \strng{namehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{fullhash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{fullhashraw}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{bibnamehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authorbibnamehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authornamehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authorfullhash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authorfullhashraw}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Taxonomie des objectifs pédagogiques - Classification des apprentissages}
-      \field{title}{Taxonomy of {E}ducational {O}bjectives: {T}he {C}lassification of {E}ducational {G}oals}
-      \field{year}{1956}
     \endentry
     \entry{bucheton_postures}{article}{}{}
       \name{author}{2}{}{%
@@ -258,40 +187,6 @@
       \verb{url}
       \verb https://www.francecompetences.fr/recherche/rncp/38152/
       \endverb
-    \endentry
-    \entry{dale_cone}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=67db0a29284f34785f98b16e063211cb}{%
-           family={Dale},
-           familyi={D\bibinitperiod},
-           given={Edgar},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Dryden Press}%
-      }
-      \strng{namehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{fullhash}{67db0a29284f34785f98b16e063211cb}
-      \strng{fullhashraw}{67db0a29284f34785f98b16e063211cb}
-      \strng{bibnamehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authorbibnamehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authornamehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authorfullhash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authorfullhashraw}{67db0a29284f34785f98b16e063211cb}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Cône d'expérience de Dale}
-      \field{title}{Audio-{V}isual {M}ethods in {T}eaching}
-      \field{year}{1969}
     \endentry
     \entry{vademecum_vae_inspe}{misc}{}{}
       \name{author}{1}{}{%
@@ -558,37 +453,6 @@
       \verb https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g
       \endverb
     \endentry
-    \entry{investigation_edutechwiki}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=19c1d3057433dbad76e519443fddcc97}{%
-           family={{EduTech Wiki}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{fullhash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{fullhashraw}{19c1d3057433dbad76e519443fddcc97}
-      \strng{bibnamehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authorbibnamehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authornamehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authorfullhash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authorfullhashraw}{19c1d3057433dbad76e519443fddcc97}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Méthodologie d'apprentissage par investigation}
-      \field{title}{Apprentissage par investigation}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://edutechwiki.unige.ch/fr/apprentissage_par_investigation
-      \endverb
-      \verb{url}
-      \verb https://edutechwiki.unige.ch/fr/apprentissage_par_investigation
-      \endverb
-    \endentry
     \entry{competences_transversales}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5d1e77ee76a11f68298c9ae0ab360d46}{%
@@ -620,37 +484,6 @@
       \verb https://www.empowill.com/blog/competences-transversales-impact
       \endverb
     \endentry
-    \entry{apprentissage_collaboratif}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=329875c2c351262ebed3343d8c962d2e}{%
-           family={{eTwinning}},
-           familyi={e\bibinitperiod}}}%
-      }
-      \strng{namehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{fullhash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{fullhashraw}{329875c2c351262ebed3343d8c962d2e}
-      \strng{bibnamehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authorbibnamehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authornamehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authorfullhash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authorfullhashraw}{329875c2c351262ebed3343d8c962d2e}
-      \field{sortinit}{e}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Méthodologies collaboratives européennes}
-      \field{title}{Organiser les activités collaboratives avec les élèves}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.etwinning.fr/mener-son-projet/organiser-les-activites-collaboratives-avec-les-eleves
-      \endverb
-      \verb{url}
-      \verb https://www.etwinning.fr/mener-son-projet/organiser-les-activites-collaboratives-avec-les-eleves
-      \endverb
-    \endentry
     \entry{competences_transversales_eurecia}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=805508f58e6fbd5bc235b6a47006a8f1}{%
@@ -680,44 +513,6 @@
       \endverb
       \verb{url}
       \verb https://www.eurecia.com/blog/competences-transversales/
-      \endverb
-    \endentry
-    \entry{goigoux_analyse_activite}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e3fe18be19a51ff64ab3cdf0a7e51c7f}{%
-           family={Goigoux},
-           familyi={G\bibinitperiod},
-           given={Roland},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{fullhash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{fullhashraw}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{bibnamehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authorbibnamehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authornamehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authorfullhash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authorfullhashraw}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Éducation et didactique}
-      \field{number}{3}
-      \field{title}{Un modèle d’analyse de l’activité des enseignants}
-      \field{volume}{1}
-      \field{year}{2007}
-      \field{pages}{47\bibrangedash 69}
-      \range{pages}{23}
-      \verb{urlraw}
-      \verb http://journals.openedition.org/educationdidactique/232
-      \endverb
-      \verb{url}
-      \verb http://journals.openedition.org/educationdidactique/232
       \endverb
     \endentry
     \entry{houssaye_triangle}{book}{}{}
@@ -790,37 +585,6 @@
       \verb https://ics.utc.fr/tuto/evaluation_par_les_pairs.pdf
       \endverb
     \endentry
-    \entry{master_meef_nantes}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=72f899e0acb3a5e51d960125028ae752}{%
-           family={{INSPÉ Académie de Nantes}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{fullhash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{fullhashraw}{72f899e0acb3a5e51d960125028ae752}
-      \strng{bibnamehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authorbibnamehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authornamehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authorfullhash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authorfullhashraw}{72f899e0acb3a5e51d960125028ae752}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Formation MEEF Informatique à Nantes}
-      \field{title}{Master {MEEF} {E}nseignement du second degré parcours informatique}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://inspe-site-nantes.univ-nantes.fr/devenir-professeur-en-college-ou-lycee/informatique
-      \endverb
-      \verb{url}
-      \verb https://inspe-site-nantes.univ-nantes.fr/devenir-professeur-en-college-ou-lycee/informatique
-      \endverb
-    \endentry
     \entry{kilpatrick_project_method}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f156ba637579167fa94f72019ddb7d55}{%
@@ -889,36 +653,54 @@
       \field{title}{The {A}dult {L}earner: {T}he {D}efinitive {C}lassic in {A}dult {E}ducation and {H}uman {R}esource {D}evelopment}
       \field{year}{2015}
     \endentry
-    \entry{investigation_mathia}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b9d2b38c56b81381458833ed17648ec4}{%
-           family={{Mathia Education}},
-           familyi={M\bibinitperiod}}}%
+    \entry{luckin_ai_education}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=38c74c8405cb81c3f9aa290a4ba5ba52}{%
+           family={Luckin},
+           familyi={L\bibinitperiod},
+           given={Rosemary},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a90574ed2f941eaeae5fc37ec8e0f323}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03c243c46939db53b246934d463f71a0}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95fc7e5642b1ea06eda0791bccf11694}{%
+           family={Forcier},
+           familyi={F\bibinitperiod},
+           given={Laurie\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{fullhash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{fullhashraw}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{bibnamehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authorbibnamehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authornamehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authorfullhash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authorfullhashraw}{b9d2b38c56b81381458833ed17648ec4}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{ea5362cdeefa9353008399bc9f888ab8}
+      \strng{fullhash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{fullhashraw}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{bibnamehash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{authorbibnamehash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{authornamehash}{ea5362cdeefa9353008399bc9f888ab8}
+      \strng{authorfullhash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{authorfullhashraw}{6546e450da7028d9ac9982ba255c6f05}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Définitions apprentissage par investigation}
-      \field{title}{Apprentissage basé sur l'investigation : glossaire}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://mathia.education/glossaire/apprentissage-base-sur-linvestigation/
-      \endverb
-      \verb{url}
-      \verb https://mathia.education/glossaire/apprentissage-base-sur-linvestigation/
-      \endverb
+      \field{note}{Ouvrage de référence sur l'IA éducative et l'apprentissage adaptatif}
+      \field{title}{Intelligence Unleashed: An argument for AI in Education}
+      \field{year}{2016}
     \endentry
     \entry{nsi_programmes}{misc}{}{}
       \name{author}{1}{}{%
@@ -998,6 +780,47 @@
       \field{title}{Baccalauréat spécialité Numérique et Sciences Informatiques}
       \field{year}{2021}
     \endentry
+    \entry{nicol_formative_assessment}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aafb4753f18a21fdb329e9d2db9101fe}{%
+           family={Nicol},
+           familyi={N\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64e0fd7f0d411601e5dffcf5f04917cc}{%
+           family={Macfarlane-Dick},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{fullhash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{fullhashraw}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{bibnamehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authorbibnamehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authornamehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authorfullhash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authorfullhashraw}{a10f44e44c11935bb6a505fc51f0cf87}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Higher Education}
+      \field{number}{2}
+      \field{title}{Formative assessment and self-regulated learning: A model and seven principles of good feedback practice}
+      \field{volume}{31}
+      \field{year}{2006}
+      \field{pages}{199\bibrangedash 218}
+      \range{pages}{20}
+    \endentry
     \entry{competences_21_siecle}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d044557951f2f3cba2dfe69b9c625a2}{%
@@ -1062,35 +885,6 @@
       \field{note}{Référence majeure pour la pratique réflexive en éducation}
       \field{title}{Développer la pratique réflexive dans le métier d'enseignant : professionnalisation et raison pédagogique}
       \field{year}{2001}
-    \endentry
-    \entry{constructivisme_education}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=76cd658e2f3ecbeedfaceb2d2a1de596}{%
-           family={Piaget},
-           familyi={P\bibinitperiod},
-           given={Jean},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{fullhash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{fullhashraw}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{bibnamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authorbibnamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authornamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authorfullhash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authorfullhashraw}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Encyclopédie de la Pléiade}
-      \field{note}{Fondateur du constructivisme pédagogique}
-      \field{title}{Logique et Connaissance Scientifique}
-      \field{year}{1967}
     \endentry
     \entry{projet_travail_groupe}{misc}{}{}
       \name{author}{1}{}{%
@@ -1219,6 +1013,39 @@
       \verb https://www.erudit.org/fr/revues/rse/2005-v31-n2-rse1040/012755ar/
       \endverb
     \endentry
+    \entry{saillot_didactique_ajustement}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=933515c15ff972fd0e44aae5a4750d08}{%
+           family={Saillot},
+           familyi={S\bibinitperiod},
+           given={Éric},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rennes}%
+      }
+      \strng{namehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{fullhash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{fullhashraw}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{bibnamehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authorbibnamehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authornamehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authorfullhash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authorfullhashraw}{933515c15ff972fd0e44aae5a4750d08}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Didactique de l'ajustement et des postures d'accompagnement}
+      \field{title}{Pour une didactique de l'ajustement}
+      \field{year}{2020}
+    \endentry
     \entry{saillot_ajustement}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=933515c15ff972fd0e44aae5a4750d08}{%
@@ -1239,8 +1066,10 @@
       \strng{authornamehash}{933515c15ff972fd0e44aae5a4750d08}
       \strng{authorfullhash}{933515c15ff972fd0e44aae5a4750d08}
       \strng{authorfullhashraw}{933515c15ff972fd0e44aae5a4750d08}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -1380,6 +1209,38 @@
       \verb https://t-lem.com/fr/methode-des-projets-dans-lenseignement-de-linformatique/
       \endverb
     \endentry
+    \entry{topping_peer_assessment}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d89c523f1ce9534b0d68b75561b5680d}{%
+           family={Topping},
+           familyi={T\bibinitperiod},
+           given={Keith\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{fullhash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{fullhashraw}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{bibnamehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authorbibnamehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authornamehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authorfullhash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authorfullhashraw}{d89c523f1ce9534b0d68b75561b5680d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Interdisciplinary Education and Psychology}
+      \field{number}{1}
+      \field{title}{Peer assessment: Learning by judging and discussing the work of other learners}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
     \entry{unicaen}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f7ec106062e41fc7a5512b897098c47f}{%
@@ -1436,40 +1297,6 @@
       \field{title}{Concevoir une évaluation : l'évaluation par les pairs}
       \field{year}{2022}
     \endentry
-    \entry{vygotsky_mind_society}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ea19e4d26a75e62caddfee7394a5c042}{%
-           family={Vygotsky},
-           familyi={V\bibinitperiod},
-           given={Lev\bibnamedelima S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Cambridge, MA}%
-      }
-      \list{publisher}{1}{%
-        {Harvard University Press}%
-      }
-      \strng{namehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{fullhash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{fullhashraw}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{bibnamehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authorbibnamehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authornamehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authorfullhash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authorfullhashraw}{ea19e4d26a75e62caddfee7394a5c042}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Zone proximale de développement - Apprentissage social}
-      \field{title}{Mind in Society: The Development of Higher Psychological Processes}
-      \field{year}{1978}
-    \endentry
     \entry{accessibilite_numerique}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=446a1ae6601a5c59360c7d591c3992da}{%
@@ -1500,34 +1327,6 @@
       \verb{url}
       \verb https://www.w3.org/WAI/
       \endverb
-    \endentry
-    \entry{zaid_performances}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=876c4684283a29f4bb5d26a7d9cea664}{%
-           family={Zaid},
-           familyi={Z\bibinitperiod},
-           given={Abdelkarim},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{fullhash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{fullhashraw}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{bibnamehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authorbibnamehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authornamehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authorfullhash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authorfullhashraw}{876c4684283a29f4bb5d26a7d9cea664}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Recherche et formation}
-      \field{title}{Analyse de l'activité et formation des enseignants}
-      \field{year}{2012}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
@@ -1556,43 +1355,6 @@
       \field{title}{Intelligence artificielle et éducation}
       \field{year}{2023}
     \endentry
-    \entry{anderson_bloom_revised}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=4b42f1b57e4a94e21e6f50d531f41ddd}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Lorin\bibnamedelima W.},
-           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
-           family={Krathwohl},
-           familyi={K\bibinitperiod},
-           given={David\bibnamedelima R.},
-           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Longman}%
-      }
-      \strng{namehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{fullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{fullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{bibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authorbibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authornamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authorfullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \strng{authorfullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Révision moderne de la taxonomie de Bloom}
-      \field{title}{A {T}axonomy for {L}earning, {T}eaching, and {A}ssessing: {A} {R}evision of {B}loom's {T}axonomy of {E}ducational {O}bjectives}
-      \field{year}{2001}
-    \endentry
     \entry{pedagogie_active}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea49f576c46c008782a339f5459beb81}{%
@@ -1623,40 +1385,6 @@
       \verb{url}
       \verb https://www.beekast.com/fr/blog/pedagogie-active-entreprise/
       \endverb
-    \endentry
-    \entry{bloom_taxonomy}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ddc586c6eb221cd90bc71bc15c3e6fc1}{%
-           family={Bloom},
-           familyi={B\bibinitperiod},
-           given={Benjamin\bibnamedelima S.},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Longmans Green}%
-      }
-      \strng{namehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{fullhash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{fullhashraw}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{bibnamehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authorbibnamehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authornamehash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authorfullhash}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \strng{authorfullhashraw}{ddc586c6eb221cd90bc71bc15c3e6fc1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Taxonomie des objectifs pédagogiques - Classification des apprentissages}
-      \field{title}{Taxonomy of {E}ducational {O}bjectives: {T}he {C}lassification of {E}ducational {G}oals}
-      \field{year}{1956}
     \endentry
     \entry{bucheton_postures}{article}{}{}
       \name{author}{2}{}{%
@@ -1770,40 +1498,6 @@
       \verb{url}
       \verb https://www.francecompetences.fr/recherche/rncp/38152/
       \endverb
-    \endentry
-    \entry{dale_cone}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=67db0a29284f34785f98b16e063211cb}{%
-           family={Dale},
-           familyi={D\bibinitperiod},
-           given={Edgar},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Dryden Press}%
-      }
-      \strng{namehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{fullhash}{67db0a29284f34785f98b16e063211cb}
-      \strng{fullhashraw}{67db0a29284f34785f98b16e063211cb}
-      \strng{bibnamehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authorbibnamehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authornamehash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authorfullhash}{67db0a29284f34785f98b16e063211cb}
-      \strng{authorfullhashraw}{67db0a29284f34785f98b16e063211cb}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Cône d'expérience de Dale}
-      \field{title}{Audio-{V}isual {M}ethods in {T}eaching}
-      \field{year}{1969}
     \endentry
     \entry{vademecum_vae_inspe}{misc}{}{}
       \name{author}{1}{}{%
@@ -2070,37 +1764,6 @@
       \verb https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g
       \endverb
     \endentry
-    \entry{investigation_edutechwiki}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=19c1d3057433dbad76e519443fddcc97}{%
-           family={{EduTech Wiki}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{fullhash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{fullhashraw}{19c1d3057433dbad76e519443fddcc97}
-      \strng{bibnamehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authorbibnamehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authornamehash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authorfullhash}{19c1d3057433dbad76e519443fddcc97}
-      \strng{authorfullhashraw}{19c1d3057433dbad76e519443fddcc97}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Méthodologie d'apprentissage par investigation}
-      \field{title}{Apprentissage par investigation}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://edutechwiki.unige.ch/fr/apprentissage_par_investigation
-      \endverb
-      \verb{url}
-      \verb https://edutechwiki.unige.ch/fr/apprentissage_par_investigation
-      \endverb
-    \endentry
     \entry{competences_transversales}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5d1e77ee76a11f68298c9ae0ab360d46}{%
@@ -2132,37 +1795,6 @@
       \verb https://www.empowill.com/blog/competences-transversales-impact
       \endverb
     \endentry
-    \entry{apprentissage_collaboratif}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=329875c2c351262ebed3343d8c962d2e}{%
-           family={{eTwinning}},
-           familyi={e\bibinitperiod}}}%
-      }
-      \strng{namehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{fullhash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{fullhashraw}{329875c2c351262ebed3343d8c962d2e}
-      \strng{bibnamehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authorbibnamehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authornamehash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authorfullhash}{329875c2c351262ebed3343d8c962d2e}
-      \strng{authorfullhashraw}{329875c2c351262ebed3343d8c962d2e}
-      \field{sortinit}{e}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Méthodologies collaboratives européennes}
-      \field{title}{Organiser les activités collaboratives avec les élèves}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.etwinning.fr/mener-son-projet/organiser-les-activites-collaboratives-avec-les-eleves
-      \endverb
-      \verb{url}
-      \verb https://www.etwinning.fr/mener-son-projet/organiser-les-activites-collaboratives-avec-les-eleves
-      \endverb
-    \endentry
     \entry{competences_transversales_eurecia}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=805508f58e6fbd5bc235b6a47006a8f1}{%
@@ -2192,44 +1824,6 @@
       \endverb
       \verb{url}
       \verb https://www.eurecia.com/blog/competences-transversales/
-      \endverb
-    \endentry
-    \entry{goigoux_analyse_activite}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e3fe18be19a51ff64ab3cdf0a7e51c7f}{%
-           family={Goigoux},
-           familyi={G\bibinitperiod},
-           given={Roland},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{fullhash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{fullhashraw}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{bibnamehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authorbibnamehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authornamehash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authorfullhash}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \strng{authorfullhashraw}{e3fe18be19a51ff64ab3cdf0a7e51c7f}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Éducation et didactique}
-      \field{number}{3}
-      \field{title}{Un modèle d’analyse de l’activité des enseignants}
-      \field{volume}{1}
-      \field{year}{2007}
-      \field{pages}{47\bibrangedash 69}
-      \range{pages}{23}
-      \verb{urlraw}
-      \verb http://journals.openedition.org/educationdidactique/232
-      \endverb
-      \verb{url}
-      \verb http://journals.openedition.org/educationdidactique/232
       \endverb
     \endentry
     \entry{houssaye_triangle}{book}{}{}
@@ -2302,37 +1896,6 @@
       \verb https://ics.utc.fr/tuto/evaluation_par_les_pairs.pdf
       \endverb
     \endentry
-    \entry{master_meef_nantes}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=72f899e0acb3a5e51d960125028ae752}{%
-           family={{INSPÉ Académie de Nantes}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{fullhash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{fullhashraw}{72f899e0acb3a5e51d960125028ae752}
-      \strng{bibnamehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authorbibnamehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authornamehash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authorfullhash}{72f899e0acb3a5e51d960125028ae752}
-      \strng{authorfullhashraw}{72f899e0acb3a5e51d960125028ae752}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Formation MEEF Informatique à Nantes}
-      \field{title}{Master {MEEF} {E}nseignement du second degré parcours informatique}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://inspe-site-nantes.univ-nantes.fr/devenir-professeur-en-college-ou-lycee/informatique
-      \endverb
-      \verb{url}
-      \verb https://inspe-site-nantes.univ-nantes.fr/devenir-professeur-en-college-ou-lycee/informatique
-      \endverb
-    \endentry
     \entry{kilpatrick_project_method}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f156ba637579167fa94f72019ddb7d55}{%
@@ -2401,36 +1964,54 @@
       \field{title}{The {A}dult {L}earner: {T}he {D}efinitive {C}lassic in {A}dult {E}ducation and {H}uman {R}esource {D}evelopment}
       \field{year}{2015}
     \endentry
-    \entry{investigation_mathia}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b9d2b38c56b81381458833ed17648ec4}{%
-           family={{Mathia Education}},
-           familyi={M\bibinitperiod}}}%
+    \entry{luckin_ai_education}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=38c74c8405cb81c3f9aa290a4ba5ba52}{%
+           family={Luckin},
+           familyi={L\bibinitperiod},
+           given={Rosemary},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a90574ed2f941eaeae5fc37ec8e0f323}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03c243c46939db53b246934d463f71a0}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95fc7e5642b1ea06eda0791bccf11694}{%
+           family={Forcier},
+           familyi={F\bibinitperiod},
+           given={Laurie\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{fullhash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{fullhashraw}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{bibnamehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authorbibnamehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authornamehash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authorfullhash}{b9d2b38c56b81381458833ed17648ec4}
-      \strng{authorfullhashraw}{b9d2b38c56b81381458833ed17648ec4}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{ea5362cdeefa9353008399bc9f888ab8}
+      \strng{fullhash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{fullhashraw}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{bibnamehash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{authorbibnamehash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{authornamehash}{ea5362cdeefa9353008399bc9f888ab8}
+      \strng{authorfullhash}{6546e450da7028d9ac9982ba255c6f05}
+      \strng{authorfullhashraw}{6546e450da7028d9ac9982ba255c6f05}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Définitions apprentissage par investigation}
-      \field{title}{Apprentissage basé sur l'investigation : glossaire}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://mathia.education/glossaire/apprentissage-base-sur-linvestigation/
-      \endverb
-      \verb{url}
-      \verb https://mathia.education/glossaire/apprentissage-base-sur-linvestigation/
-      \endverb
+      \field{note}{Ouvrage de référence sur l'IA éducative et l'apprentissage adaptatif}
+      \field{title}{Intelligence Unleashed: An argument for AI in Education}
+      \field{year}{2016}
     \endentry
     \entry{nsi_programmes}{misc}{}{}
       \name{author}{1}{}{%
@@ -2510,6 +2091,47 @@
       \field{title}{Baccalauréat spécialité Numérique et Sciences Informatiques}
       \field{year}{2021}
     \endentry
+    \entry{nicol_formative_assessment}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aafb4753f18a21fdb329e9d2db9101fe}{%
+           family={Nicol},
+           familyi={N\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64e0fd7f0d411601e5dffcf5f04917cc}{%
+           family={Macfarlane-Dick},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{fullhash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{fullhashraw}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{bibnamehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authorbibnamehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authornamehash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authorfullhash}{a10f44e44c11935bb6a505fc51f0cf87}
+      \strng{authorfullhashraw}{a10f44e44c11935bb6a505fc51f0cf87}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Higher Education}
+      \field{number}{2}
+      \field{title}{Formative assessment and self-regulated learning: A model and seven principles of good feedback practice}
+      \field{volume}{31}
+      \field{year}{2006}
+      \field{pages}{199\bibrangedash 218}
+      \range{pages}{20}
+    \endentry
     \entry{competences_21_siecle}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d044557951f2f3cba2dfe69b9c625a2}{%
@@ -2574,35 +2196,6 @@
       \field{note}{Référence majeure pour la pratique réflexive en éducation}
       \field{title}{Développer la pratique réflexive dans le métier d'enseignant : professionnalisation et raison pédagogique}
       \field{year}{2001}
-    \endentry
-    \entry{constructivisme_education}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=76cd658e2f3ecbeedfaceb2d2a1de596}{%
-           family={Piaget},
-           familyi={P\bibinitperiod},
-           given={Jean},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{fullhash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{fullhashraw}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{bibnamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authorbibnamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authornamehash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authorfullhash}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \strng{authorfullhashraw}{76cd658e2f3ecbeedfaceb2d2a1de596}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Encyclopédie de la Pléiade}
-      \field{note}{Fondateur du constructivisme pédagogique}
-      \field{title}{Logique et Connaissance Scientifique}
-      \field{year}{1967}
     \endentry
     \entry{projet_travail_groupe}{misc}{}{}
       \name{author}{1}{}{%
@@ -2731,6 +2324,39 @@
       \verb https://www.erudit.org/fr/revues/rse/2005-v31-n2-rse1040/012755ar/
       \endverb
     \endentry
+    \entry{saillot_didactique_ajustement}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=933515c15ff972fd0e44aae5a4750d08}{%
+           family={Saillot},
+           familyi={S\bibinitperiod},
+           given={Éric},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rennes}%
+      }
+      \strng{namehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{fullhash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{fullhashraw}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{bibnamehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authorbibnamehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authornamehash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authorfullhash}{933515c15ff972fd0e44aae5a4750d08}
+      \strng{authorfullhashraw}{933515c15ff972fd0e44aae5a4750d08}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Didactique de l'ajustement et des postures d'accompagnement}
+      \field{title}{Pour une didactique de l'ajustement}
+      \field{year}{2020}
+    \endentry
     \entry{saillot_ajustement}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=933515c15ff972fd0e44aae5a4750d08}{%
@@ -2751,8 +2377,10 @@
       \strng{authornamehash}{933515c15ff972fd0e44aae5a4750d08}
       \strng{authorfullhash}{933515c15ff972fd0e44aae5a4750d08}
       \strng{authorfullhashraw}{933515c15ff972fd0e44aae5a4750d08}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -2892,6 +2520,38 @@
       \verb https://t-lem.com/fr/methode-des-projets-dans-lenseignement-de-linformatique/
       \endverb
     \endentry
+    \entry{topping_peer_assessment}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d89c523f1ce9534b0d68b75561b5680d}{%
+           family={Topping},
+           familyi={T\bibinitperiod},
+           given={Keith\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{fullhash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{fullhashraw}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{bibnamehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authorbibnamehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authornamehash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authorfullhash}{d89c523f1ce9534b0d68b75561b5680d}
+      \strng{authorfullhashraw}{d89c523f1ce9534b0d68b75561b5680d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Interdisciplinary Education and Psychology}
+      \field{number}{1}
+      \field{title}{Peer assessment: Learning by judging and discussing the work of other learners}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
     \entry{unicaen}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f7ec106062e41fc7a5512b897098c47f}{%
@@ -2948,40 +2608,6 @@
       \field{title}{Concevoir une évaluation : l'évaluation par les pairs}
       \field{year}{2022}
     \endentry
-    \entry{vygotsky_mind_society}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ea19e4d26a75e62caddfee7394a5c042}{%
-           family={Vygotsky},
-           familyi={V\bibinitperiod},
-           given={Lev\bibnamedelima S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Cambridge, MA}%
-      }
-      \list{publisher}{1}{%
-        {Harvard University Press}%
-      }
-      \strng{namehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{fullhash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{fullhashraw}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{bibnamehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authorbibnamehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authornamehash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authorfullhash}{ea19e4d26a75e62caddfee7394a5c042}
-      \strng{authorfullhashraw}{ea19e4d26a75e62caddfee7394a5c042}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Zone proximale de développement - Apprentissage social}
-      \field{title}{Mind in Society: The Development of Higher Psychological Processes}
-      \field{year}{1978}
-    \endentry
     \entry{accessibilite_numerique}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=446a1ae6601a5c59360c7d591c3992da}{%
@@ -3013,39 +2639,7 @@
       \verb https://www.w3.org/WAI/
       \endverb
     \endentry
-    \entry{zaid_performances}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=876c4684283a29f4bb5d26a7d9cea664}{%
-           family={Zaid},
-           familyi={Z\bibinitperiod},
-           given={Abdelkarim},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{fullhash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{fullhashraw}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{bibnamehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authorbibnamehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authornamehash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authorfullhash}{876c4684283a29f4bb5d26a7d9cea664}
-      \strng{authorfullhashraw}{876c4684283a29f4bb5d26a7d9cea664}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Recherche et formation}
-      \field{title}{Analyse de l'activité et formation des enseignants}
-      \field{year}{2012}
-    \endentry
   \enddatalist
-  \missing{luckin_ai_education}
-  \missing{nicol_formative_assessment}
-  \missing{rncp38356}
-  \missing{topping_peer_assessment}
 \endrefsection
 \endinput
 
