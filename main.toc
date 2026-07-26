@@ -75,16 +75,18 @@
 \contentsline {subsection}{Public visé et cadre institutionnel}{27}{section.9.1}%
 \contentsline {subsection}{Objectifs d'ingénierie et progression andragogique}{27}{section.9.1}%
 \contentsline {subsection}{Plateforme numérique ressource : architecture et fonctionnalités}{28}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Axe 2 : Déroulement concret et scénarisation de l'action (2 heures + suivi asynchrone)}{32}{section.9.2}%
-\contentsline {subsection}{Phase 1 - Accroche et démonstration synchrone (30 minutes)}{32}{section.9.2}%
-\contentsline {subsection}{Phase 2 - Ateliers pratiques et défis personnalisés (60 minutes)}{32}{section.9.2}%
-\contentsline {subsection}{Phase 3 - Bilan, mutualisation et essaimage (30 minutes)}{32}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Axe 3 : Résultats, évaluation et impact du dispositif}{32}{section.9.3}%
-\contentsline {subsection}{Données quantitatives et visibilité}{32}{section.9.3}%
+\contentsline {section}{\numberline {9.2}Axe 2 : Déroulement concret et scénarisation de l'action (Session synchrone de 50 min + suivi asynchrone)}{32}{section.9.2}%
+\contentsline {subsection}{Contrainte temporelle et adaptation du scénario pédagogique}{32}{section.9.2}%
+\contentsline {subsection}{Découpage effectif de la session synchrone (50 minutes)}{32}{section.9.2}%
+\contentsline {subsubsection}{Phase 1 - Présentation des fondamentaux de \LaTeX {} et des enjeux (20 minutes)}{32}{section.9.2}%
+\contentsline {subsubsection}{Phase 2 - Démonstration en direct et gestion des aléas de l'IA (30 minutes)}{32}{section.9.2}%
+\contentsline {subsection}{Phase 3 - Prolongement et accompagnement asynchrone}{33}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Axe 3 : Résultats, évaluation et impact du dispositif}{33}{section.9.3}%
+\contentsline {subsection}{Données quantitatives et visibilité}{33}{section.9.3}%
 \contentsline {subsection}{Évaluation qualitative et retours des participants}{33}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Axe 4 : Analyse réflexive et alignement sur la maquette FFMS (Unicaen)}{33}{section.9.4}%
-\contentsline {subsection}{Analyse de l'activité du formateur d'adultes}{33}{section.9.4}%
-\contentsline {subsection}{Validation des unités d'enseignement (Maquette FFMS Caen)}{33}{section.9.4}%
+\contentsline {section}{\numberline {9.4}Axe 4 : Analyse réflexive et alignement sur la maquette FFMS (Unicaen)}{34}{section.9.4}%
+\contentsline {subsection}{Analyse de l'activité du formateur d'adultes}{34}{section.9.4}%
+\contentsline {subsection}{Validation des unités d'enseignement (Maquette FFMS Caen)}{34}{section.9.4}%
 \contentsline {chapter}{\numberline {10}Expérience 2 : Projet Collaboratif Innovant - Développement d'un jeu vidéo interdisciplinaire}{35}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Axe 1 : Contexte et genèse du projet}{35}{section.10.1}%
 \contentsline {subsection}{Une solution créative à une contrainte institutionnelle}{35}{section.10.1}%

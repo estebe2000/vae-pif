@@ -73,30 +73,52 @@ La plateforme (Figures \ref{fig-atelier-ia} et \ref{fig-forgeales-programme}) s'
     \item \textbf{Ressources \& Support} : Diaporamas de présentation, fiches synthétiques PDF, guides d'installation rapide, accès au Replay vidéo et au dépôt Git des sources sur LaForgeEdu.
 \end{enumerate}
 
-\section{Axe 2 : Déroulement concret et scénarisation de l'action (2 heures + suivi asynchrone)}
+\section{Axe 2 : Déroulement concret et scénarisation de l'action (Session synchrone de 50 min + suivi asynchrone)}
 
-\subsection{Phase 1 - Accroche et démonstration synchrone (30 minutes)}
+\subsection{Contrainte temporelle et adaptation du scénario pédagogique}
 
-Lors de la session en direct des Forgéales (\textit{Démo-Party}), j'ai animé une démonstration interactive devant la communauté d'enseignants et formateurs connectés :
+Initialement, le format imposé par l'organisation des Forgéales prévoyait une intervention synchrone très courte de \textbf{45 à 50 minutes}. Pour aborder un sujet aussi riche que l'articulation entre la syntaxe \LaTeX{} et les assistants d'Intelligence Artificielle, cette durée s'est révélée particulièrement restreinte.
 
+Face à cette contrainte temporelle forte, j'ai fait le choix méthodologique d'une \textbf{ingénierie hybride inversée} :
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Sensibilisation aux enjeux du numérique éducatif} : Analyse comparative du poids et de la durabilité des fichiers (documents volumineux générés par traitements de texte classiques vs PDF vectoriels \LaTeX{} ultra-légers).
-    \item \textbf{Démonstration d'écriture assistée par IA} : Génération en direct d'une structure complète de document et d'un tableau complexe via un prompt exécuté sur l'IDE Antigravity.
-    \item \textbf{Mise en perspective professionnelle} : Présentation des gains de productivité et de la qualité typographique pour la préparation des cours et la formation continue.
+    \item Consacrer la séance synchrone en direct (50 minutes) à l'accroche théorique, la démonstration d'outils et la gestion réflexive des usages.
+    \item Inviter les participants à réaliser les lectures approfondies, les tutoriels et les quatre challenges pratiques en autonomie asynchrone depuis la plateforme dédiée \url{https://pytelsteeve.forge.apps.education.fr/atelier-ia/}.
+    \item Mettre à disposition l'intégralité du **Replay vidéo** et des supports de la conférence sur le portail national des Forgéales :
+    \begin{center}
+    \url{https://les-forgeales.forge.apps.education.fr/}
+    \end{center}
 \end{itemize}
 
-\subsection{Phase 2 - Ateliers pratiques et défis personnalisés (60 minutes)}
+\subsection{Découpage effectif de la session synchrone (50 minutes)}
 
-Les participants ont ensuite réalisé les quatre challenges pratiques directement depuis le site ressource :
+La séance synchrone en direct s'est articulée autour de deux temps forts :
 
+\subsubsection{Phase 1 - Présentation des fondamentaux de \LaTeX{} et des enjeux (20 minutes)}
+
+Durant les 20 premières minutes, j'ai posé les bases conceptuelles et les enjeux professionnels pour les enseignants et formateurs :
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Expérimentation des thématiques} : Du simple squelette de document jusqu'au débogage automatisé par l'IA des erreurs de compilation \LaTeX{}.
-    \item \textbf{Accompagnement individualisé} : Assistance synchrone dans le tchat de la visioconférence, prise en main à distance des blocages de compilation et régulation des difficultés selon le niveau initial des participants.
+    \item \textbf{Séparation du fond et de la forme} : Explicitation des bénéfices typographiques de \LaTeX{} par rapport aux traitements de texte traditionnels WYSIWYG.
+    \item \textbf{Efficacité et sobriété numérique} : Comparatif du poids des fichiers (documents vectoriels ultra-légers) et pérennité des sources en texte brut (\texttt{.tex}).
+    \item \textbf{Présentation de l'environnement Antigravity} : Démonstration de l'IDE IA et de son \textit{Agent Manager} natif pour l'automatisation documentaire.
 \end{itemize}
 
-\subsection{Phase 3 - Bilan, mutualisation et essaimage (30 minutes)}
+\subsubsection{Phase 2 - Démonstration en direct et gestion des aléas de l'IA (30 minutes)}
 
-La séance s'est clôturée par un temps de synthèse réflexive sur la réutilisabilité du dispositif. Les apprenants ont été guidés pour forker le dépôt Git du projet afin d'adapter les modèles à leurs propres besoins de formation.
+Les 30 minutes suivantes ont été consacrées à une démonstration en direct (\textit{Live Demo}) de génération de code \LaTeX{} assistée par IA :
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Génération de structures de cours et de tableaux complexes} : Écriture de prompts d'ingénierie pédagogique pour créer automatiquement des sujets d'examen et des équations mathématiques.
+    \item \textbf{Gestion réflexive des « ratés » et des hallucinations de l'IA} : Lors du direct, l'assistant IA a produit quelques erreurs typiques (packages obsolètes, balises d'environnement mal fermées, erreurs de syntaxe). Loin de masquer ces aléas, j'ai saisi cette opportunité didactique pour conduire une \textbf{analyse critique en temps réel} avec les participants.
+    \item \textbf{Didactique du débogage assisté} : Démonstration de la posture du formateur qui réinjecte le message d'erreur \LaTeX{} dans le prompt pour forcer l'IA à auto-corriger son code. Cette séquence a permis de montrer que l'IA ne remplace pas l'expertise de l'enseignant, mais agit comme un assistant qu'il convient de piloter avec méthode.
+\end{itemize}
+
+\subsection{Phase 3 - Prolongement et accompagnement asynchrone}
+
+En clôture de la session en direct, les participants ont été orientés vers la plateforme \texttt{atelier-ia} et le portail des Forgéales (\url{https://les-forgeales.forge.apps.education.fr/}) pour :
+\begin{itemize}[leftmargin=*]
+    \item Visionner le replay vidéo pour revoir les manipulations complexes de débogage.
+    \item Réaliser à leur rythme les 4 challenges pratiques (du premier fichier \texttt{.tex} jusqu'à la création de documents modulaires).
+    \item Télécharger le catalogue de modèles et échanger de manière asynchrone sur le tchat de la communauté Tchap.
+\end{itemize}
 
 \section{Axe 3 : Résultats, évaluation et impact du dispositif}
 
@@ -120,9 +142,15 @@ Les questionnaires d'évaluation et les retours sur le réseau Tchap soulignent 
 
 \subsection{Analyse de l'activité du formateur d'adultes}
 
-À la lumière du modèle des postures professionnelles de Bucheton \& Soulé \parencite{bucheton_postures}, mon activité lors de cet atelier a évolué d'une posture de \textit{démonstration/guidage} lors de la phase d'accroche vers une posture d'\textit{accompagnement et d'étayage} pendant les challenges pratiques.
+À la lumière du modèle des postures professionnelles de Bucheton \& Soulé \parencite{bucheton_postures}, l'animation de cet atelier a exigé une grande souplesse dans le jeu des postures :
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Posture d'enseignement / magie (démonstration)} durant la présentation synthétique de 20 minutes sur \LaTeX{}.
+    \item \textbf{Posture d'accompagnement et de régulation improvisée} lors de la démonstration en direct (30 minutes), caractérisée par la gestion des imprévus techniques et des « ratés » de l'assistant IA.
+\end{itemize}
 
-Sur le plan de l'ajustement didactique \parencite{saillot_didactique_ajustement}, ce dispositif démontre une capacité à adapter la médiation technique aux profils variés d'apprenants adultes (enseignants novices en code vs formateurs aguerris au numérique).
+Sur le plan de la \textbf{pratique réflexive} \parencite{schon_reflective_practitioner,perrenoud_pratique_reflexive}, la survenue de ratés de l'IA en plein direct a été transformée en levier didactique : plutôt que de masquer l'erreur, la démonstration en temps réel du débogage et de l'auto-correction a permis de développer chez les formateurs apprenants une posture critique indispensable face aux LLMs.
+
+Sur le plan de l'\textbf{ajustement didactique} \parencite{saillot_didactique_ajustement}, la contrainte d'un format très court (45 min) a imposé une ingénierie de formation hybride : basculer l'expérimentation individuelle vers une plateforme ressource asynchrone (\texttt{atelier-ia}) et un Replay structuré (\url{https://les-forgeales.forge.apps.education.fr/}), illustrant l'adaptation fine du dispositif aux contraintes temporelles du public adulte.
 
 \subsection{Validation des unités d'enseignement (Maquette FFMS Caen)}
 
