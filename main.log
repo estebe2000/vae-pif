@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1560,7 +1560,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 ... formations qualifiantes}{13}{section.4.2}
+l.40 ... formations qualifiantes}{13}{section.4.2}
                                                   % [1]
 
 [2]
@@ -2124,6 +2124,12 @@ Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
 
 
 [34]
+Overfull \hbox (14.20322pt too wide) in paragraph at lines 99--100
+\T1/ptm/b/n/12 en-vi-ron 40 élèves\T1/ptm/m/n/12 , illus-trant la co-or-di-na-t
+ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
+powill[]\T1/ptm/m/n/12 ,
+ []
+
 <annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=559, 2007.5p
 t x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
@@ -2707,9 +2713,10 @@ Overfull \hbox (62.39992pt too wide) in alignment at lines 239--270
 [49]
 
 [50])
-Overfull \hbox (0.63963pt too wide) in paragraph at lines 335--613
-[]\T1/ptm/m/n/12 Cette mé-thode est une si-mu-la-tion di-recte des pra-tiques d
-'éva-lua-tion en en-tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 ,
+Overfull \hbox (2.04842pt too wide) in paragraph at lines 335--613
+[]\T1/ptm/m/n/12 Cette mé-thode s'ins-pire des pra-tiques d'éva-lua-tion en en-
+tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 , [][]2024[][]), et s'av
+ère
  []
 
 
@@ -3004,10 +3011,6 @@ Overfull \hbox (3.25917pt too wide) in paragraph at lines 3--3
 
 [75]
 
-LaTeX Warning: Citation 'rncp38356' on page 76 undefined on input line 633.
-
-
-
 [76
 
 
@@ -3031,7 +3034,7 @@ hercheur|
 [81]
 
 [82]
-<sources/medias/p4-moy.png, id=892, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=893, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 784.
@@ -3857,9 +3860,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (114 pages, 7930518 bytes).
+Output written on main.pdf (114 pages, 7930339 bytes).
 PDF statistics:
- 1125 PDF objects out of 1200 (max. 8388607)
+ 1126 PDF objects out of 1200 (max. 8388607)
  302 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 

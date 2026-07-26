@@ -162,7 +162,7 @@
 \contentsline {subsection}{Transférabilité vers le référentiel MEEF et l'enseignement supérieur}{51}{section.11.4}%
 \contentsline {subsubsection}{BC06 - Praticien réflexif et innovateur}{51}{section.11.4}%
 \contentsline {subsubsection}{BC05 - Compétences en évaluation formative}{51}{section.11.4}%
-\contentsline {subsubsection}{BC04 - Pertinence exceptionnelle pour l'IUT}{51}{section.11.4}%
+\contentsline {subsubsection}{BC04 - Pertinence pour la formation en IUT}{51}{section.11.4}%
 \contentsline {chapter}{\numberline {12}Conclusion de la partie 2}{52}{chapter.12}%
 \contentsline {section}{\numberline {12.1}Synthèse transversale des compétences développées}{52}{section.12.1}%
 \contentsline {subsection}{Trois approches pédagogiques complémentaires}{52}{section.12.1}%
