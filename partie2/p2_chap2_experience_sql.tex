@@ -1,28 +1,28 @@
-\chapter{Expérience 1 : Conception et Animation d'une Formation pour Enseignants et Formateurs (Atelier IA et LaTeX des Forgéales)}
+\chapter{Expérience 1 : Conception et Animation d'une Formation pour Enseignants et Formateurs (Atelier IA et \LaTeX{} des Forgéales)}
 
-\section{Axe 1 : Contexte et intentions pédagogiques}
+\section{Axe 1 : Contexte, intentions pédagogiques et ingénierie du dispositif}
 
-\subsection{Public et niveau de la formation}
+\subsection{Public visé et cadre institutionnel}
 
-Cette action de formation s'inscrit dans le cadre de la formation d'adultes (andragogie) et s'adresse spécifiquement à un public de \textbf{professeurs, formateurs académiques et enseignants du supérieur} (lycée et post-bac). Elle a été conçue et animée dans le cadre national des \textbf{Forgéales} \parencite{forge_educative}, un événement organisé par la Forge des Communs Numériques Éducatifs du Ministère de l'Éducation Nationale.
+Cette action de formation s'inscrit pleinement dans le champ de la formation d'adultes (andragogie) et s'adresse spécifiquement à un public de \textbf{professeurs, formateurs académiques, enseignants du secondaire et du supérieur} (lycée, BTS, BUT). Elle a été conçue et animée dans le cadre national des \textbf{Forgéales} \parencite{forge_educative}, événement organisé par la Forge des Communs Numériques Éducatifs du Ministère de l'Éducation Nationale.
 
-L'objectif de cet atelier est de répondre à un besoin émergent chez les enseignants et formateurs : maîtriser la rédaction scientifique structurée en \LaTeX{} combinée aux capacités d'automatisation de l'Intelligence Artificielle générative pour produire des supports pédagogiques, rapports, thèses et sujets d'examen de haute qualité.
+L'objectif central de cet atelier est de répondre à une problématique émergente chez les acteurs de la formation : concilier la rigueur de la rédaction scientifique structurée en \LaTeX{} avec la puissance d'automatisation des assistants d'Intelligence Artificielle générative (tels que Google Antigravity et les LLMs), afin de concevoir efficacement des cours, sujets d'examen, articles et mémoires d'une qualité typographique irréprochable et d'une durabilité numérique optimale.
 
-\subsection{Objectifs d'ingénierie et d'apprentissage pour adultes}
+\subsection{Objectifs d'ingénierie et progression andragogique}
 
-Conformément aux principes de l'andragogie \parencite{knowles_andragogy}, le dispositif vise l'autonomisation rapide et pratique des apprenants adultes. Les objectifs de formation s'articulent ainsi :
+Conformément aux principes fondateurs de l'andragogie \parencite{knowles_andragogy}, le dispositif a été pensé pour favoriser l'apprentissage autonome, synchrone et asynchrone, d'apprenants adultes en quête d'efficacité professionnelle. La progression pédagogique s'organise en cinq niveaux de maitrise :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Niveau 1 - Appropriation technologique} : Comprendre les principes de la séparation du fond et de la forme en \LaTeX{} et le fonctionnement des assistants IA de rédaction.
-    \item \textbf{Niveau 2 - Ingénierie documentaire} : Générer des documents légers, durables et vectoriels respectant les standards académiques et d'accessibilité.
-    \item \textbf{Niveau 3 - Intégration de l'IA générative} : Formuler des invites (\textit{prompts}) complexes pour automatiser la mise en page, la structuration des tableaux et la correction de syntaxe.
-    \item \textbf{Niveau 4 - Analyse réflexive des usages} : Évaluer de manière critique la qualité du code produit par l'IA et garantir la souveraineté pédagogique de l'enseignant.
-    \item \textbf{Niveau 5 - Réutilisation et essaimage} : Adapter les modèles proposés à son propre contexte d'enseignement ou de formation de pairs.
+    \item \textbf{Niveau 1 - Appropriation technologique} : Assimiler les principes fondamentaux de la séparation du fond et de la forme en \LaTeX{} et installer l'environnement de développement intégré assisté par IA (IDE Google Antigravity avec \textit{Agent Manager} natif).
+    \item \textbf{Niveau 2 - Ingénierie documentaire et sobriété numérique} : Produire des documents vectoriels légers, pérennes et parfaitement structurés, substituables aux formats de traitement de texte lourds et non pérennes.
+    \item \textbf{Niveau 3 - Ingénierie d'invite (\textit{prompt engineering})} : Formuler des invites complexes pour générer automatiquement la structure de documents, les environnements mathématiques et les tableaux \LaTeX{}.
+    \item \textbf{Niveau 4 - Posture réflexive et contrôle critique} : Développer une analyse critique du code généré par les LLMs, corriger les erreurs de compilation en temps réel et préserver l'expertise didactique du formateur.
+    \item \textbf{Niveau 5 - Essaimage et réutilisation} : Adapter le catalogue de modèles et les fiches mémentos pour former ses propres pairs ou collègues au sein d'un établissement.
 \end{itemize}
 
-\subsection{Support et ingénierie numérique de formation}
+\subsection{Plateforme numérique ressource : architecture et fonctionnalités}
 
-Pour soutenir cette formation en ligne et garantir un apprentissage autonome synchrone et asynchrone, j'ai développé un site ressource interactif dédié hébergé sur la Forge Éducative : \texttt{pytelsteeve.forge.apps.education.fr/atelier-ia/}.
+Pour soutenir la formation synchrone et permettre une auto-formation asynchrone continue, j'ai conçu et déployé la plateforme web dédiée : \texttt{https://pytelsteeve.forge.apps.education.fr/atelier-ia/}.
 
 \begin{figure}[H]
     \centering
@@ -38,74 +38,95 @@ Pour soutenir cette formation en ligne et garantir un apprentissage autonome syn
     \label{fig-forgeales-programme}
 \end{figure}
 
-Le dispositif repose sur une \textbf{ingénierie de formation hybride} (Figures \ref{fig-atelier-ia} et \ref{fig-forgeales-programme}) incluant :
-\begin{itemize}[leftmargin=*]
-    \item Des \textbf{tutoriels pas-à-pas} et fiches mémentos sur la syntaxe \LaTeX{} et l'usage des IA.
-    \item Un catalogue de \textbf{modèles prêts à l'emploi} (sujets de devoir, présentations, rapports de stage, CV).
-    \item Une série de \textbf{challenges et mises en situation} guidées pour pratiquer l'ingénierie d'invite (\textit{prompt engineering}).
-    \item La mise à disposition intégrale des \textbf{sources et du replay} pour la formation continue à distance.
-\end{itemize}
+La plateforme (Figures \ref{fig-atelier-ia} et \ref{fig-forgeales-programme}) s'articule autour de six modules interactifs principaux :
 
-\section{Axe 2 : Déroulement concret de l'action de formation (2 heures + suivi asynchrone)}
+\begin{enumerate}
+    \item \textbf{Accueil} : Présentation des enjeux d'efficacité numérique et d'automatisation de l'écriture scientifique.
+    \item \textbf{Méthodes \& Installation} :
+    \begin{itemize}[leftmargin=*]
+        \item \textit{Guide d'installation multi-plateforme} (Windows, macOS, Linux) : Configuration de Google Antigravity (IDE IA avec gestionnaire d'agents en tâche de fond), distribution TeX (MiKTeX / TeX Live) et extension \LaTeX{} Workshop.
+        \item \textit{Philosophie « Pourquoi \LaTeX{} ? »} : Séparation du contenu et de la mise en page, rendu vectoriel d'excellence, gestion des équations et des bibliographies (BibTeX/BibLaTeX).
+        \item \textit{Exemples de base} : Analyse de squelettes \LaTeX{} commentés (\texttt{\textbackslash documentclass}, \texttt{\textbackslash usepackage}, \texttt{\textbackslash begin\{document\}}).
+        \item \textit{Projets Avancés \& Modulaires} : Principes de découpage d'un long document (mémoire, rapport, thèse) en un fichier maître (\texttt{main.tex}) orchestrant des sous-fichiers inclus (\texttt{\textbackslash include\{\dots\}}).
+    \end{itemize}
+    
+    \item \textbf{Catalogue de Modèles Prêts à l'Emploi} :
+    \begin{itemize}[leftmargin=*]
+        \item \textit{Candidature \& Emploi} : Templates de CV Classique épuré et CV Design.
+        \item \textit{Supports Pédagogiques} : Modèles de fiches de TD/TP, sujets de devoir avec barème, et présentations interactives Beamer.
+        \item \textit{Documents Académiques} : Modèles de rapports de stage, mémoires et articles scientifiques.
+    \end{itemize}
+    
+    \item \textbf{Challenges Pratiques (4 défis progressifs)} :
+    \begin{itemize}[leftmargin=*]
+        \item \textit{Challenge 1 - Premier Fichier \LaTeX{} (15 min)} : Prise en main du squelette de base à travers la rédaction d'une fiche structurée (*« Les Crêpes »*) pour maîtriser titres et listes.
+        \item \textit{Challenge 2 - Formules \& Environnements Scientifiques} : Rédaction d'un sujet avec équations en ligne (\texttt{\$...\$}) et hors-texte (\texttt{\textbackslash[\dots\textbackslash]}), fractions, matrices et symboles mathématiques.
+        \item \textit{Challenge 3 - Documents Complexes \& Médias Vectoriels} : Insertion de figures (\texttt{\textbackslash includegraphics}), tableaux complexes (\texttt{longtable}, \texttt{tcolorbox}), légendes et références croisées.
+        \item \textit{Challenge 4 - Rédaction Assistée par l'IA (Prompt Engineering)} : Utilisation de l'Agent Manager d'Antigravity pour générer des blocs \LaTeX{}, convertir du texte brut en \LaTeX{} et déboguer les erreurs de compilation.
+    \end{itemize}
+    
+    \item \textbf{Mémento \LaTeX{}} : Synthèse visuelle des commandes incontournables (structure, typographie, mathématiques, tableaux).
+    \item \textbf{Ressources \& Support} : Diaporamas de présentation, fiches synthétiques PDF, guides d'installation rapide, accès au Replay vidéo et au dépôt Git des sources sur LaForgeEdu.
+\end{enumerate}
+
+\section{Axe 2 : Déroulement concret et scénarisation de l'action (2 heures + suivi asynchrone)}
 
 \subsection{Phase 1 - Accroche et démonstration synchrone (30 minutes)}
 
-Lors de la session en direct des Forgéales (\textit{Démo-Party}), j'anime une présentation interactive devant une communauté d'enseignants et de formateurs connectés au niveau national :
+Lors de la session en direct des Forgéales (\textit{Démo-Party}), j'ai animé une démonstration interactive devant la communauté d'enseignants et formateurs connectés :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Sensibilisation aux enjeux du numérique éducatif} : Présentation du bilan carbone et du poids des fichiers (comparatif PDF vectoriel \LaTeX{} vs documents de traitement de texte volumineux).
-    \item \textbf{Démonstration en temps réel} : Génération automatisée d'une structure de document complète à partir d'un prompt rédigé sur un assistant IA (Antigravity/LLMs).
-    \item \textbf{Tissage avec la pratique professionnelle} : Explicitation des gains de productivité pour la préparation de cours et la rédaction d'articles scientifiques.
+    \item \textbf{Sensibilisation aux enjeux du numérique éducatif} : Analyse comparative du poids et de la durabilité des fichiers (documents volumineux générés par traitements de texte classiques vs PDF vectoriels \LaTeX{} ultra-légers).
+    \item \textbf{Démonstration d'écriture assistée par IA} : Génération en direct d'une structure complète de document et d'un tableau complexe via un prompt exécuté sur l'IDE Antigravity.
+    \item \textbf{Mise en perspective professionnelle} : Présentation des gains de productivité et de la qualité typographique pour la préparation des cours et la formation continue.
 \end{itemize}
 
-\subsection{Phase 2 - Ateliers pratiques et expérimentation guidée (60 minutes)}
+\subsection{Phase 2 - Ateliers pratiques et défis personnalisés (60 minutes)}
 
-Les participants travaillent en autonomie accompagnée sur les défis proposés par le site :
+Les participants ont ensuite réalisé les quatre challenges pratiques directement depuis le site ressource :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Exercice 1 : Rédaction assistée} : Structurer un cours ou une fiche TD complexe en utilisant l'IA pour générer le code de tableaux et d'équations mathématiques.
-    \item \textbf{Exercice 2 : Résolution de bugs et débogage} : Utiliser l'IA pour interpréter les erreurs de compilation \LaTeX{} et ajuster la mise en page.
-    \item \textbf{Accompagnement individualisé} : Réponse en direct dans le tchat de la plateforme et régulation des difficultés d'appropriation des formateurs novices.
+    \item \textbf{Expérimentation des thématiques} : Du simple squelette de document jusqu'au débogage automatisé par l'IA des erreurs de compilation \LaTeX{}.
+    \item \textbf{Accompagnement individualisé} : Assistance synchrone dans le tchat de la visioconférence, prise en main à distance des blocages de compilation et régulation des difficultés selon le niveau initial des participants.
 \end{itemize}
 
 \subsection{Phase 3 - Bilan, mutualisation et essaimage (30 minutes)}
 
-La séance synchrone se conclut par un temps d'échange réflexif sur la transférabilité de la méthode dans les établissements et centres de formation. Les participants sont invités à partager leurs productions sur le dépôt Git de la Forge.
+La séance s'est clôturée par un temps de synthèse réflexive sur la réutilisabilité du dispositif. Les apprenants ont été guidés pour forker le dépôt Git du projet afin d'adapter les modèles à leurs propres besoins de formation.
 
-\section{Axe 3 : Résultats et évaluation du dispositif de formation}
+\section{Axe 3 : Résultats, évaluation et impact du dispositif}
 
-\subsection{Résultats quantitatifs et rayonnement}
+\subsection{Données quantitatives et visibilité}
 
-La formation a bénéficié d'une forte visibilité au sein de la communauté éducative :
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Participation active} : Plus de 40 enseignants et formateurs connectés lors du direct et des dizaines de vues en replay.
-    \item \textbf{Diffusion nationale} : Référencement de l'atelier sur le portail officiel des Forgéales (\texttt{les-forgeales.forge.apps.education.fr}).
-    \item \textbf{Réutilisation des ressources} : Téléchargement et fork des modèles \LaTeX{} par des collègues formateurs dans plusieurs académies.
+    \item \textbf{Public touché} : Plus de 40 enseignants et formateurs connectés lors de la session synchrone en direct, et plusieurs dizaines de consultations asynchrones du Replay.
+    \item \textbf{Rayonnement national} : Référencement officiel de l'atelier sur le portail des Forgéales (\texttt{les-forgeales.forge.apps.education.fr}).
+    \item \textbf{Appropriation des ressources} : Téléchargement fréquent du pack de modèles et réutilisation des fiches mémentos dans plusieurs académies.
 \end{itemize}
 
-\subsection{Évaluation qualitative et retours des apprenants adultes}
+\subsection{Évaluation qualitative et retours des participants}
 
-L'évaluation de la formation (via questionnaires et retours sur le réseau Tchap) met en évidence :
+Les questionnaires d'évaluation et les retours sur le réseau Tchap soulignent :
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Levée du frein d'entrée sur \LaTeX{}} : L'IA permet d'éliminer la barrière de la syntaxe complexe pour se concentrer sur la structuration pédagogique du contenu.
-    \item \textbf{Satisfaction sur la posture d'animation} : Clarté des explications, disponibilité des ressources en libre accès et transférabilité immédiate.
+    \item \textbf{Démystification de \LaTeX{}} : L'intégration des assistants IA permet de lever le frein syntaxique initial et de rendre \LaTeX{} accessible dès la première séance.
+    \item \textbf{Pertinence du site ressource} : Ergonomie appréciée de la plateforme \texttt{atelier-ia}, permettant un parcours autonome structuré.
 \end{itemize}
 
-\section{Axe 4 : Analyse réflexive et transférabilité vers le Master MEEF PIF (FFMS)}
+\section{Axe 4 : Analyse réflexive et alignement sur la maquette FFMS (Unicaen)}
 
-\subsection{Analyse de l'activité du formateur (Modèle de Saillot et Bucheton)}
+\subsection{Analyse de l'activité du formateur d'adultes}
 
-En analysant mon activité lors de cet atelier sous l'angle du multi-agenda de Bucheton \parencite{bucheton_postures}, ma posture a évolué d'une posture de \textit{contrôle/démonstration} au début de la séance vers une posture d'\textit{accompagnement et de lâcher-prise} durant la phase pratique, favorisant la régulation entre pairs et l'autonomie des adultes en formation.
+À la lumière du modèle des postures professionnelles de Bucheton \& Soulé \parencite{bucheton_postures}, mon activité lors de cet atelier a évolué d'une posture de \textit{démonstration/guidage} lors de la phase d'accroche vers une posture d'\textit{accompagnement et d'étayage} pendant les challenges pratiques.
 
-Du point de vue de l'ajustement pédagogique \parencite{saillot_didactique_ajustement}, ce dispositif illustre l'adaptation constante aux besoins hétérogènes des apprenants adultes (formateurs experts en numérique vs enseignants novices en \LaTeX{}).
+Sur le plan de l'ajustement didactique \parencite{saillot_didactique_ajustement}, ce dispositif démontre une capacité à adapter la médiation technique aux profils variés d'apprenants adultes (enseignants novices en code vs formateurs aguerris au numérique).
 
-\subsection{Correspondance avec la maquette FFMS d'Unicaen}
+\subsection{Validation des unités d'enseignement (Maquette FFMS Caen)}
 
-Cette expérience valide directement plusieurs éléments constitutifs (EC) de la maquette du Master MEEF PIF - Parcours FFMS d'Unicaen :
+Cette expérience apporte des preuves directes pour la validation des UEs et ECs du Master MEEF PIF (Parcours FFMS d'Unicaen) :
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{EC 124 / 224 - Les démarches d'ingénierie de formation (1 \& 2)} : Conception, scénarisation et mise en œuvre d'un dispositif complet de formation d'adultes.
-    \item \textbf{EC 162 / 262 - Le numérique au service de l'exercice du métier de formateur} : Exploitation experte des outils numériques (Forge, Git, IA générative) pour la formation.
-    \item \textbf{EC 163 / 263 - Technique d'animation et d'entretien pour accompagner l'individu et le collectif} : Animation d'atelier synchrone et accompagnement de formateurs en ligne.
-    \item \textbf{EC 131 / 231 - Les sujets et les collectifs au travail : professionnalité et identité} : Contribution au développement professionnel continu des pairs.
+    \item \textbf{EC 124 / 224 - Les démarches d'ingénierie de formation (1 \& 2)} : Conception, scénarisation, déploiement et évaluation d'un dispositif complet de formation pour adultes.
+    \item \textbf{EC 162 / 262 - Le numérique au service du métier de formateur} : Création d'une plateforme ressource interactive et intégration experte des IA et des outils libres (GitLab, \LaTeX{}, Antigravity).
+    \item \textbf{EC 163 / 263 - Technique d'animation et d'accompagnement du collectif} : Animation d'un atelier synchrone national et régulation des apprentissages en ligne.
+    \item \textbf{EC 131 / 231 - Les sujets et les collectifs au travail} : Contribution active au développement professionnel et à l'acculturation numérique des pairs.
 \end{itemize}
