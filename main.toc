@@ -259,8 +259,8 @@
 \contentsline {subsection}{Cadre, problématique et gouvernance scientifique}{80}{section.17.1}%
 \contentsline {subsection}{Équipe d'encadrement pluridisciplinaire et internationale constituée}{80}{section.17.1}%
 \contentsline {subsection}{Feuille de route et calendrier opérationnel (Début septembre 2026)}{81}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Trajectoire professionnelle et cohérence du projet VAE}{81}{section.17.2}%
-\contentsline {subsection}{Plan de carrière}{81}{section.17.2}%
+\contentsline {section}{\numberline {17.2}Trajectoire professionnelle et cohérence du projet VAE}{82}{section.17.2}%
+\contentsline {subsection}{Plan de carrière}{82}{section.17.2}%
 \contentsline {subsection}{Le Master MEEF : un levier stratégique}{82}{section.17.2}%
 \contentsline {chapter}{Conclusion générale}{83}{chapter*.7}%
 \contentsline {part}{IV\hspace {1em}Annexes Illustratives}{}{part.4}%

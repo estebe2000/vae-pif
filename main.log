@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2960,11 +2960,6 @@ Underfull \hbox (badness 7064) in paragraph at lines 70--71
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-\T1/ptm/m/n/10.95 LI-TIS/Unicaen [RNCP
- []
-
-
 Underfull \hbox (badness 5077) in paragraph at lines 72--73
 []|\T1/ptm/m/n/10.95 Expérience 3 (No-ta-tion à
  []
@@ -2988,8 +2983,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.16.2})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.89 \end{itemize}
-                  ])
+l.95     \item U
+                ne approche systÃ©mique de la formation, intÃ©grant l'analys...
+])
 
 [79]
 \openout2 = `partie3/p3_chap5_projet_professionnel.aux'.
@@ -3859,7 +3855,7 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTe
 X/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (120 pages, 8785577 bytes).
+Output written on main.pdf (120 pages, 8785597 bytes).
 PDF statistics:
  1558 PDF objects out of 1728 (max. 8388607)
  309 named destinations out of 1000 (max. 500000)
