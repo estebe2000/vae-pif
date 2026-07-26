@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2101,7 +2101,7 @@ ee-ring) \T1/ptm/m/n/12 : Uti-li-sa-tion de l'Agent
 [31]
 
 [32]
-Overfull \hbox (28.6489pt too wide) in paragraph at lines 116--117
+Overfull \hbox (28.6489pt too wide) in paragraph at lines 115--116
 []\T1/ptm/m/n/12 En clô-ture de la ses-sion en di-rect, les par-ti-ci-pants ont
  été orien-tés vers la pla-te-forme \T1/pcr/m/n/12 atelier-ia
  []
@@ -3845,7 +3845,7 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (116 pages, 8777257 bytes).
+Output written on main.pdf (116 pages, 8777271 bytes).
 PDF statistics:
  1547 PDF objects out of 1728 (max. 8388607)
  304 named destinations out of 1000 (max. 500000)
