@@ -1,6 +1,6 @@
-PWD c:\Users\estebe\Documents\vae-5\vae-main-5-main-pif\vae-main-5-main
+PWD c:\Users\estebe\Documents\vae-pif
 INPUT C:\Users\estebe\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\estebe\Documents\vae-5\vae-main-5-main-pif\vae-main-5-main\main.tex
+INPUT c:\Users\estebe\Documents\vae-pif\main.tex
 OUTPUT main.log
 INPUT C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
