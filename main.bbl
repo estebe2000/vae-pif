@@ -948,6 +948,40 @@
       \verb https://www.pygame.org/
       \endverb
     \endentry
+    \entry{rabardel_hommes_technologies}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e598d0f1e9857f9d3819776cb5ca5d28}{%
+           family={Rabardel},
+           familyi={R\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Armand Colin}%
+      }
+      \strng{namehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{fullhash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{fullhashraw}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{bibnamehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authorbibnamehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authornamehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authorfullhash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authorfullhashraw}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Théorie de l'approche instrumentale et de la genèse instrumentale}
+      \field{title}{Les hommes et les technologies : approche cognitive des instruments contemporains}
+      \field{year}{1995}
+    \endentry
     \entry{but_informatique}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=541a2f4414ddcb5a9ef57aadb5d7f13b}{%
@@ -1077,6 +1111,40 @@
       \field{labeltitlesource}{title}
       \field{title}{Pour une didactique de l'ajustement}
       \field{year}{2020}
+    \endentry
+    \entry{scallon_evaluation}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7c7f16670a2851dda5f95ea5d3e4a74}{%
+           family={Scallon},
+           familyi={S\bibinitperiod},
+           given={Gérard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Saint-Laurent (Québec)}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Renouveau Pédagogique}%
+      }
+      \strng{namehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{fullhash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{fullhashraw}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{bibnamehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authorbibnamehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authornamehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authorfullhash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authorfullhashraw}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Ingénierie de l'évaluation des compétences}
+      \field{title}{L'évaluation des apprentissages dans une approche par compétences}
+      \field{year}{2004}
     \endentry
     \entry{schon_reflective_practitioner}{book}{}{}
       \name{author}{1}{}{%
@@ -2259,6 +2327,40 @@
       \verb https://www.pygame.org/
       \endverb
     \endentry
+    \entry{rabardel_hommes_technologies}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e598d0f1e9857f9d3819776cb5ca5d28}{%
+           family={Rabardel},
+           familyi={R\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Armand Colin}%
+      }
+      \strng{namehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{fullhash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{fullhashraw}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{bibnamehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authorbibnamehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authornamehash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authorfullhash}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \strng{authorfullhashraw}{e598d0f1e9857f9d3819776cb5ca5d28}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Théorie de l'approche instrumentale et de la genèse instrumentale}
+      \field{title}{Les hommes et les technologies : approche cognitive des instruments contemporains}
+      \field{year}{1995}
+    \endentry
     \entry{but_informatique}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=541a2f4414ddcb5a9ef57aadb5d7f13b}{%
@@ -2388,6 +2490,40 @@
       \field{labeltitlesource}{title}
       \field{title}{Pour une didactique de l'ajustement}
       \field{year}{2020}
+    \endentry
+    \entry{scallon_evaluation}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7c7f16670a2851dda5f95ea5d3e4a74}{%
+           family={Scallon},
+           familyi={S\bibinitperiod},
+           given={Gérard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Saint-Laurent (Québec)}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Renouveau Pédagogique}%
+      }
+      \strng{namehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{fullhash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{fullhashraw}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{bibnamehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authorbibnamehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authornamehash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authorfullhash}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \strng{authorfullhashraw}{e7c7f16670a2851dda5f95ea5d3e4a74}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Ingénierie de l'évaluation des compétences}
+      \field{title}{L'évaluation des apprentissages dans une approche par compétences}
+      \field{year}{2004}
     \endentry
     \entry{schon_reflective_practitioner}{book}{}{}
       \name{author}{1}{}{%

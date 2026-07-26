@@ -42,45 +42,18 @@ Le jeu vidéo a été choisi pour plusieurs raisons pédagogiques stratégiques 
 
 \section{Axe 2 : Conception, planification et pilotage du projet}
 
-\subsection{L'enseignant-développeur : création du moteur de jeu}
+\subsection{Conception de l'artefact didactique : un moteur de médiation pédagogique}
 
-J'ai développé un \textbf{moteur de jeu sur mesure} en Python avec la bibliothèque Pygame \parencite{pygame_tutorial}. Cette démarche de conception préalable a nécessité une double réflexion :
+En tant qu'ingénieur de formation et concepteur de ressources, j'ai développé un \textbf{moteur de jeu sur mesure} en Python (\url{https://github.com/estebe2000/v3}). Loin d'une simple performance informatique, cette démarche de conception répondait avant tout à une exigence de \textbf{didactisation et de médiation socio-technique} \parencite{rabardel_hommes_technologies,chevallard_transposition} :
 
-\subsubsection{Réflexion technique}
+\subsubsection{Ingénierie de la ressource et découplage didactique}
 \begin{itemize}[leftmargin=*]
-    \item Architecture modulaire permettant l'ajout facile de nouveaux niveaux, objets et fonctionnalités
-    \item Système de gestion des collisions optimisé
-    \item Système de dialogue avec les PNJ (Personnages Non Joueurs)
-    \item Système de sauvegarde/chargement de partie
-    \item Interface multilingue (français, anglais, italien)
+    \item \textbf{Encapsulation de la complexité (Apprêtement didactique)} : Masquer la complexité algorithmique de bas niveau (gestion des boucles système, collisions physiques) pour permettre aux apprenants de se concentrer sur les concepts clés et la création.
+    \item \textbf{Architecture modulaire et inter-disciplinaire} : Découpler strictement les couches applicatives (scénario/dialogues, ressources graphiques, logique algorithmique, environnement sonore) afin de permettre la contribution simultanée d'équipes aux profils et compétences disciplinaires très variés.
+    \item \textbf{Médiation multilingue et écosystème d'apprentissage} : Intégration d'un système de traduction dynamique (français, anglais, italien) facilitant la médiation culturelle et linguistique.
 \end{itemize}
 
-\subsubsection{Réflexion didactique}
-\begin{itemize}[leftmargin=*]
-    \item Comment rendre le code \textbf{compréhensible} pour des élèves de niveau hétérogène ?
-    \item Quels commentaires et quelle documentation fournir pour faciliter l'appropriation ?
-    \item Comment structurer le code pour que les élèves puissent travailler sur des parties différentes sans se gêner ?
-\end{itemize}
-
-Cette réflexion s'inscrit dans les principes de l'ingénierie pédagogique \parencite{ingenierie_digiforma}: se demander « que vont faire les élèves pour apprendre ? » plutôt que « que vais-je enseigner ? ». C'est une démarche de recherche-action \parencite{recherche_action_education} appliquée à la conception de ressources pédagogiques.
-
-\subsubsection{Architecture technique du moteur de jeu}
-Le moteur de jeu développé pour ce projet (disponible sur \url{https://github.com/estebe2000/v3}) présente une architecture modulaire professionnelle, adaptée à un contexte pédagogique :
-
-\textbf{Modules principaux :}
-\begin{itemize}[leftmargin=*]
-    \item \textbf{main.py} : Point d'entrée principal et boucle de jeu
-    \item \textbf{games.py} : Gestionnaire de logique de jeu et états
-    \item \textbf{player.py} : Système de gestion du personnage joueur
-    \item \textbf{maps.py} : Moteur de cartes et gestion des niveaux
-    \item \textbf{dialog.py} : Système de dialogues multilingues avec PNJ
-\end{itemize}
-
-\textbf{Système d'effets visuels avancés :}
-\begin{itemize}[leftmargin=*]
-    \item \textbf{effects.py} : Coordinateur d'effets visuels
-    \item \textbf{fx\_fire.py}, \textbf{fx\_light.py}, \textbf{fx\_rain.py} : Simulation d'effets de feu, lumière et pluie
-\end{itemize}
+Cette démarche s'inscrit pleinement dans les principes de l'ingénierie pédagogique et de formation \parencite{ingenierie_digiforma} : concevoir un environnement de formation qui soutient l'action réflexive et le travail collaboratif, en posant la question pivot : \enquote{Comment la ressource technique devient-elle un instrument d'apprentissage et de coopération ?} \parencite{rabardel_hommes_technologies,recherche_action_education}.
 
 \subsection{Organisation collaborative : une structure inspirée des méthodes agiles}
 
@@ -339,3 +312,9 @@ Cette expérience nourrit directement mon projet de thèse sur plusieurs aspects
     \item \textbf{Évaluation des compétences transversales} : Comment mesurer objectivement le développement des soft skills dans un projet collaboratif ?
     \item \textbf{Collaboration numérique} : Quels outils numériques optimisent la collaboration interdisciplinaire en contexte scolaire ?
 \end{enumerate}
+
+\subsection{Transition réflexive : des limites évaluatives du projet collectif vers l'ingénierie d'évaluation (Lien avec l'Expérience 3)}
+
+Si ce Projet Collaboratif Innovant a démontré l'efficacité de la pédagogie par projet interdisciplinaire, il a également mis en lumière une limite majeure de l'ingénierie de formation traditionnelle : \textbf{la difficulté d'évaluer équitablement la contribution individuelle au sein d'un artefact collectif ambitieux}. 
+
+Comment attribuer une note juste quand un élève s'est investi sur l'algorithmique complexe tandis qu'un autre a coordonné la traduction ou le graphisme, sans générer un sentiment de frustration ou d'injustice redistributive ? C'est précisément cette rupture réflexive née de l'Expérience 2 qui m'a motivé à engager une recherche-action ciblée sur l'\textbf{ingénierie de l'évaluation régulatrice} : la conception et l'expérimentation de la \textbf{Notation à l'Enveloppe (Chapitre 11 - Expérience 3)}.

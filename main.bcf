@@ -3136,9 +3136,11 @@
     <bcf:citekey order="53" intorder="1">houssaye_triangle</bcf:citekey>
     <bcf:citekey order="54" intorder="1">chevallard_transposition</bcf:citekey>
     <bcf:citekey order="55" intorder="1">pedagogie_active</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">pygame_tutorial</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">rabardel_hommes_technologies</bcf:citekey>
+    <bcf:citekey order="56" intorder="2">chevallard_transposition</bcf:citekey>
     <bcf:citekey order="57" intorder="1">ingenierie_digiforma</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">recherche_action_education</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">rabardel_hommes_technologies</bcf:citekey>
+    <bcf:citekey order="58" intorder="2">recherche_action_education</bcf:citekey>
     <bcf:citekey order="59" intorder="1">projet_travail_groupe</bcf:citekey>
     <bcf:citekey order="60" intorder="1">competences_transversales</bcf:citekey>
     <bcf:citekey order="61" intorder="1">rncp38152</bcf:citekey>
@@ -3167,7 +3169,9 @@
     <bcf:citekey order="79" intorder="1">intelligence_artificielle_education</bcf:citekey>
     <bcf:citekey order="80" intorder="1">evaluation_pairs_utc</bcf:citekey>
     <bcf:citekey order="80" intorder="2">evaluation_pairs_univ_poitiers</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">evaluation_formative</bcf:citekey>
+    <bcf:citekey order="80" intorder="3">scallon_evaluation</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">perrenoud_pratique_reflexive</bcf:citekey>
+    <bcf:citekey order="81" intorder="2">nicol_formative_assessment</bcf:citekey>
     <bcf:citekey order="82" intorder="1">evaluation_pairs_utc</bcf:citekey>
     <bcf:citekey order="83" intorder="1">perrenoud_pratique_reflexive</bcf:citekey>
     <bcf:citekey order="84" intorder="1">evaluation_pairs_univ_poitiers</bcf:citekey>

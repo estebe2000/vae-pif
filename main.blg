@@ -1,19 +1,19 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[75] biber-MSWIN64:342> INFO - === 
-[109] Biber.pm:421> INFO - Reading 'main.bcf'
-[205] Biber.pm:1002> INFO - Found 40 citekeys in bib section 0
-[217] Biber.pm:4487> INFO - Processing section 0
-[224] Biber.pm:4678> INFO - Looking for bibtex file 'VAE-MEEF-Bibliographie.bib' for section 0
-[286] bibtex.pm:1713> INFO - LaTeX decoding ...
+[80] biber-MSWIN64:342> INFO - === 
+[114] Biber.pm:421> INFO - Reading 'main.bcf'
+[209] Biber.pm:1002> INFO - Found 42 citekeys in bib section 0
+[220] Biber.pm:4487> INFO - Processing section 0
+[227] Biber.pm:4678> INFO - Looking for bibtex file 'VAE-MEEF-Bibliographie.bib' for section 0
+[287] bibtex.pm:1713> INFO - LaTeX decoding ...
 [334] bibtex.pm:1519> INFO - Found BibTeX data source 'VAE-MEEF-Bibliographie.bib'
-[444] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
 [444] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[444] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
 [444] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
-[444] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
-[483] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[483] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[483] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
-[483] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
-[506] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[528] bbl.pm:779> INFO - Output to main.bbl
+[445] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
+[486] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[486] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[486] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'fr-FR'
+[486] Biber.pm:4313> INFO - No sort tailoring available for locale 'fr-FR'
+[508] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[530] bbl.pm:779> INFO - Output to main.bbl

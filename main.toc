@@ -95,55 +95,54 @@
 \contentsline {subsection}{Objectifs pédagogiques transversaux}{37}{section.10.1}%
 \contentsline {subsection}{Support stratégique : le jeu vidéo comme vecteur de motivation}{38}{section.10.1}%
 \contentsline {section}{\numberline {10.2}Axe 2 : Conception, planification et pilotage du projet}{38}{section.10.2}%
-\contentsline {subsection}{L'enseignant-développeur : création du moteur de jeu}{38}{section.10.2}%
-\contentsline {subsubsection}{Réflexion technique}{38}{section.10.2}%
-\contentsline {subsubsection}{Réflexion didactique}{39}{section.10.2}%
-\contentsline {subsubsection}{Architecture technique du moteur de jeu}{39}{section.10.2}%
+\contentsline {subsection}{Conception de l'artefact didactique : un moteur de médiation pédagogique}{38}{section.10.2}%
+\contentsline {subsubsection}{Ingénierie de la ressource et découplage didactique}{39}{section.10.2}%
 \contentsline {subsection}{Organisation collaborative : une structure inspirée des méthodes agiles}{39}{section.10.2}%
-\contentsline {subsubsection}{Structure organisationnelle mise en place}{40}{section.10.2}%
+\contentsline {subsubsection}{Structure organisationnelle mise en place}{39}{section.10.2}%
 \contentsline {subsection}{Le défi humain : recruter et fédérer dans un contexte difficile}{40}{figure.10.1}%
-\contentsline {subsubsection}{Stratégies de mobilisation développées}{41}{figure.10.1}%
-\contentsline {subsection}{Management de projet agile adapté au contexte scolaire}{41}{Item.24}%
-\contentsline {subsubsection}{Structure de management mise en place}{41}{Item.24}%
+\contentsline {subsubsection}{Stratégies de mobilisation développées}{40}{figure.10.1}%
+\contentsline {subsection}{Management de projet agile adapté au contexte scolaire}{41}{Item.27}%
+\contentsline {subsubsection}{Structure de management mise en place}{41}{Item.27}%
 \contentsline {section}{\numberline {10.3}Axe 3 : Déroulement et défis rencontrés}{41}{section.10.3}%
 \contentsline {subsection}{Chronologie du projet}{41}{section.10.3}%
-\contentsline {subsection}{Gestion réaliste des contraintes}{42}{section.10.3}%
-\contentsline {subsubsection}{Dépassement des délais initiaux}{42}{section.10.3}%
+\contentsline {subsection}{Gestion réaliste des contraintes}{41}{section.10.3}%
+\contentsline {subsubsection}{Dépassement des délais initiaux}{41}{section.10.3}%
 \contentsline {subsubsection}{Fluctuation de l'implication}{42}{section.10.3}%
 \contentsline {section}{\numberline {10.4}Axe 4 : Résultats et Analyse Réflexive}{42}{section.10.4}%
 \contentsline {subsection}{Bilan des productions et impacts}{42}{section.10.4}%
 \contentsline {subsubsection}{Un produit fini complet et professionnel}{42}{section.10.4}%
-\contentsline {subsubsection}{Impact au-delà de la classe}{44}{figure.10.3}%
-\contentsline {subsubsection}{Développement de compétences transversales}{44}{Item.28}%
-\contentsline {subsubsection}{Modalités d'évaluation}{44}{Item.28}%
+\contentsline {subsubsection}{Impact au-delà de la classe}{43}{figure.10.3}%
+\contentsline {subsubsection}{Développement de compétences transversales}{44}{Item.31}%
+\contentsline {subsubsection}{Modalités d'évaluation}{44}{Item.31}%
 \contentsline {subsection}{Analyse réflexive approfondie}{45}{table.10.1}%
 \contentsline {subsubsection}{Analyse a priori : Le pari de l'interdisciplinarité}{45}{table.10.1}%
 \contentsline {subsubsection}{Analyse a posteriori : La réalité du terrain}{45}{table.10.1}%
 \contentsline {subsubsection}{Difficultés imprévues et régulations (Analyse Multi-agenda)}{45}{table.10.1}%
 \contentsline {subsubsection}{Axes d'amélioration}{46}{table.10.1}%
 \contentsline {subsection}{Transférabilité et validation des compétences}{46}{table.10.1}%
-\contentsline {subsubsection}{EC 163 / 263 (Animation du collectif) | RNCP BC09 (Communauté éducative)}{47}{table.10.1}%
+\contentsline {subsubsection}{EC 163 / 263 (Animation du collectif) | RNCP BC09 (Communauté éducative)}{46}{table.10.1}%
 \contentsline {subsubsection}{EC 162 / 262 (Numérique éducatif) | RNCP BC05 (Didactique \& Numérique)}{47}{table.10.1}%
 \contentsline {subsubsection}{EC 124 / 224 (Ingénierie de formation) | RNCP BC04 (Conduite de projet)}{47}{table.10.1}%
 \contentsline {subsubsection}{EC 151 / 251 (Analyse de l'activité) | RNCP BC06 (Praticien réflexif)}{47}{table.10.1}%
 \contentsline {subsection}{Perspectives de recherche}{47}{table.10.1}%
+\contentsline {subsection}{Transition réflexive : des limites évaluatives du projet collectif vers l'ingénierie d'évaluation (Lien avec l'Expérience 3)}{48}{Item.34}%
 \contentsline {chapter}{\numberline {11}Expérience 3 : Ingénierie de l'évaluation - La « Notation à l'Enveloppe » (Méthode Italienne)}{49}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Axe 1 : Intentions pédagogiques et fondements éthiques}{49}{section.11.1}%
 \contentsline {subsection}{Présentation de la méthode : « Notation à l'Enveloppe » ou « Notation à l'Italienne »}{49}{section.11.1}%
-\contentsline {subsection}{Le point de départ : un problème d'équité récurrent}{49}{section.11.1}%
-\contentsline {subsection}{Le prérequis : maturité du groupe-classe}{49}{Item.33}%
-\contentsline {subsection}{Les objectifs pédagogiques implicites}{50}{Item.33}%
-\contentsline {subsubsection}{Développer la métacognition}{50}{Item.33}%
-\contentsline {subsubsection}{Enseigner la responsabilité}{50}{Item.33}%
-\contentsline {subsubsection}{Former au management équitable}{50}{Item.33}%
+\contentsline {subsection}{Le point de départ : de la pratique du projet (Expérience 2) au besoin d'ingénierie d'évaluation}{49}{section.11.1}%
+\contentsline {subsection}{Le prérequis : maturité du groupe-classe}{50}{Item.36}%
+\contentsline {subsection}{Les objectifs pédagogiques implicites}{50}{Item.36}%
+\contentsline {subsubsection}{Développer la métacognition}{50}{Item.36}%
+\contentsline {subsubsection}{Enseigner la responsabilité}{50}{Item.36}%
+\contentsline {subsubsection}{Former au management équitable}{50}{Item.36}%
 \contentsline {section}{\numberline {11.2}Axe 2 : Déroulement méthodologique en 5 étapes structurées}{51}{section.11.2}%
 \contentsline {subsection}{Étape 1 : Présentation transparente des règles du jeu}{51}{section.11.2}%
 \contentsline {subsection}{Étape 2 : Attribution d'un projet de groupe structuré}{51}{section.11.2}%
 \contentsline {subsection}{Étape 3 : Calcul et attribution du "capital points" à distribuer}{52}{section.11.2}%
 \contentsline {subsubsection}{Exemple concret de calcul}{52}{section.11.2}%
 \contentsline {subsection}{Étape 4 : Répartition interne par le chef de projet}{52}{section.11.2}%
-\contentsline {subsubsection}{Processus de réflexion guidé}{52}{Item.37}%
-\contentsline {subsection}{Étape 5 : "Table Ronde" de validation collective (Analyse des Postures)}{52}{Item.37}%
+\contentsline {subsubsection}{Processus de réflexion guidé}{52}{Item.40}%
+\contentsline {subsection}{Étape 5 : "Table Ronde" de validation collective (Analyse des Postures)}{52}{Item.40}%
 \contentsline {section}{\numberline {11.3}Axe 3 : Résultats observés et impacts}{53}{section.11.3}%
 \contentsline {subsection}{Analyse du Multi-agenda (Bucheton) sur l'ensemble de la séquence}{53}{section.11.3}%
 \contentsline {subsection}{Une différenciation modérée et acceptée}{53}{section.11.3}%
@@ -175,11 +174,11 @@
 \contentsline {subsection}{Convergence vers une approche systémique de l'enseignement}{59}{section.12.1}%
 \contentsline {section}{\numberline {12.2}Évolution professionnelle et perspectives de développement}{59}{section.12.2}%
 \contentsline {subsection}{Une progression cohérente vers l'expertise}{59}{section.12.2}%
-\contentsline {subsection}{Perspectives de recherche et d'innovation}{60}{Item.40}%
-\contentsline {subsubsection}{Intelligence artificielle et personnalisation pédagogique}{60}{Item.40}%
-\contentsline {subsubsection}{Évaluation et développement des compétences transversales}{60}{Item.40}%
-\contentsline {subsubsection}{Collaboration interdisciplinaire en contexte numérique}{60}{Item.40}%
-\contentsline {subsection}{Transférabilité vers l'enseignement supérieur}{60}{Item.40}%
+\contentsline {subsection}{Perspectives de recherche et d'innovation}{60}{Item.43}%
+\contentsline {subsubsection}{Intelligence artificielle et personnalisation pédagogique}{60}{Item.43}%
+\contentsline {subsubsection}{Évaluation et développement des compétences transversales}{60}{Item.43}%
+\contentsline {subsubsection}{Collaboration interdisciplinaire en contexte numérique}{60}{Item.43}%
+\contentsline {subsection}{Transférabilité vers l'enseignement supérieur}{60}{Item.43}%
 \contentsline {section}{\numberline {12.3}Conclusion prospective}{61}{section.12.3}%
 \contentsline {part}{III\hspace {1em}Correspondance avec le référentiel RNCP et synthèse des acquis}{62}{part.3}%
 \contentsline {chapter}{\numberline {13}Introduction : Méthodologie de correspondance}{63}{chapter.13}%

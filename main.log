@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2016,12 +2016,12 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 24
 .
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-))
+)
 
 [26
 
 
-]
+])
 
 [27
 pdfTeX warning (ext4): destination with the same identifier (name{table.8.1}) h
@@ -2057,7 +2057,7 @@ Overfull \hbox (0.55367pt too wide) in paragraph at lines 1--1
 
 
 ]
-<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=501, page=
+<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=504, page=
 1, 597.19106pt x 845.07718pt>
 File: sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf Graphic f
 ile (type pdf)
@@ -2068,7 +2068,7 @@ avity.pdf , page1 used on input line 33.
 
 
 [29]
-<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=506, page=1, 845.07718pt 
+<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=509, page=1, 845.07718pt 
 x 1195.5867pt>
 File: sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf Graphic file (type pdf)
 <use sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, page 1>
@@ -2154,58 +2154,51 @@ u-la-tion entre com-pé-tences tech-niques (code), créa-
 ]
 
 [38]
-Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
-[]\T1/ptm/m/n/12 Cette ré-flexion s'ins-crit dans les prin-cipes de l'in-gé-nie
--rie pé-da-go-gique ([][]\T1/ptm/m/sc/12 Digiforma[]\T1/ptm/m/n/12 , [][]2024b[
-][]) :
- []
-
-
-
-[39]
-Overfull \hbox (14.20322pt too wide) in paragraph at lines 99--100
+Overfull \hbox (14.20322pt too wide) in paragraph at lines 72--73
 \T1/ptm/b/n/12 en-vi-ron 40 élèves\T1/ptm/m/n/12 , illus-trant la co-or-di-na-t
 ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
 powill[]\T1/ptm/m/n/12 ,
  []
 
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=1005, 2007.5
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=1003, 2007.5
 pt x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
 <use annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg>
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-photo-etudiants 
-(1).jpg  used on input line 103.
+(1).jpg  used on input line 76.
 (pdftex.def)             Requested size: 364.19667pt x 273.13739pt.
 
+
+[39]
 
 [40
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.1})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.116     \item \textbf
-                       {Limitation de l'engagement} : proposition d'un cadre...
- <./annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg>]
+l.99 
+      <./annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg>]
 
 [41]
-
-[42]
 <annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1032, 603.4545
 pt x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
 <use annexes/pedagogiques/productions/jeux-capture-ecran (1).png>
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
-).png  used on input line 187.
+).png  used on input line 160.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1033, 594.4207
+
+
+[42]
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1038, 594.4207
 5pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
 <use annexes/pedagogiques/productions/jeux-capture-ecran (2).png>
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (2
-).png  used on input line 194.
+).png  used on input line 167.
 (pdftex.def)             Requested size: 364.19667pt x 276.74889pt.
 
 
@@ -2214,200 +2207,198 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.10.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.204     \item \textbf
-                       {DÃ©monstrations dans les classes} : prÃ©sentation du...
+l.178     \item \textbf
+                       {PrÃ©sentation en conseil pÃ©dagogique} : le projet a...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.3})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.204     \item \textbf
-                       {DÃ©monstrations dans les classes} : prÃ©sentation du...
+l.178     \item \textbf
+                       {PrÃ©sentation en conseil pÃ©dagogique} : le projet a...
  <./annexes/pedagogiques/productions/jeux-capture-ecran (1).png> <./annexes/ped
 agogiques/productions/jeux-capture-ecran (2).png>]
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 []|\T1/ptm/b/n/12 Non ac-quis
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 227--227
+Underfull \hbox (badness 1297) in paragraph at lines 200--200
 []|\T1/ptm/b/n/12 En cours (8-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
 []|\T1/ptm/b/n/12 Acquis (13-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 227--228
+Underfull \hbox (badness 1917) in paragraph at lines 200--201
 []|\T1/ptm/b/n/12 Maîtrisé (17-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []|\T1/ptm/b/n/12 Non ac-quis
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 231--231
+Underfull \hbox (badness 1297) in paragraph at lines 204--204
 []|\T1/ptm/b/n/12 En cours (8-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []|\T1/ptm/b/n/12 Acquis (13-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 231--232
+Underfull \hbox (badness 1917) in paragraph at lines 204--205
 []|\T1/ptm/b/n/12 Maîtrisé (17-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--235
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 []|\T1/ptm/b/n/12 Programmation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|\T1/ptm/m/n/12 Code non
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \T1/ptm/m/n/12 fonc-tion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \T1/ptm/m/n/12 nel, er-reurs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
 []|\T1/ptm/m/n/12 Code fonc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
 \T1/ptm/m/n/12 tion-nel et
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 []|\T1/ptm/m/n/12 Code op-ti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 \T1/ptm/m/n/12 misé, com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--242
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 []|\T1/ptm/b/n/12 Collaboration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
 []|\T1/ptm/m/n/12 Travail en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--243
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
 \T1/ptm/m/n/12 silo, pas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--244
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []|\T1/ptm/m/n/12 Échanges
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 []|\T1/ptm/m/n/12 Collaboration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 \T1/ptm/m/n/12 ef-fec-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 []|\T1/ptm/m/n/12 Synergie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 \T1/ptm/m/n/12 créa-tive,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--251
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
 []|\T1/ptm/m/n/12 Planning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 []|\T1/ptm/m/n/12 Gestion ef-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 \T1/ptm/m/n/12 fi-cace des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 []|\T1/ptm/m/n/12 Méthodes
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 253--254
+Underfull \hbox (badness 7151) in paragraph at lines 226--227
 \T1/ptm/m/n/12 agiles maî-tri-
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 256--256
+Underfull \hbox (badness 4621) in paragraph at lines 229--229
 []|\T1/ptm/b/n/12 Intégration des 5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
 []|\T1/ptm/m/n/12 Une seule
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--257
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
 \T1/ptm/m/n/12 dis-ci-pline
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--259
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \T1/ptm/m/n/12 har-mo-nieu-se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 []|\T1/ptm/m/n/12 Synergie ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 \T1/ptm/m/n/12 cep-tion-nelle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 \T1/ptm/m/n/12 entre toutes
  []
 
 [44]
-
-[45]
-Overfull \hbox (28.43317pt too wide) in paragraph at lines 284--285
+Overfull \hbox (28.43317pt too wide) in paragraph at lines 257--258
 []\T1/ptm/b/n/12 Étayage et Pos-tures \T1/ptm/m/n/12 : Ma pos-ture do-mi-nante 
 a glissé du \T1/ptm/b/n/12 contrôle \T1/ptm/m/n/12 (au dé-but) à l'\T1/ptm/b/n/
 12 accompagnement
@@ -2415,8 +2406,10 @@ a glissé du \T1/ptm/b/n/12 contrôle \T1/ptm/m/n/12 (au dé-but) à l'\T1/ptm/b/n/
 
 
 
+[45]
+
 [46]
-Overfull \hbox (32.5376pt too wide) in paragraph at lines 327--328
+Overfull \hbox (32.5376pt too wide) in paragraph at lines 300--301
 \OMS/ztmcm/m/n/12 !$ \T1/ptm/m/n/12 Ana-lyse des ré-sul-tats) est celle d'un pr
 aticien-chercheur ([][]\T1/ptm/m/sc/12 Revue des sciences de l'éducation[]\T1/p
 tm/m/n/12 ,
@@ -2755,7 +2748,7 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 [60])
 
 [61]
-<sources/medias/p3-moy.png, id=1200, 882.29625pt x 882.29625pt>
+<sources/medias/p3-moy.png, id=1208, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
 Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 599.
@@ -3045,7 +3038,7 @@ hercheur|
 [88]
 
 [89]
-<sources/medias/p4-moy.png, id=1350, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=1358, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 764.
@@ -3846,10 +3839,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40074 strings out of 468149
- 808973 string characters out of 5430598
- 1757869 words of memory out of 5000000
- 67617 multiletter control sequences out of 15000+600000
+ 40093 strings out of 468149
+ 809616 string characters out of 5430598
+ 1758063 words of memory out of 5000000
+ 67631 multiletter control sequences out of 15000+600000
  741445 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,14n,91p,892b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3861,9 +3854,9 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTe
 X/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (120 pages, 8787528 bytes).
+Output written on main.pdf (120 pages, 8791022 bytes).
 PDF statistics:
- 1561 PDF objects out of 1728 (max. 8388607)
- 310 named destinations out of 1000 (max. 500000)
+ 1570 PDF objects out of 1728 (max. 8388607)
+ 315 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
