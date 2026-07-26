@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 00:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2064,37 +2064,63 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 25
  (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<sources/medias/site-sql.png, id=495, 673.76718pt x 646.66594pt>
-File: sources/medias/site-sql.png Graphic file (type png)
-<use sources/medias/site-sql.png>
-Package pdftex.def Info: sources/medias/site-sql.png  used on input line 29.
-(pdftex.def)             Requested size: 409.71692pt x 393.2421pt.
+<sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, id=495, page=
+1, 597.19106pt x 845.07718pt>
+File: sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf Graphic f
+ile (type pdf)
+<use sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf, page 1>
+Package pdftex.def Info: sources/forgeale/Atelier Ã‰criture IA - Latex & Antigr
+avity.pdf , page1 used on input line 29.
+(pdftex.def)             Requested size: 409.71692pt x 579.77702pt.
 
 
-[28
+[28]
+<sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, id=501, page=1, 845.07718pt 
+x 1195.5867pt>
+File: sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf Graphic file (type pdf)
+<use sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf, page 1>
+Package pdftex.def Info: sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf , pag
+e1 used on input line 36.
+(pdftex.def)             Requested size: 386.96027pt x 547.459pt.
+
+
+[29
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.40 \end{itemize}
-                   <./sources/medias/site-sql.png>]
+l.40 
+      <./sources/forgeale/Atelier Ã‰criture IA - Latex & Antigravity.pdf>]
 
-[29]
-Overfull \hbox (237.2921pt too wide) in paragraph at lines 75--76
+LaTeX Warning: Reference `fig-forgeales-programme' on page 30 undefined on inpu
+t line 41.
+
+
+
+[30
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.47 \end{itemize}
+                   <./sources/forgeale/Atelier IA - Les ForgÃ©ales.pdf>]
+
+[31]
+Overfull \hbox (237.2921pt too wide) in paragraph at lines 82--83
 []\T1/ptm/b/n/12 Diffusion na-tio-nale \T1/ptm/m/n/12 : Ré-fé-ren-ce-ment de l'
 ate-lier sur le por-tail of-fi-ciel des For-géales (\T1/pcr/m/n/12 les-forgeale
 s.forge.apps.education.fr\T1/ptm/m/n/12 ). 
  []
 
 
-LaTeX Warning: Citation 'saillot_didactique_ajustement' on page 30 undefined on
- input line 93.
+LaTeX Warning: Citation 'saillot_didactique_ajustement' on page 32 undefined on
+ input line 100.
 
 
 
-[30])
+[32])
 
-[31]
+[33]
 \openout2 = `partie2/p2_chap3_experience_jeux.aux'.
 
  (partie2/p2_chap3_experience_jeux.tex
@@ -2107,14 +2133,14 @@ u-la-tion entre com-pé-tences tech-niques (code), créa-
 
 
 
-[32
+[34
 
 
 
 
 ]
 
-[33]
+[35]
 Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
 []\T1/ptm/m/n/12 Cette ré-flexion s'ins-crit dans les prin-cipes de l'in-gé-nie
 -rie pé-da-go-gique ([][]\T1/ptm/m/sc/12 Digiforma[]\T1/ptm/m/n/12 , [][]2024b[
@@ -2123,14 +2149,14 @@ Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
 
 
 
-[34]
+[36]
 Overfull \hbox (14.20322pt too wide) in paragraph at lines 99--100
 \T1/ptm/b/n/12 en-vi-ron 40 élèves\T1/ptm/m/n/12 , illus-trant la co-or-di-na-t
 ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
 powill[]\T1/ptm/m/n/12 ,
  []
 
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=559, 2007.5p
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=975, 2007.5p
 t x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
@@ -2140,7 +2166,7 @@ Package pdftex.def Info: annexes/pedagogiques/productions/jeux-photo-etudiants
 (pdftex.def)             Requested size: 364.19667pt x 273.13739pt.
 
 
-[35
+[37
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.1})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2149,19 +2175,19 @@ l.116     \item \textbf
                        {Limitation de l'engagement} : proposition d'un cadre...
  <./annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg>]
 
-[36]
+[38]
 
-[37]
-<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=586, 603.4545p
-t x 457.71pt>
+[39]
+<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1003, 603.4545
+pt x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
 <use annexes/pedagogiques/productions/jeux-capture-ecran (1).png>
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
 ).png  used on input line 187.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=587, 594.42075
-pt x 451.6875pt>
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1004, 594.4207
+5pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
 <use annexes/pedagogiques/productions/jeux-capture-ecran (2).png>
@@ -2170,7 +2196,7 @@ Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (2
 (pdftex.def)             Requested size: 364.19667pt x 276.74889pt.
 
 
-[38
+[40
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2365,9 +2391,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--261
 \T1/ptm/m/n/12 entre toutes
  []
 
-[39]
+[41]
 
-[40]
+[42]
 Overfull \hbox (28.43317pt too wide) in paragraph at lines 284--285
 []\T1/ptm/b/n/12 Étayage et Pos-tures \T1/ptm/m/n/12 : Ma pos-ture do-mi-nante 
 a glissé du \T1/ptm/b/n/12 contrôle \T1/ptm/m/n/12 (au dé-but) à l'\T1/ptm/b/n/
@@ -2376,7 +2402,7 @@ a glissé du \T1/ptm/b/n/12 contrôle \T1/ptm/m/n/12 (au dé-but) à l'\T1/ptm/b/n/
 
 
 
-[41]
+[43]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 327.
@@ -2395,7 +2421,7 @@ m/m/n/12 ,
 
 )
 
-[42]
+[44]
 \openout2 = `partie2/p2_chap4_experience_evaluation.aux'.
 
  (partie2/p2_chap4_experience_evaluation.tex
@@ -2407,18 +2433,18 @@ Overfull \hbox (3.6893pt too wide) in paragraph at lines 1--1
 
 
 
-[43
+[45
 
 
 
 
 ]
 
-LaTeX Warning: Citation 'nicol_formative_assessment' on page 44 undefined on in
+LaTeX Warning: Citation 'nicol_formative_assessment' on page 46 undefined on in
 put line 44.
 
 
-LaTeX Warning: Citation 'topping_peer_assessment' on page 44 undefined on input
+LaTeX Warning: Citation 'topping_peer_assessment' on page 46 undefined on input
  line 44.
 
 
@@ -2429,11 +2455,11 @@ tion des ap-pren-tis-sages ([] ;
 
 
 
-[44]
-
-[45]
-
 [46]
+
+[47]
+
+[48]
 Overfull \hbox (13.60011pt too wide) in paragraph at lines 155--156
 []\T1/ptm/m/n/12 Sur 5 ans d'uti-li-sa-tion de cette mé-thode, j'ob-serve des é
 carts mo-dé-rés et ac-cep-tés ([][]\T1/ptm/m/sc/12 Université
@@ -2441,7 +2467,7 @@ carts mo-dé-rés et ac-cep-tés ([][]\T1/ptm/m/sc/12 Université
 
 
 
-[47]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []|\T1/ptm/b/n/12 Insuffisant
  []
@@ -2633,7 +2659,7 @@ Overfull \hbox (17.89438pt too wide) in alignment at lines 196--225
 
 
 
-[48]
+[50]
 Overfull \hbox (62.39992pt too wide) in alignment at lines 230--235
  [] [] [] [] [] 
  []
@@ -2710,9 +2736,9 @@ Overfull \hbox (62.39992pt too wide) in alignment at lines 239--270
 
 
 
-[49]
+[51]
 
-[50])
+[52])
 Overfull \hbox (2.04842pt too wide) in paragraph at lines 335--613
 []\T1/ptm/m/n/12 Cette mé-thode s'ins-pire des pra-tiques d'éva-lua-tion en en-
 tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 , [][]2024[][]), et s'av
@@ -2721,7 +2747,7 @@ tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 , [][]2024[][]), et s'av
 
 
 
-[51]
+[53]
 \openout2 = `partie2/p2_chap5_conclusion.aux'.
 
  (partie2/p2_chap5_conclusion.tex
@@ -2734,31 +2760,31 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 
 
 
-[52
+[54
 
 
 
 
 ]
 
-[53]
+[55]
 
-LaTeX Warning: Citation 'luckin_ai_education' on page 54 undefined on input lin
+LaTeX Warning: Citation 'luckin_ai_education' on page 56 undefined on input lin
 e 64.
 
 
 
-[54])
+[56])
 
-[55]
-<sources/medias/p3-moy.png, id=747, 882.29625pt x 882.29625pt>
+[57]
+<sources/medias/p3-moy.png, id=1164, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
 Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 619.
 (pdftex.def)             Requested size: 364.19667pt x 364.19402pt.
 
 
-[56
+[58
 
 
 
@@ -2770,7 +2796,7 @@ Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 619.
 Chapitre 13.
 )
 
-[57
+[59
 
 
 ]
@@ -2785,7 +2811,7 @@ Overfull \hbox (5.70271pt too wide) in paragraph at lines 1--1
 
 
 
-[58
+[60
 
 
 
@@ -2799,9 +2825,9 @@ lexive... ^^T \T1/ptm/m/n/12 ([][]\T1/ptm/m/sc/12 Compétences[]\T1/ptm/m/n/12 ,
 
 
 
-[59]
+[61]
 
-[60]
+[62]
 Overfull \hbox (2.76128pt too wide) in paragraph at lines 111--112
 \T1/ptm/m/it/12 ÷uvre un ca-hier des charges. Mo-bi-li-ser des sa-voirs spé-cia
 -li-sés... ^^T \T1/ptm/m/n/12 ([][]\T1/ptm/m/sc/12 Compétences[]\T1/ptm/m/n/12 
@@ -2810,13 +2836,13 @@ Overfull \hbox (2.76128pt too wide) in paragraph at lines 111--112
 
 
 
-[61]
-
-[62]
-
 [63]
 
-[64])
+[64]
+
+[65]
+
+[66])
 Overfull \hbox (0.10323pt too wide) in paragraph at lines 228--621
 []\T1/ptm/b/n/12 Niveau de maî-trise : Ac-quis \T1/ptm/m/n/12 - En-ga-ge-ment f
 ort dans une dy-na-mique de chercheur-praticien. 
@@ -2824,7 +2850,7 @@ ort dans une dy-na-mique de chercheur-praticien.
 
 
 
-[65]
+[67]
 \openout2 = `partie3/p3_chap3_experiences_exceptionnelles.aux'.
 
  (partie3/p3_chap3_experiences_exceptionnelles.tex
@@ -2833,7 +2859,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 
 
-[66
+[68
 
 
 
@@ -2847,18 +2873,18 @@ l.51     \item M
                 aÃ®trise des technologies Ã©mergentes (IA gÃ©nÃ©rative) pour...
 ]
 
-[67]
-
-[68])
-
 [69]
+
+[70])
+
+[71]
 \openout2 = `partie3/p3_chap4_synthese_correspondance.aux'.
 
  (partie3/p3_chap4_synthese_correspondance.tex
 Chapitre 16.
 
 
-[70
+[72
 
 
 
@@ -2926,7 +2952,7 @@ Overfull \hbox (17.68301pt too wide) in alignment at lines 18--65
 
 
 
-[71
+[73
 
 ]
 Overfull \hbox (2.6887pt too wide) in paragraph at lines 69--69
@@ -2980,7 +3006,7 @@ Overfull \hbox (9.14719pt too wide) in paragraph at lines 76--93
 
 
 
-[72
+[74
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.16.2}) 
@@ -2990,7 +3016,7 @@ has been already used, duplicate ignored
 l.105 \end{itemize}
                    ])
 
-[73]
+[75]
 \openout2 = `partie3/p3_chap5_projet_professionnel.aux'.
 
  (partie3/p3_chap5_projet_professionnel.tex
@@ -3002,26 +3028,26 @@ Overfull \hbox (3.25917pt too wide) in paragraph at lines 3--3
 
 
 
-[74
+[76
 
 
 
 
 ])
 
-[75]
+[77]
 
-[76
+[78
 
 
 
 ]
 
-[77]
-
-[78]
-
 [79]
+
+[80]
+
+[81]
 Overfull \hbox (27.5741pt too wide) in paragraph at lines 739--739
 |\T1/ptm/b/n/17.28 Conclusion pros-pec-tive : vers une car-rière d'enseignant-c
 hercheur| 
@@ -3029,12 +3055,12 @@ hercheur|
 
 
 
-[80]
-
-[81]
-
 [82]
-<sources/medias/p4-moy.png, id=893, 793.96625pt x 793.96625pt>
+
+[83]
+
+[84]
+<sources/medias/p4-moy.png, id=1309, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 784.
@@ -3835,6 +3861,9 @@ L3 programming layer <2025-07-11>
 LaTeX Warning: There were undefined references.
 
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
 (biblatex)                and rerun LaTeX afterwards.
@@ -3844,10 +3873,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40081 strings out of 468149
- 809776 string characters out of 5430598
- 1757901 words of memory out of 5000000
- 67632 multiletter control sequences out of 15000+600000
+ 40093 strings out of 468149
+ 810539 string characters out of 5430598
+ 1757886 words of memory out of 5000000
+ 67641 multiletter control sequences out of 15000+600000
  735816 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,14n,91p,804b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3860,9 +3889,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (114 pages, 7930339 bytes).
+Output written on main.pdf (116 pages, 8771453 bytes).
 PDF statistics:
- 1126 PDF objects out of 1200 (max. 8388607)
- 302 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1543 PDF objects out of 1728 (max. 8388607)
+ 305 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

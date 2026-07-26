@@ -76,191 +76,191 @@
 \contentsline {subsection}{Public et niveau de la formation}{27}{section.9.1}%
 \contentsline {subsection}{Objectifs d'ingénierie et d'apprentissage pour adultes}{27}{section.9.1}%
 \contentsline {subsection}{Support et ingénierie numérique de formation}{28}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Axe 2 : Déroulement concret de l'action de formation (2 heures + suivi asynchrone)}{29}{section.9.2}%
-\contentsline {subsection}{Phase 1 - Accroche et démonstration synchrone (30 minutes)}{29}{section.9.2}%
-\contentsline {subsection}{Phase 2 - Ateliers pratiques et expérimentation guidée (60 minutes)}{29}{section.9.2}%
-\contentsline {subsection}{Phase 3 - Bilan, mutualisation et essaimage (30 minutes)}{29}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Axe 3 : Résultats et évaluation du dispositif de formation}{29}{section.9.3}%
-\contentsline {subsection}{Résultats quantitatifs et rayonnement}{29}{section.9.3}%
-\contentsline {subsection}{Évaluation qualitative et retours des apprenants adultes}{30}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Axe 4 : Analyse réflexive et transférabilité vers le Master MEEF PIF (FFMS)}{30}{section.9.4}%
-\contentsline {subsection}{Analyse de l'activité du formateur (Modèle de Saillot et Bucheton)}{30}{section.9.4}%
-\contentsline {subsection}{Correspondance avec la maquette FFMS d'Unicaen}{30}{section.9.4}%
-\contentsline {chapter}{\numberline {10}Expérience 2 : Projet Collaboratif Innovant - Développement d'un jeu vidéo interdisciplinaire}{32}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Axe 1 : Contexte et genèse du projet}{32}{section.10.1}%
-\contentsline {subsection}{Une solution créative à une contrainte institutionnelle}{32}{section.10.1}%
-\contentsline {subsection}{Objectifs pédagogiques transversaux}{32}{section.10.1}%
-\contentsline {subsection}{Support stratégique : le jeu vidéo comme vecteur de motivation}{33}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Axe 2 : Conception, planification et pilotage du projet}{33}{section.10.2}%
-\contentsline {subsection}{L'enseignant-développeur : création du moteur de jeu}{33}{section.10.2}%
-\contentsline {subsubsection}{Réflexion technique}{33}{section.10.2}%
-\contentsline {subsubsection}{Réflexion didactique}{34}{section.10.2}%
-\contentsline {subsubsection}{Architecture technique du moteur de jeu}{34}{section.10.2}%
-\contentsline {subsection}{Organisation collaborative : une structure inspirée des méthodes agiles}{34}{section.10.2}%
-\contentsline {subsubsection}{Structure organisationnelle mise en place}{35}{section.10.2}%
-\contentsline {subsection}{Le défi humain : recruter et fédérer dans un contexte difficile}{35}{figure.10.1}%
-\contentsline {subsubsection}{Stratégies de mobilisation développées}{36}{figure.10.1}%
-\contentsline {subsection}{Management de projet agile adapté au contexte scolaire}{36}{Item.18}%
-\contentsline {subsubsection}{Structure de management mise en place}{36}{Item.18}%
-\contentsline {section}{\numberline {10.3}Axe 3 : Déroulement et défis rencontrés}{36}{section.10.3}%
-\contentsline {subsection}{Chronologie du projet}{36}{section.10.3}%
-\contentsline {subsection}{Gestion réaliste des contraintes}{37}{section.10.3}%
-\contentsline {subsubsection}{Dépassement des délais initiaux}{37}{section.10.3}%
-\contentsline {subsubsection}{Fluctuation de l'implication}{37}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Axe 4 : Résultats et Analyse Réflexive}{37}{section.10.4}%
-\contentsline {subsection}{Bilan des productions et impacts}{37}{section.10.4}%
-\contentsline {subsubsection}{Un produit fini complet et professionnel}{37}{section.10.4}%
-\contentsline {subsubsection}{Impact au-delà de la classe}{39}{figure.10.3}%
-\contentsline {subsubsection}{Développement de compétences transversales}{39}{Item.22}%
-\contentsline {subsubsection}{Modalités d'évaluation}{39}{Item.22}%
-\contentsline {subsection}{Analyse réflexive approfondie}{40}{table.10.1}%
-\contentsline {subsubsection}{Analyse a priori : Le pari de l'interdisciplinarité}{40}{table.10.1}%
-\contentsline {subsubsection}{Analyse a posteriori : La réalité du terrain}{40}{table.10.1}%
-\contentsline {subsubsection}{Difficultés imprévues et régulations (Analyse Multi-agenda)}{40}{table.10.1}%
-\contentsline {subsubsection}{Axes d'amélioration}{41}{table.10.1}%
-\contentsline {subsection}{Transférabilité et compétences MEEF validées}{41}{table.10.1}%
-\contentsline {subsubsection}{BC09 - Acteur de la communauté éducative}{41}{table.10.1}%
-\contentsline {subsubsection}{BC05 - Didactique de l'informatique et pédagogie de projet}{42}{table.10.1}%
-\contentsline {subsubsection}{BC04 - Conduite de projet et recherche-action}{42}{table.10.1}%
-\contentsline {subsubsection}{BC06 - Praticien réflexif}{42}{table.10.1}%
-\contentsline {subsection}{Perspectives de recherche}{42}{table.10.1}%
-\contentsline {chapter}{\numberline {11}Expérience 3 : Ingénierie de l'évaluation - La « Notation à l'Enveloppe » (Méthode Italienne)}{43}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Axe 1 : Intentions pédagogiques et fondements éthiques}{43}{section.11.1}%
-\contentsline {subsection}{Présentation de la méthode : « Notation à l'Enveloppe » ou « Notation à l'Italienne »}{43}{section.11.1}%
-\contentsline {subsection}{Le point de départ : un problème d'équité récurrent}{43}{section.11.1}%
-\contentsline {subsection}{Le prérequis : maturité du groupe-classe}{43}{Item.27}%
-\contentsline {subsection}{Les objectifs pédagogiques implicites}{44}{Item.27}%
-\contentsline {subsubsection}{Développer la métacognition}{44}{Item.27}%
-\contentsline {subsubsection}{Enseigner la responsabilité}{44}{Item.27}%
-\contentsline {subsubsection}{Former au management équitable}{44}{Item.27}%
-\contentsline {section}{\numberline {11.2}Axe 2 : Déroulement méthodologique en 5 étapes structurées}{45}{section.11.2}%
-\contentsline {subsection}{Étape 1 : Présentation transparente des règles du jeu}{45}{section.11.2}%
-\contentsline {subsection}{Étape 2 : Attribution d'un projet de groupe structuré}{45}{section.11.2}%
-\contentsline {subsection}{Étape 3 : Calcul et attribution du "capital points" à distribuer}{46}{section.11.2}%
-\contentsline {subsubsection}{Exemple concret de calcul}{46}{section.11.2}%
-\contentsline {subsection}{Étape 4 : Répartition interne par le chef de projet}{46}{section.11.2}%
-\contentsline {subsubsection}{Processus de réflexion guidé}{46}{Item.31}%
-\contentsline {subsection}{Étape 5 : "Table Ronde" de validation collective (Analyse des Postures)}{46}{Item.31}%
-\contentsline {section}{\numberline {11.3}Axe 3 : Résultats observés et impacts}{47}{section.11.3}%
-\contentsline {subsection}{Analyse du Multi-agenda (Bucheton) sur l'ensemble de la séquence}{47}{section.11.3}%
-\contentsline {subsection}{Une différenciation modérée et acceptée}{47}{section.11.3}%
-\contentsline {subsubsection}{Données quantitatives}{47}{section.11.3}%
-\contentsline {subsubsection}{Acceptation qualitative}{48}{section.11.3}%
-\contentsline {subsection}{Un leadership basé sur la fiabilité plutôt que sur la popularité}{48}{section.11.3}%
-\contentsline {subsection}{Impact puissant sur la motivation et l'inclusion}{48}{section.11.3}%
-\contentsline {subsection}{Matériels produits}{48}{section.11.3}%
-\contentsline {subsubsection}{Principe de la notation à l'enveloppe}{48}{section.11.3}%
-\contentsline {subsubsection}{Grille d'évaluation professorale}{48}{section.11.3}%
-\contentsline {subsubsection}{Grille d'évaluation par les pairs}{49}{table.11.1}%
-\contentsline {subsubsection}{Avantages pédagogiques}{49}{table.11.2}%
-\contentsline {section}{\numberline {11.4}Axe 4 : Analyse réflexive approfondie et transférabilité}{50}{section.11.4}%
-\contentsline {subsection}{Analyse réflexive approfondie}{50}{section.11.4}%
-\contentsline {subsubsection}{Analyse a priori : Le pari de la confiance}{50}{section.11.4}%
-\contentsline {subsubsection}{Analyse a posteriori : La justice perçue}{50}{section.11.4}%
-\contentsline {subsubsection}{Difficultés imprévues et régulations}{50}{section.11.4}%
-\contentsline {subsubsection}{Axes d'amélioration}{51}{section.11.4}%
-\contentsline {subsection}{Transférabilité vers le référentiel MEEF et l'enseignement supérieur}{51}{section.11.4}%
-\contentsline {subsubsection}{BC06 - Praticien réflexif et innovateur}{51}{section.11.4}%
-\contentsline {subsubsection}{BC05 - Compétences en évaluation formative}{51}{section.11.4}%
-\contentsline {subsubsection}{BC04 - Pertinence pour la formation en IUT}{51}{section.11.4}%
-\contentsline {chapter}{\numberline {12}Conclusion de la partie 2}{52}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Synthèse transversale des compétences développées}{52}{section.12.1}%
-\contentsline {subsection}{Trois approches pédagogiques complémentaires}{52}{section.12.1}%
-\contentsline {subsubsection}{L'ingénierie de formation des pairs et le numérique éducatif (Expérience 1)}{52}{section.12.1}%
-\contentsline {subsubsection}{La collaboration créative (Expérience 2)}{52}{section.12.1}%
-\contentsline {subsubsection}{L'évaluation équitable (Expérience 3)}{53}{section.12.1}%
-\contentsline {subsection}{Convergence vers une approche systémique de l'enseignement}{53}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Évolution professionnelle et perspectives de développement}{53}{section.12.2}%
-\contentsline {subsection}{Une progression cohérente vers l'expertise}{53}{section.12.2}%
-\contentsline {subsection}{Perspectives de recherche et d'innovation}{54}{Item.34}%
-\contentsline {subsubsection}{Intelligence artificielle et personnalisation pédagogique}{54}{Item.34}%
-\contentsline {subsubsection}{Évaluation et développement des compétences transversales}{54}{Item.34}%
-\contentsline {subsubsection}{Collaboration interdisciplinaire en contexte numérique}{54}{Item.34}%
-\contentsline {subsection}{Transférabilité vers l'enseignement supérieur}{54}{Item.34}%
-\contentsline {section}{\numberline {12.3}Conclusion prospective}{55}{section.12.3}%
-\contentsline {part}{III\hspace {1em}Correspondance avec le référentiel RNCP et synthèse des acquis}{56}{part.3}%
-\contentsline {chapter}{\numberline {13}Introduction : Méthodologie de correspondance}{57}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Cadre de référence : le RNCP38152}{57}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Méthodologie d'analyse}{57}{section.13.2}%
-\contentsline {chapter}{\numberline {14}Analyse détaillée des 9 blocs de compétences RNCP38152}{58}{chapter.14}%
-\contentsline {section}{\numberline {14.1}BC01 - Mettre en œuvre les usages avancés et spécialisés des outils numériques}{58}{section.14.1}%
-\contentsline {subsection}{Définition officielle du bloc}{58}{section.14.1}%
-\contentsline {subsection}{Correspondance avec mon parcours}{58}{section.14.1}%
-\contentsline {subsubsection}{Expertise technique et ingénierie numérique}{58}{section.14.1}%
-\contentsline {subsubsection}{Impact sur l'ingénierie de formation}{58}{section.14.1}%
-\contentsline {section}{\numberline {14.2}BC02 - Mobiliser et produire des savoirs hautement spécialisés}{59}{section.14.2}%
-\contentsline {subsection}{Définition officielle du bloc}{59}{section.14.2}%
-\contentsline {subsection}{Correspondance avec mon parcours}{59}{section.14.2}%
-\contentsline {subsubsection}{Savoirs disciplinaires et didactiques}{59}{section.14.2}%
-\contentsline {subsubsection}{Production de savoirs nouveaux}{59}{section.14.2}%
-\contentsline {section}{\numberline {14.3}BC03 - Mettre en œuvre une communication spécialisée pour le transfert de connaissances}{60}{section.14.3}%
-\contentsline {subsection}{Définition officielle du bloc}{60}{section.14.3}%
-\contentsline {subsection}{Correspondance avec mon parcours}{60}{section.14.3}%
-\contentsline {subsubsection}{Communication pédagogique et formation d'adultes}{60}{section.14.3}%
-\contentsline {subsubsection}{Médiation scientifique et technique}{60}{section.14.3}%
-\contentsline {section}{\numberline {14.4}BC04 - Contribuer à la transformation en contexte professionnel}{60}{section.14.4}%
-\contentsline {subsection}{Définition officielle du bloc}{60}{section.14.4}%
-\contentsline {subsection}{Correspondance avec mon parcours}{61}{section.14.4}%
-\contentsline {subsubsection}{Pilotage de projets complexes}{61}{section.14.4}%
-\contentsline {subsubsection}{Démarche qualité et éthique}{61}{section.14.4}%
-\contentsline {section}{\numberline {14.5}BC05 - Concevoir, piloter et animer des dispositifs ou ingénieries de formation ou de médiation}{61}{section.14.5}%
-\contentsline {subsection}{Définition officielle du bloc}{61}{section.14.5}%
-\contentsline {subsection}{Correspondance avec mon parcours}{61}{section.14.5}%
-\contentsline {subsubsection}{Ingénierie didactique et pédagogique}{61}{section.14.5}%
-\contentsline {subsubsection}{Adaptation aux publics}{62}{section.14.5}%
-\contentsline {section}{\numberline {14.6}BC06 - Situer ses interventions dans un écosystème professionnel, coopérer, co-construire des actions}{62}{section.14.6}%
-\contentsline {subsection}{Définition officielle du bloc}{62}{section.14.6}%
-\contentsline {subsection}{Correspondance avec mon parcours}{62}{section.14.6}%
-\contentsline {subsubsection}{Travail collaboratif et réseau}{62}{section.14.6}%
-\contentsline {subsubsection}{Partenariats}{62}{section.14.6}%
-\contentsline {section}{\numberline {14.7}BC07 - Produire et diffuser des ressources, des outils, des démarches, et des contenus de formation innovants}{63}{section.14.7}%
-\contentsline {subsection}{Définition officielle du bloc}{63}{section.14.7}%
-\contentsline {subsection}{Correspondance avec mon parcours}{63}{section.14.7}%
-\contentsline {subsubsection}{Conception de ressources innovantes}{63}{section.14.7}%
-\contentsline {subsubsection}{Diffusion et valorisation}{63}{section.14.7}%
-\contentsline {section}{\numberline {14.8}BC08 - Conduire, piloter et partager une analyse réflexive sur les pratiques}{63}{section.14.8}%
-\contentsline {subsection}{Définition officielle du bloc}{63}{section.14.8}%
-\contentsline {subsection}{Correspondance avec mon parcours}{64}{section.14.8}%
-\contentsline {subsubsection}{Analyse de pratiques}{64}{section.14.8}%
-\contentsline {subsubsection}{Démarche qualité}{64}{section.14.8}%
-\contentsline {section}{\numberline {14.9}BC09 - S'engager dans une démarche de développement professionnel}{64}{section.14.9}%
-\contentsline {subsection}{Définition officielle du bloc}{64}{section.14.9}%
-\contentsline {subsection}{Correspondance avec mon parcours}{64}{section.14.9}%
-\contentsline {subsubsection}{Développement professionnel continu}{64}{section.14.9}%
-\contentsline {subsubsection}{Perspective de recherche}{65}{section.14.9}%
-\contentsline {chapter}{\numberline {15}Contribution des expériences à la maîtrise des compétences}{66}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Tableau croisé Expériences $\leftrightarrow $ Blocs RNCP38152}{66}{section.15.1}%
-\contentsline {subsection}{Légende des niveaux de contribution}{66}{table.15.1}%
-\contentsline {subsection}{Analyse des contributions}{66}{table.15.1}%
-\contentsline {subsubsection}{Expérience FORGÉALES - Formation de formateurs à l'IA et \LaTeX {}}{66}{table.15.1}%
-\contentsline {subsubsection}{Expérience JEUX - Pilotage de projet complexe}{67}{table.15.1}%
-\contentsline {subsubsection}{Expérience ÉVALUATION - Innovation en évaluation}{67}{table.15.1}%
-\contentsline {section}{\numberline {15.2}Transfert des expériences vers l'enseignement supérieur}{67}{section.15.2}%
-\contentsline {subsection}{Adaptation des innovations à l'IUT}{67}{section.15.2}%
-\contentsline {subsubsection}{Adaptation de la méthode SQL}{67}{section.15.2}%
-\contentsline {subsubsection}{Projet interdisciplinaire à l'IUT}{68}{section.15.2}%
-\contentsline {subsubsection}{Évaluation par les pairs dans le supérieur}{68}{section.15.2}%
-\contentsline {subsection}{Contribution à l'innovation pédagogique}{68}{section.15.2}%
-\contentsline {subsubsection}{Hub de ressources numériques}{68}{section.15.2}%
-\contentsline {subsubsection}{Recherche-action sur l'IA}{68}{section.15.2}%
-\contentsline {subsection}{Rayonnement et partage}{68}{section.15.2}%
-\contentsline {subsubsection}{Formation des pairs}{68}{section.15.2}%
-\contentsline {subsubsection}{Publications et communications}{69}{section.15.2}%
-\contentsline {chapter}{\numberline {16}Synthèse de la correspondance}{70}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Tableau récapitulatif de couverture des blocs de compétences RNCP38152}{70}{section.16.1}%
-\contentsline {section}{\numberline {16.2}Correspondance avec la Maquette Locale FFMS (INSPÉ de Normandie Caen)}{72}{section.16.2}%
-\contentsline {section}{\numberline {16.3}Conclusion : Une expertise en ingénierie de formation}{72}{section.16.3}%
-\contentsline {subsection}{Expertise technologique au service de la formation}{72}{section.16.3}%
-\contentsline {subsection}{Compétences en ingénierie pédagogique}{73}{section.16.3}%
-\contentsline {subsection}{Posture de praticien-chercheur et formateur de formateurs}{73}{section.16.3}%
-\contentsline {chapter}{\numberline {17}Projet professionnel et perspectives de recherche}{74}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Projet de thèse : \enquote {Conception et Évaluation d'un Écosystème d'IA Co-adaptatif pour l'Inclusion Pédagogique Active}}{74}{section.17.1}%
-\contentsline {subsection}{Cadre et problématique}{74}{section.17.1}%
-\contentsline {subsection}{Méthodologie et calendrier prévisionnel (2026-2029)}{74}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Trajectoire professionnelle et cohérence du projet VAE}{75}{section.17.2}%
-\contentsline {subsection}{Plan de carrière}{75}{section.17.2}%
-\contentsline {subsection}{Le Master MEEF : un levier stratégique}{75}{section.17.2}%
-\contentsline {chapter}{Conclusion générale}{76}{chapter*.7}%
+\contentsline {section}{\numberline {9.2}Axe 2 : Déroulement concret de l'action de formation (2 heures + suivi asynchrone)}{31}{section.9.2}%
+\contentsline {subsection}{Phase 1 - Accroche et démonstration synchrone (30 minutes)}{31}{section.9.2}%
+\contentsline {subsection}{Phase 2 - Ateliers pratiques et expérimentation guidée (60 minutes)}{31}{section.9.2}%
+\contentsline {subsection}{Phase 3 - Bilan, mutualisation et essaimage (30 minutes)}{31}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Axe 3 : Résultats et évaluation du dispositif de formation}{31}{section.9.3}%
+\contentsline {subsection}{Résultats quantitatifs et rayonnement}{31}{section.9.3}%
+\contentsline {subsection}{Évaluation qualitative et retours des apprenants adultes}{32}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Axe 4 : Analyse réflexive et transférabilité vers le Master MEEF PIF (FFMS)}{32}{section.9.4}%
+\contentsline {subsection}{Analyse de l'activité du formateur (Modèle de Saillot et Bucheton)}{32}{section.9.4}%
+\contentsline {subsection}{Correspondance avec la maquette FFMS d'Unicaen}{32}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Expérience 2 : Projet Collaboratif Innovant - Développement d'un jeu vidéo interdisciplinaire}{34}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Axe 1 : Contexte et genèse du projet}{34}{section.10.1}%
+\contentsline {subsection}{Une solution créative à une contrainte institutionnelle}{34}{section.10.1}%
+\contentsline {subsection}{Objectifs pédagogiques transversaux}{34}{section.10.1}%
+\contentsline {subsection}{Support stratégique : le jeu vidéo comme vecteur de motivation}{35}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Axe 2 : Conception, planification et pilotage du projet}{35}{section.10.2}%
+\contentsline {subsection}{L'enseignant-développeur : création du moteur de jeu}{35}{section.10.2}%
+\contentsline {subsubsection}{Réflexion technique}{35}{section.10.2}%
+\contentsline {subsubsection}{Réflexion didactique}{36}{section.10.2}%
+\contentsline {subsubsection}{Architecture technique du moteur de jeu}{36}{section.10.2}%
+\contentsline {subsection}{Organisation collaborative : une structure inspirée des méthodes agiles}{36}{section.10.2}%
+\contentsline {subsubsection}{Structure organisationnelle mise en place}{37}{section.10.2}%
+\contentsline {subsection}{Le défi humain : recruter et fédérer dans un contexte difficile}{37}{figure.10.1}%
+\contentsline {subsubsection}{Stratégies de mobilisation développées}{38}{figure.10.1}%
+\contentsline {subsection}{Management de projet agile adapté au contexte scolaire}{38}{Item.18}%
+\contentsline {subsubsection}{Structure de management mise en place}{38}{Item.18}%
+\contentsline {section}{\numberline {10.3}Axe 3 : Déroulement et défis rencontrés}{38}{section.10.3}%
+\contentsline {subsection}{Chronologie du projet}{38}{section.10.3}%
+\contentsline {subsection}{Gestion réaliste des contraintes}{39}{section.10.3}%
+\contentsline {subsubsection}{Dépassement des délais initiaux}{39}{section.10.3}%
+\contentsline {subsubsection}{Fluctuation de l'implication}{39}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Axe 4 : Résultats et Analyse Réflexive}{39}{section.10.4}%
+\contentsline {subsection}{Bilan des productions et impacts}{39}{section.10.4}%
+\contentsline {subsubsection}{Un produit fini complet et professionnel}{39}{section.10.4}%
+\contentsline {subsubsection}{Impact au-delà de la classe}{41}{figure.10.3}%
+\contentsline {subsubsection}{Développement de compétences transversales}{41}{Item.22}%
+\contentsline {subsubsection}{Modalités d'évaluation}{41}{Item.22}%
+\contentsline {subsection}{Analyse réflexive approfondie}{42}{table.10.1}%
+\contentsline {subsubsection}{Analyse a priori : Le pari de l'interdisciplinarité}{42}{table.10.1}%
+\contentsline {subsubsection}{Analyse a posteriori : La réalité du terrain}{42}{table.10.1}%
+\contentsline {subsubsection}{Difficultés imprévues et régulations (Analyse Multi-agenda)}{42}{table.10.1}%
+\contentsline {subsubsection}{Axes d'amélioration}{43}{table.10.1}%
+\contentsline {subsection}{Transférabilité et compétences MEEF validées}{43}{table.10.1}%
+\contentsline {subsubsection}{BC09 - Acteur de la communauté éducative}{43}{table.10.1}%
+\contentsline {subsubsection}{BC05 - Didactique de l'informatique et pédagogie de projet}{44}{table.10.1}%
+\contentsline {subsubsection}{BC04 - Conduite de projet et recherche-action}{44}{table.10.1}%
+\contentsline {subsubsection}{BC06 - Praticien réflexif}{44}{table.10.1}%
+\contentsline {subsection}{Perspectives de recherche}{44}{table.10.1}%
+\contentsline {chapter}{\numberline {11}Expérience 3 : Ingénierie de l'évaluation - La « Notation à l'Enveloppe » (Méthode Italienne)}{45}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Axe 1 : Intentions pédagogiques et fondements éthiques}{45}{section.11.1}%
+\contentsline {subsection}{Présentation de la méthode : « Notation à l'Enveloppe » ou « Notation à l'Italienne »}{45}{section.11.1}%
+\contentsline {subsection}{Le point de départ : un problème d'équité récurrent}{45}{section.11.1}%
+\contentsline {subsection}{Le prérequis : maturité du groupe-classe}{45}{Item.27}%
+\contentsline {subsection}{Les objectifs pédagogiques implicites}{46}{Item.27}%
+\contentsline {subsubsection}{Développer la métacognition}{46}{Item.27}%
+\contentsline {subsubsection}{Enseigner la responsabilité}{46}{Item.27}%
+\contentsline {subsubsection}{Former au management équitable}{46}{Item.27}%
+\contentsline {section}{\numberline {11.2}Axe 2 : Déroulement méthodologique en 5 étapes structurées}{47}{section.11.2}%
+\contentsline {subsection}{Étape 1 : Présentation transparente des règles du jeu}{47}{section.11.2}%
+\contentsline {subsection}{Étape 2 : Attribution d'un projet de groupe structuré}{47}{section.11.2}%
+\contentsline {subsection}{Étape 3 : Calcul et attribution du "capital points" à distribuer}{48}{section.11.2}%
+\contentsline {subsubsection}{Exemple concret de calcul}{48}{section.11.2}%
+\contentsline {subsection}{Étape 4 : Répartition interne par le chef de projet}{48}{section.11.2}%
+\contentsline {subsubsection}{Processus de réflexion guidé}{48}{Item.31}%
+\contentsline {subsection}{Étape 5 : "Table Ronde" de validation collective (Analyse des Postures)}{48}{Item.31}%
+\contentsline {section}{\numberline {11.3}Axe 3 : Résultats observés et impacts}{49}{section.11.3}%
+\contentsline {subsection}{Analyse du Multi-agenda (Bucheton) sur l'ensemble de la séquence}{49}{section.11.3}%
+\contentsline {subsection}{Une différenciation modérée et acceptée}{49}{section.11.3}%
+\contentsline {subsubsection}{Données quantitatives}{49}{section.11.3}%
+\contentsline {subsubsection}{Acceptation qualitative}{50}{section.11.3}%
+\contentsline {subsection}{Un leadership basé sur la fiabilité plutôt que sur la popularité}{50}{section.11.3}%
+\contentsline {subsection}{Impact puissant sur la motivation et l'inclusion}{50}{section.11.3}%
+\contentsline {subsection}{Matériels produits}{50}{section.11.3}%
+\contentsline {subsubsection}{Principe de la notation à l'enveloppe}{50}{section.11.3}%
+\contentsline {subsubsection}{Grille d'évaluation professorale}{50}{section.11.3}%
+\contentsline {subsubsection}{Grille d'évaluation par les pairs}{51}{table.11.1}%
+\contentsline {subsubsection}{Avantages pédagogiques}{51}{table.11.2}%
+\contentsline {section}{\numberline {11.4}Axe 4 : Analyse réflexive approfondie et transférabilité}{52}{section.11.4}%
+\contentsline {subsection}{Analyse réflexive approfondie}{52}{section.11.4}%
+\contentsline {subsubsection}{Analyse a priori : Le pari de la confiance}{52}{section.11.4}%
+\contentsline {subsubsection}{Analyse a posteriori : La justice perçue}{52}{section.11.4}%
+\contentsline {subsubsection}{Difficultés imprévues et régulations}{52}{section.11.4}%
+\contentsline {subsubsection}{Axes d'amélioration}{53}{section.11.4}%
+\contentsline {subsection}{Transférabilité vers le référentiel MEEF et l'enseignement supérieur}{53}{section.11.4}%
+\contentsline {subsubsection}{BC06 - Praticien réflexif et innovateur}{53}{section.11.4}%
+\contentsline {subsubsection}{BC05 - Compétences en évaluation formative}{53}{section.11.4}%
+\contentsline {subsubsection}{BC04 - Pertinence pour la formation en IUT}{53}{section.11.4}%
+\contentsline {chapter}{\numberline {12}Conclusion de la partie 2}{54}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Synthèse transversale des compétences développées}{54}{section.12.1}%
+\contentsline {subsection}{Trois approches pédagogiques complémentaires}{54}{section.12.1}%
+\contentsline {subsubsection}{L'ingénierie de formation des pairs et le numérique éducatif (Expérience 1)}{54}{section.12.1}%
+\contentsline {subsubsection}{La collaboration créative (Expérience 2)}{54}{section.12.1}%
+\contentsline {subsubsection}{L'évaluation équitable (Expérience 3)}{55}{section.12.1}%
+\contentsline {subsection}{Convergence vers une approche systémique de l'enseignement}{55}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Évolution professionnelle et perspectives de développement}{55}{section.12.2}%
+\contentsline {subsection}{Une progression cohérente vers l'expertise}{55}{section.12.2}%
+\contentsline {subsection}{Perspectives de recherche et d'innovation}{56}{Item.34}%
+\contentsline {subsubsection}{Intelligence artificielle et personnalisation pédagogique}{56}{Item.34}%
+\contentsline {subsubsection}{Évaluation et développement des compétences transversales}{56}{Item.34}%
+\contentsline {subsubsection}{Collaboration interdisciplinaire en contexte numérique}{56}{Item.34}%
+\contentsline {subsection}{Transférabilité vers l'enseignement supérieur}{56}{Item.34}%
+\contentsline {section}{\numberline {12.3}Conclusion prospective}{57}{section.12.3}%
+\contentsline {part}{III\hspace {1em}Correspondance avec le référentiel RNCP et synthèse des acquis}{58}{part.3}%
+\contentsline {chapter}{\numberline {13}Introduction : Méthodologie de correspondance}{59}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Cadre de référence : le RNCP38152}{59}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Méthodologie d'analyse}{59}{section.13.2}%
+\contentsline {chapter}{\numberline {14}Analyse détaillée des 9 blocs de compétences RNCP38152}{60}{chapter.14}%
+\contentsline {section}{\numberline {14.1}BC01 - Mettre en œuvre les usages avancés et spécialisés des outils numériques}{60}{section.14.1}%
+\contentsline {subsection}{Définition officielle du bloc}{60}{section.14.1}%
+\contentsline {subsection}{Correspondance avec mon parcours}{60}{section.14.1}%
+\contentsline {subsubsection}{Expertise technique et ingénierie numérique}{60}{section.14.1}%
+\contentsline {subsubsection}{Impact sur l'ingénierie de formation}{60}{section.14.1}%
+\contentsline {section}{\numberline {14.2}BC02 - Mobiliser et produire des savoirs hautement spécialisés}{61}{section.14.2}%
+\contentsline {subsection}{Définition officielle du bloc}{61}{section.14.2}%
+\contentsline {subsection}{Correspondance avec mon parcours}{61}{section.14.2}%
+\contentsline {subsubsection}{Savoirs disciplinaires et didactiques}{61}{section.14.2}%
+\contentsline {subsubsection}{Production de savoirs nouveaux}{61}{section.14.2}%
+\contentsline {section}{\numberline {14.3}BC03 - Mettre en œuvre une communication spécialisée pour le transfert de connaissances}{62}{section.14.3}%
+\contentsline {subsection}{Définition officielle du bloc}{62}{section.14.3}%
+\contentsline {subsection}{Correspondance avec mon parcours}{62}{section.14.3}%
+\contentsline {subsubsection}{Communication pédagogique et formation d'adultes}{62}{section.14.3}%
+\contentsline {subsubsection}{Médiation scientifique et technique}{62}{section.14.3}%
+\contentsline {section}{\numberline {14.4}BC04 - Contribuer à la transformation en contexte professionnel}{62}{section.14.4}%
+\contentsline {subsection}{Définition officielle du bloc}{62}{section.14.4}%
+\contentsline {subsection}{Correspondance avec mon parcours}{63}{section.14.4}%
+\contentsline {subsubsection}{Pilotage de projets complexes}{63}{section.14.4}%
+\contentsline {subsubsection}{Démarche qualité et éthique}{63}{section.14.4}%
+\contentsline {section}{\numberline {14.5}BC05 - Concevoir, piloter et animer des dispositifs ou ingénieries de formation ou de médiation}{63}{section.14.5}%
+\contentsline {subsection}{Définition officielle du bloc}{63}{section.14.5}%
+\contentsline {subsection}{Correspondance avec mon parcours}{63}{section.14.5}%
+\contentsline {subsubsection}{Ingénierie didactique et pédagogique}{63}{section.14.5}%
+\contentsline {subsubsection}{Adaptation aux publics}{64}{section.14.5}%
+\contentsline {section}{\numberline {14.6}BC06 - Situer ses interventions dans un écosystème professionnel, coopérer, co-construire des actions}{64}{section.14.6}%
+\contentsline {subsection}{Définition officielle du bloc}{64}{section.14.6}%
+\contentsline {subsection}{Correspondance avec mon parcours}{64}{section.14.6}%
+\contentsline {subsubsection}{Travail collaboratif et réseau}{64}{section.14.6}%
+\contentsline {subsubsection}{Partenariats}{64}{section.14.6}%
+\contentsline {section}{\numberline {14.7}BC07 - Produire et diffuser des ressources, des outils, des démarches, et des contenus de formation innovants}{65}{section.14.7}%
+\contentsline {subsection}{Définition officielle du bloc}{65}{section.14.7}%
+\contentsline {subsection}{Correspondance avec mon parcours}{65}{section.14.7}%
+\contentsline {subsubsection}{Conception de ressources innovantes}{65}{section.14.7}%
+\contentsline {subsubsection}{Diffusion et valorisation}{65}{section.14.7}%
+\contentsline {section}{\numberline {14.8}BC08 - Conduire, piloter et partager une analyse réflexive sur les pratiques}{65}{section.14.8}%
+\contentsline {subsection}{Définition officielle du bloc}{65}{section.14.8}%
+\contentsline {subsection}{Correspondance avec mon parcours}{66}{section.14.8}%
+\contentsline {subsubsection}{Analyse de pratiques}{66}{section.14.8}%
+\contentsline {subsubsection}{Démarche qualité}{66}{section.14.8}%
+\contentsline {section}{\numberline {14.9}BC09 - S'engager dans une démarche de développement professionnel}{66}{section.14.9}%
+\contentsline {subsection}{Définition officielle du bloc}{66}{section.14.9}%
+\contentsline {subsection}{Correspondance avec mon parcours}{66}{section.14.9}%
+\contentsline {subsubsection}{Développement professionnel continu}{66}{section.14.9}%
+\contentsline {subsubsection}{Perspective de recherche}{67}{section.14.9}%
+\contentsline {chapter}{\numberline {15}Contribution des expériences à la maîtrise des compétences}{68}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Tableau croisé Expériences $\leftrightarrow $ Blocs RNCP38152}{68}{section.15.1}%
+\contentsline {subsection}{Légende des niveaux de contribution}{68}{table.15.1}%
+\contentsline {subsection}{Analyse des contributions}{68}{table.15.1}%
+\contentsline {subsubsection}{Expérience FORGÉALES - Formation de formateurs à l'IA et \LaTeX {}}{68}{table.15.1}%
+\contentsline {subsubsection}{Expérience JEUX - Pilotage de projet complexe}{69}{table.15.1}%
+\contentsline {subsubsection}{Expérience ÉVALUATION - Innovation en évaluation}{69}{table.15.1}%
+\contentsline {section}{\numberline {15.2}Transfert des expériences vers l'enseignement supérieur}{69}{section.15.2}%
+\contentsline {subsection}{Adaptation des innovations à l'IUT}{69}{section.15.2}%
+\contentsline {subsubsection}{Adaptation de la méthode SQL}{69}{section.15.2}%
+\contentsline {subsubsection}{Projet interdisciplinaire à l'IUT}{70}{section.15.2}%
+\contentsline {subsubsection}{Évaluation par les pairs dans le supérieur}{70}{section.15.2}%
+\contentsline {subsection}{Contribution à l'innovation pédagogique}{70}{section.15.2}%
+\contentsline {subsubsection}{Hub de ressources numériques}{70}{section.15.2}%
+\contentsline {subsubsection}{Recherche-action sur l'IA}{70}{section.15.2}%
+\contentsline {subsection}{Rayonnement et partage}{70}{section.15.2}%
+\contentsline {subsubsection}{Formation des pairs}{70}{section.15.2}%
+\contentsline {subsubsection}{Publications et communications}{71}{section.15.2}%
+\contentsline {chapter}{\numberline {16}Synthèse de la correspondance}{72}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Tableau récapitulatif de couverture des blocs de compétences RNCP38152}{72}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Correspondance avec la Maquette Locale FFMS (INSPÉ de Normandie Caen)}{74}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Conclusion : Une expertise en ingénierie de formation}{74}{section.16.3}%
+\contentsline {subsection}{Expertise technologique au service de la formation}{74}{section.16.3}%
+\contentsline {subsection}{Compétences en ingénierie pédagogique}{75}{section.16.3}%
+\contentsline {subsection}{Posture de praticien-chercheur et formateur de formateurs}{75}{section.16.3}%
+\contentsline {chapter}{\numberline {17}Projet professionnel et perspectives de recherche}{76}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Projet de thèse : \enquote {Conception et Évaluation d'un Écosystème d'IA Co-adaptatif pour l'Inclusion Pédagogique Active}}{76}{section.17.1}%
+\contentsline {subsection}{Cadre et problématique}{76}{section.17.1}%
+\contentsline {subsection}{Méthodologie et calendrier prévisionnel (2026-2029)}{76}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Trajectoire professionnelle et cohérence du projet VAE}{77}{section.17.2}%
+\contentsline {subsection}{Plan de carrière}{77}{section.17.2}%
+\contentsline {subsection}{Le Master MEEF : un levier stratégique}{77}{section.17.2}%
+\contentsline {chapter}{Conclusion générale}{78}{chapter*.7}%
 \contentsline {part}{IV\hspace {1em}Annexes Illustratives}{}{part.4}%
 \contentsline {chapter}{\numberline {18}Annexes Pédagogiques}{}{chapter.18}%
 \contentsline {chapter}{\numberline {19}Annexes Administratives et Justificatifs}{}{chapter.19}%
