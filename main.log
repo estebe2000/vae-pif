@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2107,10 +2107,18 @@ Overfull \hbox (28.6489pt too wide) in paragraph at lines 115--116
  []
 
 
+Overfull \hbox (1.52899pt too wide) in paragraph at lines 129--130
+[]\T1/ptm/b/n/12 Accompagnement post-formation \T1/ptm/m/n/12 : Ré-cep-tion de 
+nom-breux mes-sages pri-vés d'en-sei-gnants
+ []
 
-[33])
 
-[34]
+
+[33]
+
+[34])
+
+[35]
 \openout2 = `partie2/p2_chap3_experience_jeux.aux'.
 
  (partie2/p2_chap3_experience_jeux.tex
@@ -2123,14 +2131,14 @@ u-la-tion entre com-pé-tences tech-niques (code), créa-
 
 
 
-[35
+[36
 
 
 
 
 ]
 
-[36]
+[37]
 Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
 []\T1/ptm/m/n/12 Cette ré-flexion s'ins-crit dans les prin-cipes de l'in-gé-nie
 -rie pé-da-go-gique ([][]\T1/ptm/m/sc/12 Digiforma[]\T1/ptm/m/n/12 , [][]2024b[
@@ -2139,14 +2147,14 @@ Overfull \hbox (7.02637pt too wide) in paragraph at lines 65--66
 
 
 
-[37]
+[38]
 Overfull \hbox (14.20322pt too wide) in paragraph at lines 99--100
 \T1/ptm/b/n/12 en-vi-ron 40 élèves\T1/ptm/m/n/12 , illus-trant la co-or-di-na-t
 ion et l'ani-ma-tion de pro-jet plu-ri-dis-ci-pli-naire ([][]\T1/ptm/m/sc/12 Em
 powill[]\T1/ptm/m/n/12 ,
  []
 
-<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=992, 2007.5p
+<annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg, id=996, 2007.5p
 t x 1505.625pt>
 File: annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg Graphic fil
 e (type jpg)
@@ -2156,7 +2164,7 @@ Package pdftex.def Info: annexes/pedagogiques/productions/jeux-photo-etudiants
 (pdftex.def)             Requested size: 364.19667pt x 273.13739pt.
 
 
-[38
+[39
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.1})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2165,10 +2173,10 @@ l.116     \item \textbf
                        {Limitation de l'engagement} : proposition d'un cadre...
  <./annexes/pedagogiques/productions/jeux-photo-etudiants (1).jpg>]
 
-[39]
-
 [40]
-<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1020, 603.4545
+
+[41]
+<annexes/pedagogiques/productions/jeux-capture-ecran (1).png, id=1024, 603.4545
 pt x 457.71pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file 
 (type png)
@@ -2176,7 +2184,7 @@ File: annexes/pedagogiques/productions/jeux-capture-ecran (1).png Graphic file
 Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (1
 ).png  used on input line 187.
 (pdftex.def)             Requested size: 364.19667pt x 276.24144pt.
-<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1021, 594.4207
+<annexes/pedagogiques/productions/jeux-capture-ecran (2).png, id=1025, 594.4207
 5pt x 451.6875pt>
 File: annexes/pedagogiques/productions/jeux-capture-ecran (2).png Graphic file 
 (type png)
@@ -2186,7 +2194,7 @@ Package pdftex.def Info: annexes/pedagogiques/productions/jeux-capture-ecran (2
 (pdftex.def)             Requested size: 364.19667pt x 276.74889pt.
 
 
-[41
+[42
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2381,9 +2389,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--261
 \T1/ptm/m/n/12 entre toutes
  []
 
-[42]
-
 [43]
+
+[44]
 Overfull \hbox (28.43317pt too wide) in paragraph at lines 284--285
 []\T1/ptm/b/n/12 Étayage et Pos-tures \T1/ptm/m/n/12 : Ma pos-ture do-mi-nante 
 a glissé du \T1/ptm/b/n/12 contrôle \T1/ptm/m/n/12 (au dé-but) à l'\T1/ptm/b/n/
@@ -2392,7 +2400,7 @@ a glissé du \T1/ptm/b/n/12 contrôle \T1/ptm/m/n/12 (au dé-but) à l'\T1/ptm/b/n/
 
 
 
-[44]
+[45]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 327.
@@ -2411,7 +2419,7 @@ m/m/n/12 ,
 
 )
 
-[45]
+[46]
 \openout2 = `partie2/p2_chap4_experience_evaluation.aux'.
 
  (partie2/p2_chap4_experience_evaluation.tex
@@ -2423,18 +2431,18 @@ Overfull \hbox (3.6893pt too wide) in paragraph at lines 1--1
 
 
 
-[46
+[47
 
 
 
 
 ]
 
-[47]
-
 [48]
 
 [49]
+
+[50]
 Overfull \hbox (13.60011pt too wide) in paragraph at lines 155--156
 []\T1/ptm/m/n/12 Sur 5 ans d'uti-li-sa-tion de cette mé-thode, j'ob-serve des é
 carts mo-dé-rés et ac-cep-tés ([][]\T1/ptm/m/sc/12 Université
@@ -2442,7 +2450,7 @@ carts mo-dé-rés et ac-cep-tés ([][]\T1/ptm/m/sc/12 Université
 
 
 
-[50]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []|\T1/ptm/b/n/12 Insuffisant
  []
@@ -2634,7 +2642,7 @@ Overfull \hbox (17.89438pt too wide) in alignment at lines 196--225
 
 
 
-[51]
+[52]
 Overfull \hbox (62.39992pt too wide) in alignment at lines 230--235
  [] [] [] [] [] 
  []
@@ -2711,9 +2719,9 @@ Overfull \hbox (62.39992pt too wide) in alignment at lines 239--270
 
 
 
-[52]
+[53]
 
-[53])
+[54])
 Overfull \hbox (2.04842pt too wide) in paragraph at lines 335--593
 []\T1/ptm/m/n/12 Cette mé-thode s'ins-pire des pra-tiques d'éva-lua-tion en en-
 tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 , [][]2024[][]), et s'av
@@ -2722,7 +2730,7 @@ tre-prise ([][]\T1/ptm/m/sc/12 Eurecia[]\T1/ptm/m/n/12 , [][]2024[][]), et s'av
 
 
 
-[54]
+[55]
 \openout2 = `partie2/p2_chap5_conclusion.aux'.
 
  (partie2/p2_chap5_conclusion.tex
@@ -2735,26 +2743,26 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 
 
 
-[55
+[56
 
 
 
 
 ]
 
-[56]
+[57]
 
-[57])
+[58])
 
-[58]
-<sources/medias/p3-moy.png, id=1187, 882.29625pt x 882.29625pt>
+[59]
+<sources/medias/p3-moy.png, id=1191, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
 Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 599.
 (pdftex.def)             Requested size: 364.19667pt x 364.19402pt.
 
 
-[59
+[60
 
 
 
@@ -2766,7 +2774,7 @@ Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 599.
 Chapitre 13.
 )
 
-[60
+[61
 
 
 ]
@@ -2781,7 +2789,7 @@ Overfull \hbox (5.70271pt too wide) in paragraph at lines 1--1
 
 
 
-[61
+[62
 
 
 
@@ -2795,9 +2803,9 @@ lexive... ^^T \T1/ptm/m/n/12 ([][]\T1/ptm/m/sc/12 Compétences[]\T1/ptm/m/n/12 ,
 
 
 
-[62]
-
 [63]
+
+[64]
 Overfull \hbox (2.76128pt too wide) in paragraph at lines 111--112
 \T1/ptm/m/it/12 ÷uvre un ca-hier des charges. Mo-bi-li-ser des sa-voirs spé-cia
 -li-sés... ^^T \T1/ptm/m/n/12 ([][]\T1/ptm/m/sc/12 Compétences[]\T1/ptm/m/n/12 
@@ -2806,13 +2814,13 @@ Overfull \hbox (2.76128pt too wide) in paragraph at lines 111--112
 
 
 
-[64]
-
 [65]
 
 [66]
 
-[67])
+[67]
+
+[68])
 Overfull \hbox (0.10323pt too wide) in paragraph at lines 228--601
 []\T1/ptm/b/n/12 Niveau de maî-trise : Ac-quis \T1/ptm/m/n/12 - En-ga-ge-ment f
 ort dans une dy-na-mique de chercheur-praticien. 
@@ -2820,14 +2828,14 @@ ort dans une dy-na-mique de chercheur-praticien.
 
 
 
-[68]
+[69]
 \openout2 = `partie3/p3_chap3_experiences_exceptionnelles.aux'.
 
  (partie3/p3_chap3_experiences_exceptionnelles.tex
 Chapitre 15.
 
 
-[69
+[70
 
 
 
@@ -2841,18 +2849,18 @@ l.51     \item M
                 aÃ®trise des technologies Ã©mergentes (IA gÃ©nÃ©rative) pour...
 ]
 
-[70]
+[71]
 
-[71])
+[72])
 
-[72]
+[73]
 \openout2 = `partie3/p3_chap4_synthese_correspondance.aux'.
 
  (partie3/p3_chap4_synthese_correspondance.tex
 Chapitre 16.
 
 
-[73
+[74
 
 
 
@@ -2920,7 +2928,7 @@ Overfull \hbox (17.68301pt too wide) in alignment at lines 18--65
 
 
 
-[74
+[75
 
 ]
 Overfull \hbox (2.6887pt too wide) in paragraph at lines 69--69
@@ -2974,7 +2982,7 @@ Overfull \hbox (9.14719pt too wide) in paragraph at lines 76--93
 
 
 
-[75
+[76
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.16.2}) 
@@ -2984,7 +2992,7 @@ has been already used, duplicate ignored
 l.105 \end{itemize}
                    ])
 
-[76]
+[77]
 \openout2 = `partie3/p3_chap5_projet_professionnel.aux'.
 
  (partie3/p3_chap5_projet_professionnel.tex
@@ -2996,26 +3004,26 @@ Overfull \hbox (3.25917pt too wide) in paragraph at lines 3--3
 
 
 
-[77
+[78
 
 
 
 
 ])
 
-[78]
+[79]
 
-[79
+[80
 
 
 
 ]
 
-[80]
-
 [81]
 
 [82]
+
+[83]
 Overfull \hbox (27.5741pt too wide) in paragraph at lines 719--719
 |\T1/ptm/b/n/17.28 Conclusion pros-pec-tive : vers une car-rière d'enseignant-c
 hercheur| 
@@ -3023,12 +3031,12 @@ hercheur|
 
 
 
-[83]
-
 [84]
 
 [85]
-<sources/medias/p4-moy.png, id=1332, 793.96625pt x 793.96625pt>
+
+[86]
+<sources/medias/p4-moy.png, id=1336, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
 Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 764.
@@ -3824,13 +3832,21 @@ l.806 \end{document}
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40070 strings out of 468149
- 808931 string characters out of 5430598
+ 40071 strings out of 468149
+ 808938 string characters out of 5430598
  1757742 words of memory out of 5000000
  67618 multiletter control sequences out of 15000+600000
  741782 words of font info for 199 fonts, out of 8000000 for 9000
@@ -3845,9 +3861,9 @@ KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (116 pages, 8777271 bytes).
+Output written on main.pdf (117 pages, 8778099 bytes).
 PDF statistics:
- 1547 PDF objects out of 1728 (max. 8388607)
- 304 named destinations out of 1000 (max. 500000)
+ 1551 PDF objects out of 1728 (max. 8388607)
+ 305 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
