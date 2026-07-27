@@ -152,17 +152,18 @@
 \contentsline {subsection}{Impact puissant sur la motivation et l'inclusion}{54}{section.11.3}%
 \contentsline {subsection}{Matériels produits}{54}{section.11.3}%
 \contentsline {subsubsection}{Principe de la notation à l'enveloppe}{54}{section.11.3}%
+\contentsline {subsubsection}{Exemple d'illustration : inversion du sentiment d'injustice et fin de l'impunité}{55}{section.11.3}%
 \contentsline {subsubsection}{Grille d'évaluation professorale}{55}{section.11.3}%
-\contentsline {subsubsection}{Grille d'évaluation par les pairs}{55}{table.11.1}%
+\contentsline {subsubsection}{Grille d'évaluation par les pairs}{56}{table.11.1}%
 \contentsline {subsubsection}{Avantages pédagogiques}{56}{table.11.2}%
-\contentsline {section}{\numberline {11.4}Axe 4 : Analyse réflexive approfondie et transférabilité}{56}{section.11.4}%
-\contentsline {subsection}{Analyse réflexive approfondie}{56}{section.11.4}%
-\contentsline {subsubsection}{Analyse a priori : Le pari de la confiance}{56}{section.11.4}%
-\contentsline {subsubsection}{Analyse a posteriori : La justice perçue}{56}{section.11.4}%
+\contentsline {section}{\numberline {11.4}Axe 4 : Analyse réflexive approfondie et transférabilité}{57}{section.11.4}%
+\contentsline {subsection}{Analyse réflexive approfondie}{57}{section.11.4}%
+\contentsline {subsubsection}{Analyse a priori : Le pari de la confiance}{57}{section.11.4}%
+\contentsline {subsubsection}{Analyse a posteriori : La justice perçue}{57}{section.11.4}%
 \contentsline {subsubsection}{Difficultés imprévues et régulations}{57}{section.11.4}%
-\contentsline {subsubsection}{Axes d'amélioration}{57}{section.11.4}%
-\contentsline {subsection}{Transférabilité et validation des compétences}{57}{section.11.4}%
-\contentsline {subsubsection}{EC 151 / 251 (Analyse de l'activité) | RNCP BC06 (Praticien réflexif)}{57}{section.11.4}%
+\contentsline {subsubsection}{Axes d'amélioration}{58}{section.11.4}%
+\contentsline {subsection}{Transférabilité et validation des compétences}{58}{section.11.4}%
+\contentsline {subsubsection}{EC 151 / 251 (Analyse de l'activité) | RNCP BC06 (Praticien réflexif)}{58}{section.11.4}%
 \contentsline {subsubsection}{EC 162 / 262 (Numérique éducatif) | RNCP BC05 (Évaluation formative)}{58}{section.11.4}%
 \contentsline {subsubsection}{EC 125 / 225 (Évaluation des projets) | RNCP BC04 (Ingénierie de formation \& IUT)}{58}{section.11.4}%
 \contentsline {chapter}{\numberline {12}Conclusion de la partie 2}{59}{chapter.12}%
