@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 01:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.19)  27 JUL 2026 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,92 +291,30 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \Gin@req@height=\dimen176
 \Gin@req@width=\dimen177
 )
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz
-.sty
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
 
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.s
-ty
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
-l-common.tex
-\pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen178
-\pgfutil@tempdimb=\dimen179
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
-l-latex.def
-\pgfutil@abb=\box55
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count315
+\calc@Bcount=\count316
+\calc@Adimen=\dimen178
+\calc@Bdimen=\dimen179
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count317
+\calc@Cskip=\skip56
 )
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs
-.code.tex
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex
-)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen180
+\ESO@tempdimb=\dimen181
 
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore
-.sty
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys
-.sty
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
-ys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
-s.code.tex
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
-
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
-slibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks31
-))
-\pgf@x=\dimen180
-\pgf@y=\dimen181
-\pgf@xa=\dimen182
-\pgf@ya=\dimen183
-\pgf@xb=\dimen184
-\pgf@yb=\dimen185
-\pgf@xc=\dimen186
-\pgf@yc=\dimen187
-\pgf@xd=\dimen188
-\pgf@yd=\dimen189
-\w@pgf@writea=\write3
-\r@pgf@reada=\read3
-\c@pgf@counta=\count315
-\c@pgf@countb=\count316
-\c@pgf@countc=\count317
-\c@pgf@countd=\count318
-\t@pgf@toka=\toks32
-\t@pgf@tokb=\toks33
-\t@pgf@tokc=\toks34
-\pgf@sys@id@count=\count319
-
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.
-cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
-ys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
-ys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
-yssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count320
-\pgfsyssoftpath@bigbuffer@items=\count321
-)
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
-ysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
@@ -396,7 +334,109 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+\AM@pagewidth=\dimen182
+\AM@pageheight=\dimen183
+\AM@fboxrule=\dimen184
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
 )
+\pdfpages@includegraphics@status=\count318
+\AM@pagebox=\box55
+\AM@global@opts=\toks28
+\AM@pagecnt=\count319
+\AM@toc@title=\toks29
+\AM@lof@heading=\toks30
+\c@AM@survey=\count320
+\AM@templatesizebox=\box56
+)
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz
+.sty
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.s
+ty
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen185
+\pgfutil@tempdimb=\dimen186
+)
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-latex.def
+\pgfutil@abb=\box57
+)
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs
+.code.tex
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex
+)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore
+.sty
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys
+.sty
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+s.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+slibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen187
+\pgf@y=\dimen188
+\pgf@xa=\dimen189
+\pgf@ya=\dimen190
+\pgf@xb=\dimen191
+\pgf@yb=\dimen192
+\pgf@xc=\dimen193
+\pgf@yc=\dimen194
+\pgf@xd=\dimen195
+\pgf@yd=\dimen196
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count321
+\c@pgf@countb=\count322
+\c@pgf@countc=\count323
+\c@pgf@countd=\count324
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count325
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.
+cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+yssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count326
+\pgfsyssoftpath@bigbuffer@items=\count327
+)
+(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 re.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
@@ -407,12 +447,12 @@ e.tex
 .code.tex)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpars
 er.code.tex
-\pgfmath@dimen=\dimen190
-\pgfmath@count=\count322
-\pgfmath@box=\box56
-\pgfmath@toks=\toks35
-\pgfmath@stack@operand=\toks36
-\pgfmath@stack@operation=\toks37
+\pgfmath@dimen=\dimen197
+\pgfmath@count=\count328
+\pgfmath@box=\box58
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
 tions.code.tex)
@@ -436,59 +476,59 @@ tions.integerarithmetics.code.tex)
 .code.tex)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloa
 t.code.tex
-\c@pgfmathroundto@lastzeros=\count323
+\c@pgfmathroundto@lastzeros=\count329
 ))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code
 .tex)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 repoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen191
-\pgf@picmaxx=\dimen192
-\pgf@picminy=\dimen193
-\pgf@picmaxy=\dimen194
-\pgf@pathminx=\dimen195
-\pgf@pathmaxx=\dimen196
-\pgf@pathminy=\dimen197
-\pgf@pathmaxy=\dimen198
-\pgf@xx=\dimen199
-\pgf@xy=\dimen256
-\pgf@yx=\dimen257
-\pgf@yy=\dimen258
-\pgf@zx=\dimen259
-\pgf@zy=\dimen260
+\pgf@picminx=\dimen198
+\pgf@picmaxx=\dimen199
+\pgf@picminy=\dimen256
+\pgf@picmaxy=\dimen257
+\pgf@pathminx=\dimen258
+\pgf@pathmaxx=\dimen259
+\pgf@pathminy=\dimen260
+\pgf@pathmaxy=\dimen261
+\pgf@xx=\dimen262
+\pgf@xy=\dimen263
+\pgf@yx=\dimen264
+\pgf@yy=\dimen265
+\pgf@zx=\dimen266
+\pgf@zy=\dimen267
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 repathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen261
-\pgf@path@lasty=\dimen262
+\pgf@path@lastx=\dimen268
+\pgf@path@lasty=\dimen269
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 repathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen263
-\pgf@shorten@start@additional=\dimen264
+\pgf@shorten@end@additional=\dimen270
+\pgf@shorten@start@additional=\dimen271
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 rescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box57
-\pgf@hbox=\box58
-\pgf@layerbox@main=\box59
-\pgf@picture@serial@count=\count324
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count330
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 regraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen265
+\pgflinewidth=\dimen272
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 retransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen266
-\pgf@pt@y=\dimen267
-\pgf@pt@temp=\dimen268
+\pgf@pt@x=\dimen273
+\pgf@pt@y=\dimen274
+\pgf@pt@temp=\dimen275
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 requick.code.tex
@@ -505,14 +545,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 rearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen269
+\pgfarrowsep=\dimen276
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 reshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen270
-\pgf@sys@shading@range@num=\count325
-\pgf@shadingcount=\count326
+\pgf@max=\dimen277
+\pgf@sys@shading@range@num=\count331
+\pgf@shadingcount=\count332
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 reimage.code.tex
@@ -521,7 +561,7 @@ File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 reexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box60
+\pgfexternal@startupbox=\box62
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
 relayers.code.tex
@@ -542,7 +582,7 @@ File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
 eshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box61
+\pgfnodeparttextbox=\box63
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
 eplot.code.tex
@@ -551,8 +591,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
 omp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen271
-\pgf@nodesepend=\dimen272
+\pgf@nodesepstart=\dimen278
+\pgf@nodesepend=\dimen279
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
 omp-version-1-18.sty
@@ -570,10 +610,10 @@ e.tex))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor
 .code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen273
-\pgffor@skip=\dimen274
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
+\pgffor@iter=\dimen280
+\pgffor@skip=\dimen281
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
 ))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz\tikz.code.tex
@@ -582,34 +622,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
 raryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count327
-\pgfplotmarksize=\dimen275
+\pgf@plot@mark@count=\count333
+\pgfplotmarksize=\dimen282
 )
-\tikz@lastx=\dimen276
-\tikz@lasty=\dimen277
-\tikz@lastxsaved=\dimen278
-\tikz@lastysaved=\dimen279
-\tikz@lastmovetox=\dimen280
-\tikz@lastmovetoy=\dimen281
-\tikzleveldistance=\dimen282
-\tikzsiblingdistance=\dimen283
-\tikz@figbox=\box62
-\tikz@figbox@bg=\box63
-\tikz@tempbox=\box64
-\tikz@tempbox@bg=\box65
-\tikztreelevel=\count328
-\tikznumberofchildren=\count329
-\tikznumberofcurrentchild=\count330
-\tikz@fig@count=\count331
+\tikz@lastx=\dimen283
+\tikz@lasty=\dimen284
+\tikz@lastxsaved=\dimen285
+\tikz@lastysaved=\dimen286
+\tikz@lastmovetox=\dimen287
+\tikz@lastmovetoy=\dimen288
+\tikzleveldistance=\dimen289
+\tikzsiblingdistance=\dimen290
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count334
+\tikznumberofchildren=\count335
+\tikznumberofcurrentchild=\count336
+\tikz@fig@count=\count337
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
 ematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count332
-\pgfmatrixcurrentcolumn=\count333
-\pgf@matrix@numberofcolumns=\count334
+\pgfmatrixcurrentrow=\count338
+\pgfmatrixcurrentcolumn=\count339
+\pgf@matrix@numberofcolumns=\count340
 )
-\tikz@expandcount=\count335
+\tikz@expandcount=\count341
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz/libraries\tikzlibrarytopaths.code.tex
@@ -622,7 +662,7 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
 raryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen284
+\arrowsize=\dimen291
 ))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz/libraries\tikzlibraryshapes.code.tex
@@ -671,26 +711,26 @@ File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes
 \pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodepartlowerbox=\box66
-\pgfnodeparttwobox=\box67
-\pgfnodepartthreebox=\box68
-\pgfnodepartfourbox=\box69
-\pgfnodeparttwentybox=\box70
-\pgfnodepartnineteenbox=\box71
-\pgfnodeparteighteenbox=\box72
-\pgfnodepartseventeenbox=\box73
-\pgfnodepartsixteenbox=\box74
-\pgfnodepartfifteenbox=\box75
-\pgfnodepartfourteenbox=\box76
-\pgfnodepartthirteenbox=\box77
-\pgfnodeparttwelvebox=\box78
-\pgfnodepartelevenbox=\box79
-\pgfnodeparttenbox=\box80
-\pgfnodepartninebox=\box81
-\pgfnodeparteightbox=\box82
-\pgfnodepartsevenbox=\box83
-\pgfnodepartsixbox=\box84
-\pgfnodepartfivebox=\box85
+\pgfnodepartlowerbox=\box68
+\pgfnodeparttwobox=\box69
+\pgfnodepartthreebox=\box70
+\pgfnodepartfourbox=\box71
+\pgfnodeparttwentybox=\box72
+\pgfnodepartnineteenbox=\box73
+\pgfnodeparteighteenbox=\box74
+\pgfnodepartseventeenbox=\box75
+\pgfnodepartsixteenbox=\box76
+\pgfnodepartfifteenbox=\box77
+\pgfnodepartfourteenbox=\box78
+\pgfnodepartthirteenbox=\box79
+\pgfnodeparttwelvebox=\box80
+\pgfnodepartelevenbox=\box81
+\pgfnodeparttenbox=\box82
+\pgfnodepartninebox=\box83
+\pgfnodeparteightbox=\box84
+\pgfnodepartsevenbox=\box85
+\pgfnodepartsixbox=\box86
+\pgfnodepartfivebox=\box87
 )))
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz/libraries\tikzlibrarypositioning.code.tex
@@ -744,16 +784,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 y
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count336
+\c@section@level=\count342
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.
 sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen285
-\Hy@linkcounter=\count337
-\Hy@pagecounter=\count338
+\@linkdim=\dimen292
+\Hy@linkcounter=\count343
+\Hy@pagecounter=\count344
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
@@ -763,7 +803,7 @@ Now handling font encoding PD1 ...
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count339
+\Hy@SavedSpaceFactor=\count345
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -783,13 +823,13 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks OFF on input line 4468.
-\c@Hy@tempcnt=\count340
+\c@Hy@tempcnt=\count346
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen286
+\XeTeXLinkMargin=\dimen293
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -799,9 +839,9 @@ c.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count341
-\Field@Width=\dimen287
-\Fld@charsize=\dimen288
+\Fld@menulength=\count347
+\Field@Width=\dimen294
+\Fld@charsize=\dimen295
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -809,16 +849,16 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count342
-\c@Item=\count343
-\c@Hfootnote=\count344
+\Hy@abspage=\count348
+\c@Item=\count349
+\c@Hfootnote=\count350
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count345
-\c@bookmark@seq@number=\count346
+\Fld@listcount=\count351
+\c@bookmark@seq@number=\count352
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
 lecheck.sty
@@ -831,9 +871,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip54
+\Hy@SectionHShift=\skip57
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 50.
+Package hyperref Info: Option `colorlinks' set `true' on input line 51.
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.
 def
@@ -842,142 +882,142 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip55
-\f@nch@offset@elh=\skip56
-\f@nch@offset@erh=\skip57
-\f@nch@offset@olh=\skip58
-\f@nch@offset@orh=\skip59
-\f@nch@offset@elf=\skip60
-\f@nch@offset@erf=\skip61
-\f@nch@offset@olf=\skip62
-\f@nch@offset@orf=\skip63
-\f@nch@height=\skip64
-\f@nch@footalignment=\skip65
-\f@nch@widthL=\skip66
-\f@nch@widthC=\skip67
-\f@nch@widthR=\skip68
-\@temptokenb=\toks40
+\f@nch@headwidth=\skip58
+\f@nch@offset@elh=\skip59
+\f@nch@offset@erh=\skip60
+\f@nch@offset@olh=\skip61
+\f@nch@offset@orh=\skip62
+\f@nch@offset@elf=\skip63
+\f@nch@offset@erf=\skip64
+\f@nch@offset@olf=\skip65
+\f@nch@offset@orf=\skip66
+\f@nch@height=\skip67
+\f@nch@footalignment=\skip68
+\f@nch@widthL=\skip69
+\f@nch@widthC=\skip70
+\f@nch@widthR=\skip71
+\@temptokenb=\toks43
 ) (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.st
 y
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box86
-\beforetitleunit=\skip69
-\aftertitleunit=\skip70
-\ttl@plus=\dimen289
-\ttl@minus=\dimen290
-\ttl@toksa=\toks41
-\titlewidth=\dimen291
-\titlewidthlast=\dimen292
-\titlewidthfirst=\dimen293
+\ttl@box=\box88
+\beforetitleunit=\skip72
+\aftertitleunit=\skip73
+\ttl@plus=\dimen296
+\ttl@minus=\dimen297
+\ttl@toksa=\toks44
+\titlewidth=\dimen298
+\titlewidthlast=\dimen299
+\titlewidthfirst=\dimen300
 ) (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip71
-\cftbeforetoctitleskip=\skip72
-\cftaftertoctitleskip=\skip73
-\cftbeforepartskip=\skip74
-\cftpartnumwidth=\skip75
-\cftpartindent=\skip76
-\cftbeforechapskip=\skip77
-\cftchapindent=\skip78
-\cftchapnumwidth=\skip79
-\cftbeforesecskip=\skip80
-\cftsecindent=\skip81
-\cftsecnumwidth=\skip82
-\cftbeforesubsecskip=\skip83
-\cftsubsecindent=\skip84
-\cftsubsecnumwidth=\skip85
-\cftbeforesubsubsecskip=\skip86
-\cftsubsubsecindent=\skip87
-\cftsubsubsecnumwidth=\skip88
-\cftbeforeparaskip=\skip89
-\cftparaindent=\skip90
-\cftparanumwidth=\skip91
-\cftbeforesubparaskip=\skip92
-\cftsubparaindent=\skip93
-\cftsubparanumwidth=\skip94
-\cftbeforeloftitleskip=\skip95
-\cftafterloftitleskip=\skip96
-\cftbeforefigskip=\skip97
-\cftfigindent=\skip98
-\cftfignumwidth=\skip99
-\c@lofdepth=\count347
-\c@lotdepth=\count348
-\cftbeforelottitleskip=\skip100
-\cftafterlottitleskip=\skip101
-\cftbeforetabskip=\skip102
-\cfttabindent=\skip103
-\cfttabnumwidth=\skip104
+\cftparskip=\skip74
+\cftbeforetoctitleskip=\skip75
+\cftaftertoctitleskip=\skip76
+\cftbeforepartskip=\skip77
+\cftpartnumwidth=\skip78
+\cftpartindent=\skip79
+\cftbeforechapskip=\skip80
+\cftchapindent=\skip81
+\cftchapnumwidth=\skip82
+\cftbeforesecskip=\skip83
+\cftsecindent=\skip84
+\cftsecnumwidth=\skip85
+\cftbeforesubsecskip=\skip86
+\cftsubsecindent=\skip87
+\cftsubsecnumwidth=\skip88
+\cftbeforesubsubsecskip=\skip89
+\cftsubsubsecindent=\skip90
+\cftsubsubsecnumwidth=\skip91
+\cftbeforeparaskip=\skip92
+\cftparaindent=\skip93
+\cftparanumwidth=\skip94
+\cftbeforesubparaskip=\skip95
+\cftsubparaindent=\skip96
+\cftsubparanumwidth=\skip97
+\cftbeforeloftitleskip=\skip98
+\cftafterloftitleskip=\skip99
+\cftbeforefigskip=\skip100
+\cftfigindent=\skip101
+\cftfignumwidth=\skip102
+\c@lofdepth=\count353
+\c@lotdepth=\count354
+\cftbeforelottitleskip=\skip103
+\cftafterlottitleskip=\skip104
+\cftbeforetabskip=\skip105
+\cfttabindent=\skip106
+\cfttabnumwidth=\skip107
 ) (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
-\LTleft=\skip105
-\LTright=\skip106
-\LTpre=\skip107
-\LTpost=\skip108
-\LTchunksize=\count349
-\LTcapwidth=\dimen294
-\LT@head=\box87
-\LT@firsthead=\box88
-\LT@foot=\box89
-\LT@lastfoot=\box90
-\LT@gbox=\box91
-\LT@cols=\count350
-\LT@rows=\count351
-\c@LT@tables=\count352
-\c@LT@chunks=\count353
-\LT@p@ftn=\toks42
+\LTleft=\skip108
+\LTright=\skip109
+\LTpre=\skip110
+\LTpost=\skip111
+\LTchunksize=\count355
+\LTcapwidth=\dimen301
+\LT@head=\box89
+\LT@firsthead=\box90
+\LT@foot=\box91
+\LT@lastfoot=\box92
+\LT@gbox=\box93
+\LT@cols=\count356
+\LT@rows=\count357
+\c@LT@tables=\count358
+\c@LT@chunks=\count359
+\LT@p@ftn=\toks45
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
-\col@sep=\dimen295
-\ar@mcellbox=\box92
-\extrarowheight=\dimen296
-\NC@list=\toks43
-\extratabsurround=\skip109
-\backup@length=\skip110
-\ar@cellbox=\box93
+\col@sep=\dimen302
+\ar@mcellbox=\box94
+\extrarowheight=\dimen303
+\NC@list=\toks46
+\extratabsurround=\skip112
+\backup@length=\skip113
+\ar@cellbox=\box95
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen297
-\lightrulewidth=\dimen298
-\cmidrulewidth=\dimen299
-\belowrulesep=\dimen300
-\belowbottomsep=\dimen301
-\aboverulesep=\dimen302
-\abovetopsep=\dimen303
-\cmidrulesep=\dimen304
-\cmidrulekern=\dimen305
-\defaultaddspace=\dimen306
-\@cmidla=\count354
-\@cmidlb=\count355
-\@aboverulesep=\dimen307
-\@belowrulesep=\dimen308
-\@thisruleclass=\count356
-\@lastruleclass=\count357
-\@thisrulewidth=\dimen309
+\heavyrulewidth=\dimen304
+\lightrulewidth=\dimen305
+\cmidrulewidth=\dimen306
+\belowrulesep=\dimen307
+\belowbottomsep=\dimen308
+\aboverulesep=\dimen309
+\abovetopsep=\dimen310
+\cmidrulesep=\dimen311
+\cmidrulekern=\dimen312
+\defaultaddspace=\dimen313
+\@cmidla=\count360
+\@cmidlb=\count361
+\@aboverulesep=\dimen314
+\@belowrulesep=\dimen315
+\@thisruleclass=\count362
+\@lastruleclass=\count363
+\@thisrulewidth=\dimen316
 ) (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
 y
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-\everycr=\toks44
-\minrowclearance=\skip111
-\rownum=\count358
+\everycr=\toks47
+\minrowclearance=\skip114
+\rownum=\count364
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip112
-\multirow@cntb=\count359
-\multirow@dima=\skip113
-\bigstrutjot=\dimen310
+\multirow@colwidth=\skip115
+\multirow@cntb=\count365
+\multirow@dima=\skip116
+\bigstrutjot=\dimen317
 ) (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
 y
 Package: enumitem 2025/02/06 v3.11 Customized lists
-\labelindent=\skip114
-\enit@outerparindent=\dimen311
-\enit@toks=\toks45
-\enit@inbox=\box94
-\enit@count@id=\count360
-\enitdp@description=\count361
+\labelindent=\skip117
+\enit@outerparindent=\dimen318
+\enit@toks=\toks48
+\enit@inbox=\box96
+\enit@count@id=\count366
+\enitdp@description=\count367
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.st
 y
@@ -994,82 +1034,79 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )) (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count362
-\float@exts=\toks46
-\float@box=\box95
-\@float@everytoks=\toks47
-\@floatcapt=\box96
+\c@float@type=\count368
+\float@exts=\toks49
+\float@box=\box97
+\@float@everytoks=\toks50
+\@floatcapt=\box98
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count363
+\lrq@indent=\count369
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count364
-\c@listtotal=\count365
-\c@listcount=\count366
-\c@liststart=\count367
-\c@liststop=\count368
-\c@citecount=\count369
-\c@citetotal=\count370
-\c@multicitecount=\count371
-\c@multicitetotal=\count372
-\c@instcount=\count373
-\c@maxnames=\count374
-\c@minnames=\count375
-\c@maxitems=\count376
-\c@minitems=\count377
-\c@citecounter=\count378
-\c@maxcitecounter=\count379
-\c@savedcitecounter=\count380
-\c@uniquelist=\count381
-\c@uniquename=\count382
-\c@refsection=\count383
-\c@refsegment=\count384
-\c@maxextratitle=\count385
-\c@maxextratitleyear=\count386
-\c@maxextraname=\count387
-\c@maxextradate=\count388
-\c@maxextraalpha=\count389
-\c@abbrvpenalty=\count390
-\c@highnamepenalty=\count391
-\c@lownamepenalty=\count392
-\c@maxparens=\count393
-\c@parenlevel=\count394
-\blx@tempcnta=\count395
-\blx@tempcntb=\count396
-\blx@tempcntc=\count397
-\c@blx@maxsection=\count398
-\blx@maxsegment@0=\count399
-\blx@notetype=\count400
-\blx@parenlevel@text=\count401
-\blx@parenlevel@foot=\count402
-\blx@sectionciteorder@0=\count403
-\blx@sectionciteorderinternal@0=\count404
-\blx@entrysetcounter=\count405
-\blx@biblioinstance=\count406
-\labelnumberwidth=\skip115
-\labelalphawidth=\skip116
-\biblabelsep=\skip117
-\bibitemsep=\skip118
-\bibnamesep=\skip119
-\bibinitsep=\skip120
-\bibparsep=\skip121
-\bibhang=\skip122
+\c@tabx@nest=\count370
+\c@listtotal=\count371
+\c@listcount=\count372
+\c@liststart=\count373
+\c@liststop=\count374
+\c@citecount=\count375
+\c@citetotal=\count376
+\c@multicitecount=\count377
+\c@multicitetotal=\count378
+\c@instcount=\count379
+\c@maxnames=\count380
+\c@minnames=\count381
+\c@maxitems=\count382
+\c@minitems=\count383
+\c@citecounter=\count384
+\c@maxcitecounter=\count385
+\c@savedcitecounter=\count386
+\c@uniquelist=\count387
+\c@uniquename=\count388
+\c@refsection=\count389
+\c@refsegment=\count390
+\c@maxextratitle=\count391
+\c@maxextratitleyear=\count392
+\c@maxextraname=\count393
+\c@maxextradate=\count394
+\c@maxextraalpha=\count395
+\c@abbrvpenalty=\count396
+\c@highnamepenalty=\count397
+\c@lownamepenalty=\count398
+\c@maxparens=\count399
+\c@parenlevel=\count400
+\blx@tempcnta=\count401
+\blx@tempcntb=\count402
+\blx@tempcntc=\count403
+\c@blx@maxsection=\count404
+\blx@maxsegment@0=\count405
+\blx@notetype=\count406
+\blx@parenlevel@text=\count407
+\blx@parenlevel@foot=\count408
+\blx@sectionciteorder@0=\count409
+\blx@sectionciteorderinternal@0=\count410
+\blx@entrysetcounter=\count411
+\blx@biblioinstance=\count412
+\labelnumberwidth=\skip118
+\labelalphawidth=\skip119
+\biblabelsep=\skip120
+\bibitemsep=\skip121
+\bibnamesep=\skip122
+\bibinitsep=\skip123
+\bibparsep=\skip124
+\bibhang=\skip125
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language80
-\c@mincomprange=\count407
-\c@maxcomprange=\count408
-\c@mincompwidth=\count409
+\c@mincomprange=\count413
+\c@maxcomprange=\count414
+\c@mincompwidth=\count415
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1084,98 +1121,98 @@ File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count410
-\c@savedafterword=\count411
-\c@annotator=\count412
-\c@savedannotator=\count413
-\c@author=\count414
-\c@savedauthor=\count415
-\c@bookauthor=\count416
-\c@savedbookauthor=\count417
-\c@commentator=\count418
-\c@savedcommentator=\count419
-\c@editor=\count420
-\c@savededitor=\count421
-\c@editora=\count422
-\c@savededitora=\count423
-\c@editorb=\count424
-\c@savededitorb=\count425
-\c@editorc=\count426
-\c@savededitorc=\count427
-\c@foreword=\count428
-\c@savedforeword=\count429
-\c@holder=\count430
-\c@savedholder=\count431
-\c@introduction=\count432
-\c@savedintroduction=\count433
-\c@namea=\count434
-\c@savednamea=\count435
-\c@nameb=\count436
-\c@savednameb=\count437
-\c@namec=\count438
-\c@savednamec=\count439
-\c@translator=\count440
-\c@savedtranslator=\count441
-\c@shortauthor=\count442
-\c@savedshortauthor=\count443
-\c@shorteditor=\count444
-\c@savedshorteditor=\count445
-\c@narrator=\count446
-\c@savednarrator=\count447
-\c@execproducer=\count448
-\c@savedexecproducer=\count449
-\c@execdirector=\count450
-\c@savedexecdirector=\count451
-\c@with=\count452
-\c@savedwith=\count453
-\c@labelname=\count454
-\c@savedlabelname=\count455
-\c@institution=\count456
-\c@savedinstitution=\count457
-\c@lista=\count458
-\c@savedlista=\count459
-\c@listb=\count460
-\c@savedlistb=\count461
-\c@listc=\count462
-\c@savedlistc=\count463
-\c@listd=\count464
-\c@savedlistd=\count465
-\c@liste=\count466
-\c@savedliste=\count467
-\c@listf=\count468
-\c@savedlistf=\count469
-\c@location=\count470
-\c@savedlocation=\count471
-\c@organization=\count472
-\c@savedorganization=\count473
-\c@origlocation=\count474
-\c@savedoriglocation=\count475
-\c@origpublisher=\count476
-\c@savedorigpublisher=\count477
-\c@publisher=\count478
-\c@savedpublisher=\count479
-\c@language=\count480
-\c@savedlanguage=\count481
-\c@origlanguage=\count482
-\c@savedoriglanguage=\count483
-\c@citation=\count484
-\c@savedcitation=\count485
-\c@pageref=\count486
-\c@savedpageref=\count487
-\shorthandwidth=\skip123
-\shortjournalwidth=\skip124
-\shortserieswidth=\skip125
-\shorttitlewidth=\skip126
-\shortauthorwidth=\skip127
-\shorteditorwidth=\skip128
-\locallabelnumberwidth=\skip129
-\locallabelalphawidth=\skip130
-\localshorthandwidth=\skip131
-\localshortjournalwidth=\skip132
-\localshortserieswidth=\skip133
-\localshorttitlewidth=\skip134
-\localshortauthorwidth=\skip135
-\localshorteditorwidth=\skip136
+\c@afterword=\count416
+\c@savedafterword=\count417
+\c@annotator=\count418
+\c@savedannotator=\count419
+\c@author=\count420
+\c@savedauthor=\count421
+\c@bookauthor=\count422
+\c@savedbookauthor=\count423
+\c@commentator=\count424
+\c@savedcommentator=\count425
+\c@editor=\count426
+\c@savededitor=\count427
+\c@editora=\count428
+\c@savededitora=\count429
+\c@editorb=\count430
+\c@savededitorb=\count431
+\c@editorc=\count432
+\c@savededitorc=\count433
+\c@foreword=\count434
+\c@savedforeword=\count435
+\c@holder=\count436
+\c@savedholder=\count437
+\c@introduction=\count438
+\c@savedintroduction=\count439
+\c@namea=\count440
+\c@savednamea=\count441
+\c@nameb=\count442
+\c@savednameb=\count443
+\c@namec=\count444
+\c@savednamec=\count445
+\c@translator=\count446
+\c@savedtranslator=\count447
+\c@shortauthor=\count448
+\c@savedshortauthor=\count449
+\c@shorteditor=\count450
+\c@savedshorteditor=\count451
+\c@narrator=\count452
+\c@savednarrator=\count453
+\c@execproducer=\count454
+\c@savedexecproducer=\count455
+\c@execdirector=\count456
+\c@savedexecdirector=\count457
+\c@with=\count458
+\c@savedwith=\count459
+\c@labelname=\count460
+\c@savedlabelname=\count461
+\c@institution=\count462
+\c@savedinstitution=\count463
+\c@lista=\count464
+\c@savedlista=\count465
+\c@listb=\count466
+\c@savedlistb=\count467
+\c@listc=\count468
+\c@savedlistc=\count469
+\c@listd=\count470
+\c@savedlistd=\count471
+\c@liste=\count472
+\c@savedliste=\count473
+\c@listf=\count474
+\c@savedlistf=\count475
+\c@location=\count476
+\c@savedlocation=\count477
+\c@organization=\count478
+\c@savedorganization=\count479
+\c@origlocation=\count480
+\c@savedoriglocation=\count481
+\c@origpublisher=\count482
+\c@savedorigpublisher=\count483
+\c@publisher=\count484
+\c@savedpublisher=\count485
+\c@language=\count486
+\c@savedlanguage=\count487
+\c@origlanguage=\count488
+\c@savedoriglanguage=\count489
+\c@citation=\count490
+\c@savedcitation=\count491
+\c@pageref=\count492
+\c@savedpageref=\count493
+\shorthandwidth=\skip126
+\shortjournalwidth=\skip127
+\shortserieswidth=\skip128
+\shorttitlewidth=\skip129
+\shortauthorwidth=\skip130
+\shorteditorwidth=\skip131
+\locallabelnumberwidth=\skip132
+\locallabelalphawidth=\skip133
+\localshorthandwidth=\skip134
+\localshortjournalwidth=\skip135
+\localshortserieswidth=\skip136
+\localshorttitlewidth=\skip137
+\localshortauthorwidth=\skip138
+\localshorteditorwidth=\skip139
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1188,19 +1225,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count488
-\c@textcitetotal=\count489
-\c@textcitemaxnames=\count490
-\c@biburlbigbreakpenalty=\count491
-\c@biburlbreakpenalty=\count492
-\c@biburlnumpenalty=\count493
-\c@biburlucpenalty=\count494
-\c@biburllcpenalty=\count495
+\c@textcitecount=\count494
+\c@textcitetotal=\count495
+\c@textcitemaxnames=\count496
+\c@biburlbigbreakpenalty=\count497
+\c@biburlbreakpenalty=\count498
+\c@biburlnumpenalty=\count499
+\c@biburlucpenalty=\count500
+\c@biburllcpenalty=\count501
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count496
+\c@smartand=\count502
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -1212,8 +1249,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.
 bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count497
-\c@bbx:relatedtotal=\count498
+\c@bbx:relatedcount=\count503
+\c@bbx:relatedtotal=\count504
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
 ed, overwriting.
@@ -1263,7 +1300,7 @@ Package: expl3 2025-07-11 L3 programming layer (loader)
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count499
+\l__color_backend_stack_int=\count505
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2025-07-11 L3 programming layer (loader) 
@@ -1283,8 +1320,8 @@ y
 Package: tcolorbox 2025/07/08 version 6.7.1 text color boxes
  (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks48
-\verbatim@line=\toks49
+\every@verbatim=\toks51
+\verbatim@line=\toks52
 \verbatim@in@stream=\read5
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
@@ -1294,19 +1331,19 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box97
-\tcb@upperbox=\box98
-\tcb@lowerbox=\box99
-\tcb@phantombox=\box100
-\c@tcbbreakpart=\count500
-\c@tcblayer=\count501
-\c@tcolorbox@number=\count502
-\l__tcobox_tmpa_box=\box101
-\l__tcobox_tmpa_dim=\dimen312
-\tcb@temp=\box102
-\tcb@temp=\box103
+\tcb@titlebox=\box99
+\tcb@upperbox=\box100
+\tcb@lowerbox=\box101
+\tcb@phantombox=\box102
+\c@tcbbreakpart=\count506
+\c@tcblayer=\count507
+\c@tcolorbox@number=\count508
+\l__tcobox_tmpa_box=\box103
+\l__tcobox_tmpa_dim=\dimen319
 \tcb@temp=\box104
 \tcb@temp=\box105
+\tcb@temp=\box106
+\tcb@temp=\box107
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
@@ -1321,16 +1358,16 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 )
 Package french3.ldf Info: Setting StandardItemizeEnv=true for
 (french3.ldf)             compatibility with enumitem package,
-(french3.ldf)             reported on input line 114.
+(french3.ldf)             reported on input line 115.
 Package french3.ldf Info: Setting StandardEnumerateEnv=true for
 (french3.ldf)             compatibility with enumitem package,
-(french3.ldf)             reported on input line 114.
+(french3.ldf)             reported on input line 115.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'french'.
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
-4.
+5.
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -1354,25 +1391,25 @@ Package babel Info: 'french' activates 'french' shorthands.
 (annexes/administratives/p4_chap2_administratives.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Info: Redefining \degres on input line 114.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Info: Redefining \degres on input line 115.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1412,17 +1449,17 @@ LaTeX Info: Redefining \degres on input line 114.
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count503
-\scratchdimen=\dimen313
-\scratchbox=\box106
-\nofMPsegments=\count504
-\nofMParguments=\count505
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count506
-\MPscratchDim=\dimen314
-\MPnumerator=\count507
-\makeMPintoPDFobject=\count508
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count509
+\scratchdimen=\dimen320
+\scratchbox=\box108
+\nofMPsegments=\count510
+\nofMParguments=\count511
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count512
+\MPscratchDim=\dimen321
+\MPnumerator=\count513
+\makeMPintoPDFobject=\count514
+\everyMPtoPDFconversion=\toks54
 )
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
 base.sty
@@ -1434,7 +1471,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 114.
+Package hyperref Info: Link coloring ON on input line 115.
 Package biblatex Info: Trying to load language 'french' -> 'french-apa'...
 Package biblatex Info: ... file 'french-apa.lbx' found.
 
@@ -1463,17 +1500,17 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 114.
-Package biblatex Info: Reference segment=0 on input line 114.
+Package biblatex Info: Reference section=0 on input line 115.
+Package biblatex Info: Reference segment=0 on input line 115.
 <sources/medias/logo1.png, id=6, 259.2084pt x 146.2263pt>
 File: sources/medias/logo1.png Graphic file (type png)
 <use sources/medias/logo1.png>
-Package pdftex.def Info: sources/medias/logo1.png  used on input line 125.
+Package pdftex.def Info: sources/medias/logo1.png  used on input line 126.
 (pdftex.def)             Requested size: 151.3179pt x 85.35826pt.
 <sources/medias/logo2.png, id=8, 366.168pt x 74.9199pt>
 File: sources/medias/logo2.png Graphic file (type png)
 <use sources/medias/logo2.png>
-Package pdftex.def Info: sources/medias/logo2.png  used on input line 149.
+Package pdftex.def Info: sources/medias/logo2.png  used on input line 150.
 (pdftex.def)             Requested size: 417.21236pt x 85.35826pt.
 
 
@@ -1552,10 +1589,10 @@ nt au Nu-mé-rique (Sep-tembre
 <sources/medias/photo.png, id=244, 311.66437pt x 325.215pt>
 File: sources/medias/photo.png Graphic file (type png)
 <use sources/medias/photo.png>
-Package pdftex.def Info: sources/medias/photo.png  used on input line 181.
+Package pdftex.def Info: sources/medias/photo.png  used on input line 182.
 (pdftex.def)             Requested size: 95.38724pt x 99.53531pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 189--194
 
  []
 
@@ -1568,7 +1605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--193
 [6
 
 ]
-Overfull \hbox (5.92682pt too wide) in paragraph at lines 235--235
+Overfull \hbox (5.92682pt too wide) in paragraph at lines 236--236
 |\T1/ptm/b/n/24.88 Autorisation de mise en consul-ta-tion du dos-
  []
 
@@ -1577,56 +1614,56 @@ Overfull \hbox (5.92682pt too wide) in paragraph at lines 235--235
 [7
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 \T1/ptm/m/it/10.95 Mettre en ÷uvre les
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 \T1/ptm/m/it/10.95 usages avan-cés et
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 \T1/ptm/m/it/10.95 spé-cia-li-sés des ou-tils
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-98.
+99.
 (C:\Users\estebe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 \T1/ptm/m/it/10.95 Mettre en ÷uvre une
  []
 
 
-Underfull \hbox (badness 4492) in paragraph at lines 311--312
+Underfull \hbox (badness 4492) in paragraph at lines 312--313
 \T1/ptm/m/it/10.95 com-mu-ni-ca-tion spé-cia-li-
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 335--336
+Underfull \hbox (badness 4416) in paragraph at lines 336--337
 \T1/ptm/m/it/10.95 Situer ses in-ter-ven-tions
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 335--336
+Underfull \hbox (badness 1033) in paragraph at lines 336--337
 \T1/ptm/m/it/10.95 fes-sion-nel, co-opé-rer, co-
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 342--343
+Underfull \hbox (badness 1168) in paragraph at lines 343--344
 \T1/ptm/m/it/10.95 Produire et dif-fu-ser des
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 342--343
+Underfull \hbox (badness 2165) in paragraph at lines 343--344
 \T1/ptm/m/it/10.95 nus de for-ma-tion in-no-
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 350--351
+Underfull \hbox (badness 7362) in paragraph at lines 351--352
 \T1/ptm/m/it/10.95 ta-ger une ana-lyse ré-
  []
 
@@ -1652,7 +1689,7 @@ Underfull \hbox (badness 7362) in paragraph at lines 350--351
 <sources/medias/p1-moy.png, id=296, 713.66624pt x 713.66624pt>
 File: sources/medias/p1-moy.png Graphic file (type png)
 <use sources/medias/p1-moy.png>
-Package pdftex.def Info: sources/medias/p1-moy.png  used on input line 577.
+Package pdftex.def Info: sources/medias/p1-moy.png  used on input line 578.
 (pdftex.def)             Requested size: 364.19667pt x 364.19365pt.
 
 
@@ -1998,7 +2035,7 @@ herche ([]de l'En-sei-gne-ment []\T1/ptm/m/sc/12 supérieur[]\T1/ptm/m/n/12 ,
 <sources/medias/p2-moy.png, id=470, 793.96625pt x 793.96625pt>
 File: sources/medias/p2-moy.png Graphic file (type png)
 <use sources/medias/p2-moy.png>
-Package pdftex.def Info: sources/medias/p2-moy.png  used on input line 589.
+Package pdftex.def Info: sources/medias/p2-moy.png  used on input line 590.
 (pdftex.def)             Requested size: 364.19667pt x 364.19914pt.
 
 
@@ -2028,7 +2065,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.8.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.590 \include{partie2/p2_chap1_introduction}
+l.591 \include{partie2/p2_chap1_introduction}
                                              ]
 \openout2 = `partie2/p2_chap2_experience_sql.aux'.
 
@@ -2755,10 +2792,10 @@ sé-lec-tion-nées et ana-ly-sées, té-moignent
 [61])
 
 [62]
-<sources/medias/p3-moy.png, id=1213, 882.29625pt x 882.29625pt>
+<sources/medias/p3-moy.png, id=1214, 882.29625pt x 882.29625pt>
 File: sources/medias/p3-moy.png Graphic file (type png)
 <use sources/medias/p3-moy.png>
-Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 599.
+Package pdftex.def Info: sources/medias/p3-moy.png  used on input line 600.
 (pdftex.def)             Requested size: 364.19667pt x 364.19402pt.
 
 
@@ -2821,7 +2858,7 @@ Overfull \hbox (2.76128pt too wide) in paragraph at lines 111--112
 [70]
 
 [71])
-Overfull \hbox (0.10323pt too wide) in paragraph at lines 228--601
+Overfull \hbox (0.10323pt too wide) in paragraph at lines 228--602
 []\T1/ptm/b/n/12 Niveau de maî-trise : Ac-quis \T1/ptm/m/n/12 - En-ga-ge-ment f
 ort dans une dy-na-mique de chercheur-praticien. 
  []
@@ -3033,7 +3070,7 @@ a-tion des on-to-lo-gies de connais-
 [86]
 
 [87]
-Overfull \hbox (27.5741pt too wide) in paragraph at lines 719--719
+Overfull \hbox (27.5741pt too wide) in paragraph at lines 720--720
 |\T1/ptm/b/n/17.28 Conclusion pros-pec-tive : vers une car-rière d'enseignant-c
 hercheur| 
  []
@@ -3045,10 +3082,10 @@ hercheur|
 [89]
 
 [90]
-<sources/medias/p4-moy.png, id=1363, 793.96625pt x 793.96625pt>
+<sources/medias/p4-moy.png, id=1364, 793.96625pt x 793.96625pt>
 File: sources/medias/p4-moy.png Graphic file (type png)
 <use sources/medias/p4-moy.png>
-Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 764.
+Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 765.
 (pdftex.def)             Requested size: 364.19667pt x 364.19914pt.
 
 
@@ -3060,24 +3097,131 @@ Package pdftex.def Info: sources/medias/p4-moy.png  used on input line 764.
 
 (annexes/pedagogiques/p4_chap1_pedagogiques.tex
 Chapitre 18.
+<sources/grille.pdf, id=1370, 597.50829pt x 845.0471pt>
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf>
+Package pdftex.def Info: sources/grille.pdf  used on input line 9.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<sources/grille.pdf, id=1372, page=1, 597.50829pt x 845.0471pt>
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 1>
+Package pdftex.def Info: sources/grille.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 1>
+Package pdftex.def Info: sources/grille.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 507.88443pt x 718.29344pt.
 
-Overfull \hbox (4.93579pt too wide) in paragraph at lines 3--4
-[]\T1/ptm/m/n/12 Les élé-ments illus-tra-tifs concer-nant les ex-pé-riences pro
--fes-sion-nelles (cap-tures d'écran, grilles
- []
-
-)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.765 ...nexes/pedagogiques/p4_chap1_pedagogiques}
+l.9 ...\thispagestyle{plain}}]{sources/grille.pdf}
                                                    [2
 
 
 ]
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 1>
+Package pdftex.def Info: sources/grille.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 507.88443pt x 718.29344pt.
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 1>
+Package pdftex.def Info: sources/grille.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 507.88443pt x 718.29344pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 ...\thispagestyle{plain}}]{sources/grille.pdf}
+                                                  
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 1>
+Package pdftex.def Info: sources/grille.pdf , page1 used on input line 9.
+(pdftex.def)             Requested size: 507.88443pt x 718.29344pt.
+ [3
+
+ <./sources/grille.pdf>]
+<sources/grille.pdf, id=1426, page=2, 845.0471pt x 597.50829pt>
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 2>
+Package pdftex.def Info: sources/grille.pdf , page2 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 2>
+Package pdftex.def Info: sources/grille.pdf , page2 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 ...\thispagestyle{plain}}]{sources/grille.pdf}
+                                                  
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 2>
+Package pdftex.def Info: sources/grille.pdf , page2 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+ [4
+
+ <./sources/grille.pdf, page is rotated 90 degrees>]
+<sources/grille.pdf, id=1445, page=3, 845.0471pt x 597.50829pt>
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 3>
+Package pdftex.def Info: sources/grille.pdf , page3 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 3>
+Package pdftex.def Info: sources/grille.pdf , page3 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 ...\thispagestyle{plain}}]{sources/grille.pdf}
+                                                  
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 3>
+Package pdftex.def Info: sources/grille.pdf , page3 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+ [5
+
+ <./sources/grille.pdf, page is rotated 90 degrees>]
+<sources/grille.pdf, id=1449, page=4, 845.0471pt x 597.50829pt>
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 4>
+Package pdftex.def Info: sources/grille.pdf , page4 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 4>
+Package pdftex.def Info: sources/grille.pdf , page4 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 ...\thispagestyle{plain}}]{sources/grille.pdf}
+                                                  
+File: sources/grille.pdf Graphic file (type pdf)
+<use sources/grille.pdf, page 4>
+Package pdftex.def Info: sources/grille.pdf , page4 used on input line 9.
+(pdftex.def)             Requested size: 718.29344pt x 507.88443pt.
+ [6
+
+ <./sources/grille.pdf, page is rotated 90 degrees>])
 \openout2 = `annexes/administratives/p4_chap2_administratives.aux'.
 
 
@@ -3136,7 +3280,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.70 \end{longtable}
-                     [3
+                     [7
 
 
 
@@ -3149,7 +3293,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.92     \item F
-                ormations continues et certifications [4]
+                ormations continues et certifications [8]
 Underfull \hbox (badness 1028) in paragraph at lines 107--107
 []|\T1/ptm/b/n/12 Description et ob-jec-
  []
@@ -3675,13 +3819,13 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.185 \end{longtable}
-                      [5]
+                      [9]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.185 \end{longtable}
-                      [6]
+                      [10]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -3690,7 +3834,7 @@ een already used, duplicate ignored
                    \relax 
 l.206     \item \textbf
                        {Adoption large} : Plus de 50 Ã©tablissements utilisa...
-[7]
+[11]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -3699,7 +3843,7 @@ een already used, duplicate ignored
                    \relax 
 l.243     \item \textbf
                        {Innovation reconnue} : SÃ©lection comme exemple de b...
-[8]
+[12]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -3708,7 +3852,7 @@ een already used, duplicate ignored
                    \relax 
 l.281     \item \textbf
                        {Du 01/09/2022 au 31/08/2025} : LycÃ©e gÃ©nÃ©ral et t...
-[9]
+[13]
 Overfull \hbox (35.77354pt too wide) in alignment at lines 289--294
  [] [] [] [] 
  []
@@ -3759,7 +3903,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.348 \end{longtable}
-                      [10]
+                      [14]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
@@ -3768,16 +3912,16 @@ een already used, duplicate ignored
                    \relax 
 l.376     \item \textbf
                        {Sandrine TETART} â€” Enseignante NSI : Collaboration...
-[11])
+[15])
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.766 ...administratives/p4_chap2_administratives}
-                                                   [12]
-Overfull \hbox (39.73424pt too wide) in paragraph at lines 793--793
+l.767 ...administratives/p4_chap2_administratives}
+                                                   [16]
+Overfull \hbox (39.73424pt too wide) in paragraph at lines 794--794
 \T1/ptm/m/n/12 col-lèges et ly-cées [Cadre na-tio-nal de for-ma-tion des en-sei
 -gnants]. [][]$https : / / www . devenirenseignant .
  []
@@ -3789,19 +3933,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.793 \printbibliography[heading=none]
-                                       [13
+l.794 \printbibliography[heading=none]
+                                       [17
 
 
 
 ]
-Overfull \hbox (18.71039pt too wide) in paragraph at lines 793--793
+Overfull \hbox (18.71039pt too wide) in paragraph at lines 794--794
 [][][]\T1/ptm/m/sc/12 Ministère de l'Éducation nationale[]\T1/ptm/m/n/12 . (202
 1). Bac-ca-lau-réat spé-cia-lité Nu-mé-rique et Sciences
  []
 
 
-Overfull \hbox (27.80185pt too wide) in paragraph at lines 793--793
+Overfull \hbox (27.80185pt too wide) in paragraph at lines 794--794
 \T1/ptm/m/n/12 pren-tis-sages cri-tiques [Ré-fé-ren-tiel of-fi-ciel BUT In-for-
 ma-tique]. [][]$https : / / www . enseignementsup -[]
  []
@@ -3813,16 +3957,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.793 \printbibliography[heading=none]
-                                       [14] (main.ind)
+l.794 \printbibliography[heading=none]
+                                       [18] (main.ind)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.806 \end{document}
-                     [15] (main.aux (partie1/p1_chap1_introduction.aux)
+l.807 \end{document}
+                     [19] (main.aux (partie1/p1_chap1_introduction.aux)
 (partie1/p1_chap2_description_parcours.aux)
 (partie1/p1_chap3_formation_initiale.aux)
 (partie1/p1_chap4_formation_continue.aux)
@@ -3841,18 +3985,23 @@ l.806 \end{document}
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40095 strings out of 468149
- 809635 string characters out of 5430598
- 1758068 words of memory out of 5000000
- 67632 multiletter control sequences out of 15000+600000
+ 40888 strings out of 468149
+ 823297 string characters out of 5430598
+ 1772704 words of memory out of 5000000
+ 68409 multiletter control sequences out of 15000+600000
  741445 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,14n,91p,892b,3984s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,18n,87p,892b,3992s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/estebe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/symbols/msam10.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/fonts
@@ -3861,9 +4010,9 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmbi8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTeX
 /fonts/type1/urw/times/utmr8a.pfb><C:/Users/estebe/AppData/Local/Programs/MiKTe
 X/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (121 pages, 8793283 bytes).
+Output written on main.pdf (125 pages, 9097377 bytes).
 PDF statistics:
- 1576 PDF objects out of 1728 (max. 8388607)
- 316 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1672 PDF objects out of 1728 (max. 8388607)
+ 317 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 

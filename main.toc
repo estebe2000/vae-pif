@@ -266,6 +266,7 @@
 \contentsline {chapter}{Conclusion générale}{84}{chapter*.7}%
 \contentsline {part}{IV\hspace {1em}Annexes Illustratives}{}{part.4}%
 \contentsline {chapter}{\numberline {18}Annexes Pédagogiques}{}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Document d'évaluation distribué aux élèves : Notation à l'Enveloppe}{}{section.18.1}%
 \contentsline {chapter}{\numberline {19}Annexes Administratives et Justificatifs}{}{chapter.19}%
 \contentsline {section}{\numberline {19.1}Justificatifs de Formation}{}{section.19.1}%
 \contentsline {subsection}{Diplômes obtenus}{}{section.19.1}%
